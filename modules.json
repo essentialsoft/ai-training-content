@@ -41,12 +41,13 @@
   },
   {
     "id": 3,
-    "title": "Core Prompt-Engineering Patterns",
+    "title": "Prompt-Engineering",
     "description": "Role, context, constraints, clarity; reusable templates for code and docs",
     "icon": "MessageSquare",
     "color": "from-green-500 to-emerald-500",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "topics": ["Prompt Engineering", "AI Frameworks"]
+     "module_path": "/content/prompt-engineering"
   },
   {
     "id": 4,
