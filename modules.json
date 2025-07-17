@@ -46,7 +46,7 @@
     "icon": "MessageSquare",
     "color": "from-green-500 to-emerald-500",
     "difficulty": "Beginner",
-    "topics": ["Prompt Engineering", "AI Frameworks"]
+    "topics": ["Prompt Engineering", "AI Frameworks"],
      "module_path": "/content/prompt-engineering"
   },
   {
