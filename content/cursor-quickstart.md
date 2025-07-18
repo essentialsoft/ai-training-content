@@ -1,1 +1,1 @@
-## 1. Introduction to cursor
+## Introduction to cursor
