@@ -6,7 +6,7 @@ Your task is to generate a comprehensive **training module** for other AI system
 
 ---
 
-## 1. Introduction
+## Introduction
 
 ### Define 'Prompt-Engineering'
 - Prompt-engineering is the process of crafting clear, specific, and effective prompts to guide AI systems towards generating accurate and useful responses.
@@ -19,7 +19,7 @@ Your task is to generate a comprehensive **training module** for other AI system
 
 ---
 
-## 2. Understanding Prompts
+## Understanding Prompts
 
 ### Anatomy of a Good Prompt
 - Clarity: Clear instructions without ambiguity.
@@ -33,7 +33,7 @@ Your task is to generate a comprehensive **training module** for other AI system
 
 ---
 
-## 3. Types of Prompts
+## Types of Prompts
 
 | Type         | Description                        | Example                                      |
 |--------------|------------------------------------|----------------------------------------------|
@@ -48,7 +48,7 @@ Your task is to generate a comprehensive **training module** for other AI system
 
 ---
 
-## 4. Best Practices for Effective Prompts
+## Best Practices for Effective Prompts
 
 - Keep prompts concise yet informative.
 - Use simple, direct language; avoid ambiguity.
@@ -58,7 +58,7 @@ Your task is to generate a comprehensive **training module** for other AI system
 
 ---
 
-## 5. Common Pitfalls in Prompt-Engineering
+## Common Pitfalls in Prompt-Engineering
 
 ### Typical Mistakes
 - Vague or overly broad prompts.
@@ -76,7 +76,7 @@ Your task is to generate a comprehensive **training module** for other AI system
 
 ---
 
-## 6. Iterative Improvement
+## Iterative Improvement
 
 ### Refinement Process
 1. Draft initial prompt.
@@ -91,7 +91,7 @@ Your task is to generate a comprehensive **training module** for other AI system
 
 ---
 
-## 7. Case Studies: Success Through Prompt-Engineering
+## Case Studies: Success Through Prompt-Engineering
 
 ### Example: Healthcare Chatbot
 - Problem: Vague symptom descriptions led to poor AI responses.
@@ -106,7 +106,7 @@ Effective prompts directly impact performance quality and user satisfaction.
 
 ---
 
-## 8. Hands-On Exercises
+## Hands-On Exercises
 
 ### Exercise Set
 1. Identify and improve weak prompts.
@@ -119,7 +119,7 @@ Effective prompts directly impact performance quality and user satisfaction.
 
 ---
 
-## 9. Conclusion
+## Conclusion
 
 ### Key Takeaways
 - Prompt-engineering is fundamental to achieving high-quality AI outputs.

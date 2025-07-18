@@ -1,6 +1,6 @@
 # Comprehensive Training Guide: Using VS Code Copilot Effectively
 
-## 1. Introduction to VS Code Copilot
+## Introduction to VS Code Copilot
 
 **What is VS Code Copilot?**
 
@@ -10,7 +10,7 @@ Visual Studio Code Copilot is an AI-powered pair programmer developed by GitHub 
 
 The primary purpose of VS Code Copilot is to enhance developer productivity and efficiency. It helps developers write code faster, learn new languages and libraries, and reduce the time spent on boilerplate and repetitive tasks. Copilot acts as a knowledgeable assistant that can offer solutions to coding problems, suggest best practices, and help you navigate unfamiliar codebases.
 
-## 2. Installation and Setup
+## Installation and Setup
 
 Follow these steps to install and configure VS Code Copilot:
 
@@ -21,7 +21,7 @@ Follow these steps to install and configure VS Code Copilot:
 5.  **Authorize with GitHub**: After installation, you will be prompted to sign in to your GitHub account to authorize the extension. Follow the on-screen instructions to complete the authorization process.
 6.  **Configuration**: Once installed and authorized, Copilot is ready to use. You can manage its settings by navigating to `File > Preferences > Settings` and searching for "Copilot".
 
-## 3. Basic Usage Tips
+## Basic Usage Tips
 
 **Invoking Suggestions**
 
@@ -37,7 +37,7 @@ Copilot automatically provides suggestions as you type. You can also manually tr
 
 Copilot uses the context of your current file and other open files to provide relevant suggestions. This includes the code you've written, comments, and even the file's language. The more context you provide, the more accurate and helpful Copilot's suggestions will be.
 
-## 4. Advanced Features
+## Advanced Features
 
 **Customizing Suggestions**
 
@@ -88,7 +88,7 @@ GitHub Copilot's capabilities can be enhanced by integrating it with other VS Co
 
 The Model Context Protocol (MCP) is the underlying technology that allows VS Code extensions to provide context to GitHub Copilot. It acts as a bridge, enabling tools like the Docker extension or the debugger to feed relevant information into Copilot's language model. As a developer, you don't interact with MCP directly, but it's the magic that makes Copilot "aware" of more than just your open files, leading to smarter and more contextually relevant suggestions.
 
-## 5. Best Practices
+## Best Practices
 
 **Crafting Clear Prompts**
 
@@ -118,13 +118,13 @@ When Copilot generates code that uses a library or language feature you're unfam
 
 Use Copilot to automate repetitive tasks, such as writing unit tests, generating documentation, or creating configuration files. This frees up your time to focus on more complex and creative aspects of software development.
 
-## 6. Common Pitfalls
+## Common Pitfalls
 
 *   **Over-reliance**: Don't blindly accept every suggestion from Copilot. Always review the code to ensure it's correct, secure, and efficient.
 *   **Ignoring Context**: If Copilot's suggestions seem irrelevant, it may be because it lacks sufficient context. Make sure your file has enough code and comments to guide the AI.
 *   **Security Vulnerabilities**: Copilot-generated code may sometimes contain security vulnerabilities. Always follow security best practices and use static analysis tools to scan your code.
 
-## 7. Real-World Scenarios
+## Real-World Scenarios
 
 **Example: Building a Simple Web Scraper in Python**
 
@@ -134,13 +134,13 @@ You can use Copilot to quickly generate a Python script that scrapes data from a
 
 When building a React application, you can describe the component you need in a comment, and Copilot will generate the JSX and JavaScript code for you, including state management and event handlers.
 
-## 8. Resources for Further Learning
+## Resources for Further Learning
 
 *   **Official Documentation**: The [GitHub Copilot Documentation](https://docs.github.com/en/copilot) is the best place to start for detailed information.
 *   **GitHub Community**: Join the [GitHub Community forum](https://github.community/c/copilot/15) to ask questions and share your experiences with other Copilot users.
 *   **Tutorials**: You can find numerous tutorials and guides on YouTube and other learning platforms that demonstrate how to use Copilot effectively.
 
-## 9. Hot Trends and Keywords
+## Hot Trends and Keywords
 
 As AI in software development evolves, staying updated with the latest trends and terminology related to GitHub Copilot is crucial. Here are some of the current hot topics and keywords:
 
