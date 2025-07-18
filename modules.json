@@ -1,0 +1,196 @@
+[
+  {
+    "id": 1,
+    "title": "Generative AI Fundamentals for Developers",
+    "description": "Master transformers, diffusion models, and why they matter in everyday coding",
+    "icon": "BookOpen",
+    "color": "from-blue-500 to-cyan-500",
+    "difficulty": "Beginner",
+    "topics": ["AI Frameworks", "Fundamentals"],
+    "module_path": "/content/fundamentals"
+  },
+  {
+    "id": 2,
+    "title": "Predictive vs Generative AI in the SDLC",
+    "description": "Learn to choose the right approach for coding, testing, docs, and DevOps",
+    "icon": "Zap",
+    "color": "from-purple-500 to-pink-500",
+    "difficulty": "Beginner",
+    "topics": ["AI in Software Development", "Fundamentals"],
+    "module_path": "/content/predictive-vs-generative"
+  },
+  {
+    "id": 6,
+    "title": "GitHub Copilot Essentials",
+    "description": "Integrate Copilot across full-stack projects; accept/edit/reject best-practices",
+    "icon": "Github",
+    "color": "from-gray-500 to-slate-500",
+    "difficulty": "Beginner",
+    "topics": ["Copilot", "AI Tools"],
+    "module_path": "/content/copilot-essentials"
+  },
+  {
+    "id": 8,
+    "title": "Cursor IDE Quick-Start",
+    "description": "AI-assisted navigation, inline chat, context windows for large codebases",
+    "icon": "MousePointer",
+    "color": "from-teal-500 to-cyan-500",
+    "difficulty": "Beginner",
+    "topics": ["AI Tools", "IDE"],
+    "module_path": "/content/cursor-quickstart"
+  },
+  {
+    "id": 3,
+    "title": "Prompt-Engineering",
+    "description": "Role, context, constraints, clarity; reusable templates for code and docs",
+    "icon": "MessageSquare",
+    "color": "from-green-500 to-emerald-500",
+    "difficulty": "Beginner",
+    "topics": ["Prompt Engineering", "AI Frameworks"],
+     "module_path": "/content/prompt-engineering"
+  },
+  {
+    "id": 4,
+    "title": "Advanced Prompt Techniques",
+    "description": "Zero-shot, few-shot, chain-of-thought/tree-of-thought, prompt libraries",
+    "icon": "Lightbulb",
+    "color": "from-yellow-500 to-orange-500",
+    "difficulty": "Intermediate",
+    "topics": ["Prompt Engineering", "AI Frameworks"]
+  },
+  {
+    "id": 5,
+    "title": "Prompt Testing, Evaluation & Guardrails",
+    "description": "Catch hallucinations, enforce tone/format with Promptfoo & Guardrails",
+    "icon": "Shield",
+    "color": "from-red-500 to-pink-500",
+    "difficulty": "Intermediate",
+    "topics": ["AI Safety", "Prompt Engineering"]
+  },
+  {
+    "id": 10,
+    "title": "Lovable Design-to-Code Automation",
+    "description": "Extract Figma tokens and generate component specs & stories",
+    "icon": "Figma",
+    "color": "from-pink-500 to-rose-500",
+    "difficulty": "Intermediate",
+    "topics": ["AI Tools", "Design Systems"]
+  },
+  {
+    "id": 11,
+    "title": "Docs & Changelog Generation with LLMs",
+    "description": "Turn commits and PRs into polished Markdown and release notes",
+    "icon": "FileText",
+    "color": "from-blue-500 to-indigo-500",
+    "difficulty": "Intermediate",
+    "topics": ["AI in Software Development", "Documentation"]
+  },
+  {
+    "id": 7,
+    "title": "Deep-Dive: Copilot Power-User Workflows",
+    "description": "Pair programming, multi-file generation, refactor & test scaffolding",
+    "icon": "Code",
+    "color": "from-indigo-500 to-purple-500",
+    "difficulty": "Advanced",
+    "topics": ["Copilot", "AI Tools"]
+  },
+  {
+    "id": 9,
+    "title": "Cursor Advanced Automation",
+    "description": "Refactoring scripts, custom commands, expert prompt packs",
+    "icon": "Wand2",
+    "color": "from-violet-500 to-purple-500",
+    "difficulty": "Advanced",
+    "topics": ["AI Tools", "IDE"]
+  },
+  {
+    "id": 12,
+    "title": "Model Context Protocol (MCP) Foundations",
+    "description": "Tool manifests, prompt endpoints, structured outputs",
+    "icon": "Network",
+    "color": "from-emerald-500 to-teal-500",
+    "difficulty": "Advanced",
+    "topics": ["AI Frameworks", "Protocol"]
+  },
+  {
+    "id": 13,
+    "title": "Building Your First MCP Tool",
+    "description": "Component builder/changelog generator with @modelcontextprotocol/sdk",
+    "icon": "Wrench",
+    "color": "from-orange-500 to-red-500",
+    "difficulty": "Advanced",
+    "topics": ["AI Tools", "Protocol"]
+  },
+  {
+    "id": 14,
+    "title": "Retrieval-Augmented Generation (RAG) for Engineering",
+    "description": "Chunking, embeddings, vector search with LangChain & LlamaIndex",
+    "icon": "Search",
+    "color": "from-cyan-500 to-blue-500",
+    "difficulty": "Advanced",
+    "topics": ["AI Frameworks", "RAG"]
+  },
+  {
+    "id": 15,
+    "title": "Hands-On RAG Docbot",
+    "description": "Answer README & Lovable questions via Vercel AI SDK",
+    "icon": "Bot",
+    "color": "from-green-500 to-cyan-500",
+    "difficulty": "Advanced",
+    "topics": ["Agents", "RAG"]
+  },
+  {
+    "id": 18,
+    "title": "Small & Multimodal Models in Practice",
+    "description": "Phi-3, Gemma, Mistral, image/code/voice inputs, on-device assistants",
+    "icon": "Cpu",
+    "color": "from-yellow-500 to-orange-500",
+    "difficulty": "Advanced",
+    "topics": ["AI Frameworks", "Multimodal"]
+  },
+  {
+    "id": 19,
+    "title": "AI-Driven Static Analysis & Test Generation",
+    "description": "Find bugs, anti-patterns; fuzz, unit, integration & E2E tests",
+    "icon": "Bug",
+    "color": "from-red-500 to-orange-500",
+    "difficulty": "Advanced",
+    "topics": ["AI in Software Development", "Testing"]
+  },
+  {
+    "id": 21,
+    "title": "AI Agents and Platform",
+    "description": "Build intelligent agents with platform integration, multi-agent orchestration, and autonomous task execution",
+    "icon": "ZapIcon",
+    "color": "from-purple-500 to-blue-500",
+    "difficulty": "Advanced",
+    "topics": ["Agents", "AI Frameworks"]
+  },
+  {
+    "id": 16,
+    "title": "Autonomous Agents & Task Planners",
+    "description": "AutoGen, CrewAI, DSPy; decompose PRDs into dev tasks",
+    "icon": "Bot",
+    "color": "from-purple-500 to-indigo-500",
+    "difficulty": "Expert",
+    "topics": ["Agents", "AI Frameworks"]
+  },
+  {
+    "id": 17,
+    "title": "Agent Orchestration in n8n & MCP",
+    "description": "Multi-step workflows: generate component → write tests → draft docs",
+    "icon": "Workflow",
+    "color": "from-teal-500 to-green-500",
+    "difficulty": "Expert",
+    "topics": ["Agents", "Workflow"]
+  },
+  {
+    "id": 20,
+    "title": "Capstone: End-to-End AI-Enhanced SDLC",
+    "description": "Apply agents, RAG, MCP, Copilot & prompts to ship a full feature",
+    "icon": "Trophy",
+    "color": "from-gold-500 to-yellow-500 via-amber-500",
+    "difficulty": "Expert",
+    "topics": ["AI in Software Development", "Capstone"]
+  }
+]
