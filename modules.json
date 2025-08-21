@@ -164,7 +164,8 @@
     "icon": "ZapIcon",
     "color": "from-purple-500 to-blue-500",
     "difficulty": "Advanced",
-    "topics": ["Agents", "AI Frameworks"]
+    "topics": ["Agents", "AI Frameworks"],
+    "module_path": "/content/agentic-ai-course"
   },
   {
     "id": 16,
