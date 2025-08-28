@@ -5,6 +5,9 @@
 - **Instructor:** Ed Donner  
 - **Last updated:** June 2025  
 
+## Description
+This is an intensive 6-week program to master Agentic AI. We start by building foundational expertise, connecting LLMs using proven design patterns. Then, each week, we upskill with new frameworks: OpenAI Agents SDK, CrewAI, LangGraph and Autogen. The course culminates with a full week on the remarkable opportunities opened up by MCP.
+
 ## What you'll learn
 1. Build AI Agent Fundamental (no Framework)  
 2. Build AI Agent using OpenAI Agents SDKs  
@@ -14,5 +17,3 @@
 6. Build AI Agent using AutoGen  
 7. MCP  
 
-## Description
-This is an intensive 6-week program to master Agentic AI. We start by building foundational expertise, connecting LLMs using proven design patterns. Then, each week, we upskill with new frameworks: OpenAI Agents SDK, CrewAI, LangGraph and Autogen. The course culminates with a full week on the remarkable opportunities opened up by MCP.
