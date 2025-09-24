@@ -132,4 +132,4 @@ Practice regularly. Experiment widely. Refine consistently.
 ---
 
 ## Additional Resources
-attach reference website, udemy training course, youtube training vidoe.
+attach reference website, udemy training course, youtube training video.
