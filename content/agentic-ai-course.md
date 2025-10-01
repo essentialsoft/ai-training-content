@@ -4,7 +4,8 @@ The Agentic AI Systems Training Module is designed to build expertise in develop
 
 ---
 
-## Course: [The Complete Agentic AI Engineering](https://essentialsoft.udemy.com/course/the-complete-agentic-ai-engineering-course/learn/lecture/49771331?kw=complete+agentic&src=sac#overview)
+## Course 1: 
+[The Complete Agentic AI Engineering](https://essentialsoft.udemy.com/course/the-complete-agentic-ai-engineering-course/learn/lecture/49771331?kw=complete+agentic&src=sac#overview)
 
 - **Training Site:** Udemy  
 - **Course Length:** 17 hours  
@@ -25,7 +26,8 @@ This is an intensive 6-week program to master Agentic AI. We start by building f
 
 ---
 
-# Course: [AI in Production: Gen AI and Agentic AI at scale](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)
+## Course 2:
+[AI in Production: Gen AI and Agentic AI at scale](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)
 
 - **Training Site:** Udemy  
 - **Course Length:** 18.5 hours  
@@ -45,7 +47,8 @@ Deploy AI to AWS, GCP, Azure, Vercel with MLOps, Bedrock, SageMaker, RAG, Agents
 
 ---
 
-# Course: [Build Multi-Agent Automation Workflows](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)
+## Course 3:
+[Build Multi-Agent Automation Workflows](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)
 
 - **Training Site:** Udemy  
 - **Course Length:** 10 hours  
