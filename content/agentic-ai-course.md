@@ -17,3 +17,21 @@ This is an intensive 6-week program to master Agentic AI. We start by building f
 6. Build AI Agent using AutoGen  
 7. MCP  
 
+
+# Course: [AI in Production: Gen AI and Agentic AI at scale](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)]
+
+- **Training Site:** Udemy  
+- **Course Length:** 18.5 hours  
+- **Instructor:** Ed Donner  
+- **Last updated:** Sept. 2025  
+
+## Description
+Deploy AI to AWS, GCP, Azure, Vercel with MLOps, Bedrock, SageMaker, RAG, Agents, MCP: scalable, secure and observable.
+
+## What you'll learn
+1. Deploy SaaS LLM apps to production on Vercel, AWS, Azure, and GCP, using Clerk
+2. Design cloud architectures with Lambda, S3, CloudFront, SQS, Route 53, App Runner and API Gateway
+3. Integrate with Amazon Bedrock and SageMaker, and build with GPT-5, Claude 4, OSS, AWS Nova and HuggingFace
+4. Rollout to Dev, Test and Prod automatically with Terraform and ship continuously via GitHub Actions
+5. Deliver enterprise-grade AI solutions that are scalable, secure, monitored, explainable, observable, and controlled with guardrails.
+6. Create Multi-Agent systems and Agentic Loops with Amazon Bedrock AgentCore and Stands Agents
