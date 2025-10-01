@@ -17,6 +17,7 @@ This is an intensive 6-week program to master Agentic AI. We start by building f
 6. Build AI Agent using AutoGen  
 7. MCP  
 
+---
 
 # Course: [AI in Production: Gen AI and Agentic AI at scale](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)]
 
