@@ -19,7 +19,7 @@ This is an intensive 6-week program to master Agentic AI. We start by building f
 
 ---
 
-# Course: [AI in Production: Gen AI and Agentic AI at scale](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)]
+# Course: [AI in Production: Gen AI and Agentic AI at scale](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)
 
 - **Training Site:** Udemy  
 - **Course Length:** 18.5 hours  
