@@ -50,6 +50,16 @@
      "module_path": "/content/prompt-engineering"
   },
   {
+    "id": 21,
+    "title": "Agentic AI System",
+    "description": "Build intelligent agents with platform integration, multi-agent orchestration, and autonomous task execution",
+    "icon": "ZapIcon",
+    "color": "from-purple-500 to-blue-500",
+    "difficulty": "Advanced",
+    "topics": ["Agents", "AI Frameworks"],
+    "module_path": "/content/agentic-ai-course"
+  },
+  {
     "id": 4,
     "title": "Advanced Prompt Techniques",
     "description": "Zero-shot, few-shot, chain-of-thought/tree-of-thought, prompt libraries",
@@ -156,16 +166,6 @@
     "color": "from-red-500 to-orange-500",
     "difficulty": "Advanced",
     "topics": ["AI in Software Development", "Testing"]
-  },
-  {
-    "id": 21,
-    "title": "AI Agents and Platform",
-    "description": "Build intelligent agents with platform integration, multi-agent orchestration, and autonomous task execution",
-    "icon": "ZapIcon",
-    "color": "from-purple-500 to-blue-500",
-    "difficulty": "Advanced",
-    "topics": ["Agents", "AI Frameworks"],
-    "module_path": "/content/agentic-ai-course"
   },
   {
     "id": 16,
