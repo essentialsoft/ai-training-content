@@ -46,7 +46,7 @@ Deploy AI to AWS, GCP, Azure, Vercel with MLOps, Bedrock, SageMaker, RAG, Agents
 
 ---
 
-# Course 3: Course Title:** [Build Multi-Agent Automation Workflows](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)
+# Course 3: [Build Multi-Agent Automation Workflows](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)
 
 - **Training Site:** Udemy  
 - **Course Length:** 10 hours  
