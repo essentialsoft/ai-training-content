@@ -1,7 +1,9 @@
 # Learning Objectives
-
-The Agentic AI Systems Training Module is designed to build expertise in developing and deploying intelligent, autonomous agents and multi-agent systems. Participants gain a solid foundation in LLMs, context engineering, and the Model Context Protocol (MCP), then advance to building specialized agents and reusable workflows. The module emphasizes real-world application—covering automation, collaboration, human-in-the-loop strategies, and enterprise-scale deployment with modern MLOps practices. By the end, learners will be equipped to design scalable, secure, and adaptive agentic AI solutions capable of executing complex tasks and operating effectively in production environments.
-
+- Develop expertise in intelligent, autonomous agents and multi-agent systems.
+- Gain a solid foundation in LLMs, context engineering, and the Model Context Protocol (MCP).
+- Build specialized agents and reusable workflows for real-world applications.
+- Apply automation, collaboration, and human-in-the-loop strategies using modern MLOps practices.
+- Design scalable, secure, and adaptive agentic AI solutions for production environments.
 
 # Start the Traning 
 
