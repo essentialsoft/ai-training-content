@@ -1,12 +1,13 @@
-# Module Summary: Agentic AI Systems
+# Learning Objectives
 
 The Agentic AI Systems Training Module is designed to build expertise in developing and deploying intelligent, autonomous agents and multi-agent systems. Participants gain a solid foundation in LLMs, context engineering, and the Model Context Protocol (MCP), then advance to building specialized agents and reusable workflows. The module emphasizes real-world application—covering automation, collaboration, human-in-the-loop strategies, and enterprise-scale deployment with modern MLOps practices. By the end, learners will be equipped to design scalable, secure, and adaptive agentic AI solutions capable of executing complex tasks and operating effectively in production environments.
 
 
+# Start the Traning 
 ---
+## [The Complete Agentic AI Engineering](https://essentialsoft.udemy.com/course/the-complete-agentic-ai-engineering-course/learn/lecture/49771331?kw=complete+agentic&src=sac#overview)
 
-# Course 1: [The Complete Agentic AI Engineering](https://essentialsoft.udemy.com/course/the-complete-agentic-ai-engineering-course/learn/lecture/49771331?kw=complete+agentic&src=sac#overview)
-
+- **Type:** Course
 - **Training Site:** Udemy  
 - **Course Length:** 17 hours  
 - **Instructor:** Ed Donner  
@@ -26,8 +27,9 @@ This is an intensive 6-week program to master Agentic AI. We start by building f
 
 ---
 
-# Course 2: [Build Multi-Agent Automation Workflows](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)
+## [Build Multi-Agent Automation Workflows](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)
 
+- **Type:** Course
 - **Training Site:** Udemy  
 - **Course Length:** 10 hours  
 - **Instructor:** Rahul Shetty Academy  
@@ -47,8 +49,9 @@ You’ll start by mastering the core foundations – Large Language Models (LLMs
 
 ---
 
-# Course 3: [AI in Production: Gen AI and Agentic AI at scale](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)
+## [AI in Production: Gen AI and Agentic AI at scale](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)
 
+- **Type:** Course
 - **Training Site:** Udemy  
 - **Course Length:** 18.5 hours  
 - **Instructor:** Ed Donner  
