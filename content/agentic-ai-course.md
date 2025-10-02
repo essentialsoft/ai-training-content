@@ -2,7 +2,7 @@
 
 The Agentic AI Systems Training Module is designed to build expertise in developing and deploying intelligent, autonomous agents and multi-agent systems. Participants gain a solid foundation in LLMs, context engineering, and the Model Context Protocol (MCP), then advance to building specialized agents and reusable workflows. The module emphasizes real-world application—covering automation, collaboration, human-in-the-loop strategies, and enterprise-scale deployment with modern MLOps practices. By the end, learners will be equipped to design scalable, secure, and adaptive agentic AI solutions capable of executing complex tasks and operating effectively in production environments.
 
----
+
 ---
 
 # Course 1: [The Complete Agentic AI Engineering](https://essentialsoft.udemy.com/course/the-complete-agentic-ai-engineering-course/learn/lecture/49771331?kw=complete+agentic&src=sac#overview)
@@ -26,27 +26,7 @@ This is an intensive 6-week program to master Agentic AI. We start by building f
 
 ---
 
-# Course 2: [AI in Production: Gen AI and Agentic AI at scale](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)
-
-- **Training Site:** Udemy  
-- **Course Length:** 18.5 hours  
-- **Instructor:** Ed Donner  
-- **Last updated:** Sept. 2025  
-
-## Description
-Deploy AI to AWS, GCP, Azure, Vercel with MLOps, Bedrock, SageMaker, RAG, Agents, MCP: scalable, secure and observable.
-
-## What you'll learn
-1. Deploy SaaS LLM apps to production on Vercel, AWS, Azure, and GCP, using Clerk
-2. Design cloud architectures with Lambda, S3, CloudFront, SQS, Route 53, App Runner and API Gateway
-3. Integrate with Amazon Bedrock and SageMaker, and build with GPT-5, Claude 4, OSS, AWS Nova and HuggingFace
-4. Rollout to Dev, Test and Prod automatically with Terraform and ship continuously via GitHub Actions
-5. Deliver enterprise-grade AI solutions that are scalable, secure, monitored, explainable, observable, and controlled with guardrails.
-6. Create Multi-Agent systems and Agentic Loops with Amazon Bedrock AgentCore and Stands Agents
-
----
-
-# Course 3: [Build Multi-Agent Automation Workflows](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)
+# Course 2: [Build Multi-Agent Automation Workflows](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)
 
 - **Training Site:** Udemy  
 - **Course Length:** 10 hours  
@@ -64,3 +44,23 @@ You’ll start by mastering the core foundations – Large Language Models (LLMs
 3. Develop specialized agents for bug analysis, browser automation, API testing, and data analysis
 4. Design autonomous, collaborative agents with context engineering and human-in-loop strategies
 5. Apply Agent Factory patterns and real-world MCP configurations
+
+---
+
+# Course 3: [AI in Production: Gen AI and Agentic AI at scale](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)
+
+- **Training Site:** Udemy  
+- **Course Length:** 18.5 hours  
+- **Instructor:** Ed Donner  
+- **Last updated:** Sept. 2025  
+
+## Description
+Deploy AI to AWS, GCP, Azure, Vercel with MLOps, Bedrock, SageMaker, RAG, Agents, MCP: scalable, secure and observable.
+
+## What you'll learn
+1. Deploy SaaS LLM apps to production on Vercel, AWS, Azure, and GCP, using Clerk
+2. Design cloud architectures with Lambda, S3, CloudFront, SQS, Route 53, App Runner and API Gateway
+3. Integrate with Amazon Bedrock and SageMaker, and build with GPT-5, Claude 4, OSS, AWS Nova and HuggingFace
+4. Rollout to Dev, Test and Prod automatically with Terraform and ship continuously via GitHub Actions
+5. Deliver enterprise-grade AI solutions that are scalable, secure, monitored, explainable, observable, and controlled with guardrails.
+6. Create Multi-Agent systems and Agentic Loops with Amazon Bedrock AgentCore and Stands Agents
