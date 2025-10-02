@@ -4,7 +4,7 @@ The Agentic AI Systems Training Module is designed to build expertise in develop
 
 
 # Start the Traning 
----
+
 ## [The Complete Agentic AI Engineering](https://essentialsoft.udemy.com/course/the-complete-agentic-ai-engineering-course/learn/lecture/49771331?kw=complete+agentic&src=sac#overview)
 
 - **Type:** Course
