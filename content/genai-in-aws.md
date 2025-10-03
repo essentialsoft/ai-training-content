@@ -13,7 +13,7 @@ This module provides hands-on training with Amazon Bedrock, AgentCore, and SageM
 - Evaluate production deployment strategies for AI solutions on AWS.  
 
 ## Start the Course
-### [Amazon Bedrock - The Complete Guide to AWS Generative AI](https://www.udemy.com/course/amazon-bedrock-aws-generative-ai/)  
+### Amazon Bedrock - The Complete Guide to AWS Generative AI
 **Instructor**: Alex Dan, Bryan Krausen  
 **Duration**: 8 hours  
 **Last Updated**: August 2025  
@@ -22,7 +22,7 @@ This Udemy course introduces Amazon Bedrock, covering model deployment, Knowledg
 
 Access course via [Udemy](https://www.udemy.com/course/amazon-bedrock-aws-generative-ai/)  
 
-### [Ultimate Agentic AI Course on AWS: Bedrock, Crew AI & MCP](https://www.udemy.com/course/aws-ai-agents-complete-course-hands-on/)  
+### Ultimate Agentic AI Course on AWS: Bedrock, Crew AI & MCP
 **Instructor**: Rahul Trisal  
 **Duration**: 9.5 hours  
 **Last Updated**: September 2025  
@@ -31,7 +31,7 @@ This course provides practical instruction on creating agentic AI systems with A
 
 Access course via [Udemy](https://www.udemy.com/course/aws-ai-agents-complete-course-hands-on/)  
 
-### [Amazon AgentCore: Scale Your Agentic AI to Production](https://www.udemy.com/course/amazon-bedrock-agentcore/)  
+### Amazon AgentCore: Scale Your Agentic AI to Production
 **Instructor**: Bibhash Roy  
 **Duration**: 5 hours  
 **Last Updated**: September 2025  
@@ -40,7 +40,7 @@ This focused course explores Bedrock AgentCore, enabling learners to build produ
 
 Access course via [Udemy](https://www.udemy.com/course/amazon-bedrock-agentcore/)  
 
-### [Getting Started with Amazon Bedrock](https://www.coursera.org/learn/getting-started-with-amazon-bedrock)  
+### Getting Started with Amazon Bedrock
 **Instructor**: Amazon Web Services Training Team  
 **Duration**: 6 hours  
 **Last Updated**: August 2025   
@@ -49,7 +49,7 @@ This Coursera course introduces Amazon Bedrock fundamentals, including setup, se
 
 Access course via [Coursera](https://www.coursera.org/learn/getting-started-with-amazon-bedrock)  
 
-### [Amazon SageMaker](https://www.udemy.com/course/amazon-sagemaker-course/)  
+### Amazon SageMaker
 **Instructor**: Jose Portilla, Pierian Training  
 **Duration**: 16 hours  
 **Last Updated**: May 2024 
