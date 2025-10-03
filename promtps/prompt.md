@@ -85,9 +85,9 @@ Below is the template. You need to print the final output in a MARKDOWN FILE.
 <!--  Module Title -->
 # <Your module title here>
 
-** Difficulty ** :  <One of: Beginner | Intermediate | Advanced | Expert>
+**Difficulty** :  <One of: Beginner | Intermediate | Advanced | Expert>
 
-** Topics ** : <One or more from the controlled list, comma‑separated>
+**Topics** : <One or more from the controlled list, comma‑separated>
 
 <!--  MODULE PAGE METADATA -->
 
