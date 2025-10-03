@@ -37,12 +37,12 @@ This is an intensive 6-week program to master Agentic AI. We start by building f
 - **Instructor:** Rahul Shetty Academy  
 - **Last updated:** September 2025 
 
-## Description
+### Description
 This course is your ultimate guide to building Autonomous AI Agents with AutoGen & MCP –End-to-End Agentic AI Workflows with 6 Agents for Real-World Automation. Even if you're new to this space, we start from the absolute basics—no prior knowledge of agent frameworks is required.
 
 You’ll start by mastering the core foundations – Large Language Models (LLMs), AI Agents, Multi-Agents, and the Model Context Protocol (MCP), which serves as the backbone for agent-to-tool communication. Next, you’ll learn how to engineer contexts and craft prompts that unlock the true potential of your AI agents.
 
-## What you'll learn
+### What you'll learn
 1. Fundamentals of LLMs, AI Agents, MCP, and Multi-Agent Systems
 2. Build workflows and reusable agents with the AutoGen Framework
 3. Develop specialized agents for bug analysis, browser automation, API testing, and data analysis
@@ -51,7 +51,7 @@ You’ll start by mastering the core foundations – Large Language Models (LLMs
 
 ---
 
-## [Agentic AI for Developers](https://app.pluralsight.com/library/courses/agentic-ai-developers)
+### [Agentic AI for Developers](https://app.pluralsight.com/library/courses/agentic-ai-developers)
 
 - **Type:** Course
 - **Training Site:** PluralSight  
@@ -59,10 +59,10 @@ You’ll start by mastering the core foundations – Large Language Models (LLMs
 - **Instructor:** Bogdan Sucaciu  
 - **Last updated:** Jul 2025  
 
-## Description
+### Description
 Agentic AI is transforming how developers build and automate software by enabling systems that reason, use tools, and handle real-world dev and ops tasks. In this course, you’ll learn to use coding agents to boost productivity and innovation across the SDLC, and explore Claude Code to make vibe coding more effective.
 
-## What you'll learn
+### What you'll learn
 1. Design and integrate agentic AI systems into real-world software workflows.
 2. Explore the core principles of agentic AI and how they differ from traditional ML and generative models.
 3. Use agentic coding with LLMs, memory, and APIs to drive productivity and innovation across the SDLC.
