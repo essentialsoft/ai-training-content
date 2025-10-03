@@ -29,7 +29,6 @@ Access course via [Udemy](https://essentialsoft.udemy.com/course/the-complete-ag
 
 ---
 
-## Start the Course  
 ### Agentic AI for Automation: Multi-Agent Autogen**  
 
 Instructor: Rahul Shetty Academy  
@@ -42,7 +41,6 @@ Access course via [Udemy](https://essentialsoft.udemy.com/course/agentic-ai-for-
 
 ---
 
-## Start the Course  
 ### Agentic AI for Developers**  
 
 Instructor: Investigate  
