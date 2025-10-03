@@ -46,8 +46,8 @@ Access course via [Udemy](https://essentialsoft.udemy.com/course/agentic-ai-for-
 **Agentic AI for Developers**  
 
 Instructor: Investigate  
-Duration: self-paced  
-Last Updated: Not stated  
+Duration: 1 hour 24 minutes  
+Last Updated: July 2025  
 
 This Pluralsight course focuses on empowering developers to integrate agentic AI into everyday software projects. It covers the foundations of agent design, integration patterns, and best practices for enhancing productivity and scalability. Learners walk away with actionable skills to embed agentic AI into their development cycle.  
 
