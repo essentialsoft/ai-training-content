@@ -17,7 +17,7 @@ This module explores advanced practices in building, orchestrating, and deployin
 ---
 
 ## Start the Course  
-### The Complete Agentic AI Engineering**  
+### The Complete Agentic AI Engineering
 
 Instructor: Ed Donner  
 Duration: 17 hours  
@@ -29,7 +29,7 @@ Access course via [Udemy](https://essentialsoft.udemy.com/course/the-complete-ag
 
 ---
 
-### Agentic AI for Automation: Multi-Agent Autogen**  
+### Agentic AI for Automation: Multi-Agent Autogen
 
 Instructor: Rahul Shetty Academy  
 Duration: 10 hours  
@@ -41,7 +41,7 @@ Access course via [Udemy](https://essentialsoft.udemy.com/course/agentic-ai-for-
 
 ---
 
-### Agentic AI for Developers**  
+### Agentic AI for Developers
 
 Instructor: Investigate  
 Duration: 1 hour 24 minutes  
