@@ -40,8 +40,8 @@ Fields and constraints come from ESI's Module template:
 6. **Courses** (1–3 entries). For each course, include exactly:
    - [Exact course title, hyperlinked] → link to the course's official landing page on its platform.
    - **Instructor**: Full name and credentials (per course bio; if none, provide full name only).
-   - **Duration**: If < 60 minutes → "NN minutes". If ≥ 60 minutes → "H hours" (round to one decimal, e.g., 1.5 hours). If the course lists hours & minutes, convert to hours with one decimal.
-   - **Last Updated**: The most recent "last updated" or "published" date visible on the course page. Format as "Month D, YYYY". If not available, write "Not stated".
+   - **Duration**: If < 60 minutes → "NN minutes". If ≥ 60 minutes → "H hours" (round to one decimal, e.g., 1.5 hours). If the course lists hours & minutes, convert to hours with one decimal. "self-paced" if there's no duration
+   - **Last Updated**: The most recent "last updated" or "published" date visible on the course page. Format as "Month D, YYYY". If not available, write "Not stated". Leave it blank if there's no updated time. 
    - **50‑word description**: Summarize audience, what is covered, and the outcome (≈50 words, 45–55 allowed).
 
 
@@ -106,23 +106,17 @@ Below is the template. You need to print the final output in a MARKDOWN FILE.
 - <Objective 5 (optional)>
 
 #### Start the Course
-[<Exact course title>](<course URL>)  
+<Exact course title> 
 **Instructor**: <Full name and credentials if listed>  
-**Duration**: <NN minutes | H hours>  
-**Last Updated**: <Month D, YYYY | Not stated>
+**Duration**: <NN minutes | H hours | self-paced>  
+**Last Updated**: < YYYY | Not stated>
 
 <~50‑word course description here>
 
 Access course via [<Platform Name>](<course URL>)  
 
-[<Exact course title>](<course URL>)  
-**Instructor**: <Full name and credentials if listed>  
-**Duration**: <NN minutes | H hours>  
-**Last Updated**: <Month D, YYYY | Not stated>
 
-<~50‑word course description here>
 
-Access course via [<Platform Name>](<course URL>)  
 
 ## QC Checklist (Quality Check Before Finalizing)
 
