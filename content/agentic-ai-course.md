@@ -1,73 +1,56 @@
-# Learning Objectives
-- Develop expertise in intelligent, autonomous agents and multi-agent systems.
-- Gain a solid foundation in LLMs, context engineering, and the Model Context Protocol (MCP).
-- Build specialized agents and reusable workflows for real-world applications.
-- Apply automation, collaboration, and human-in-the-loop strategies using modern MLOps practices.
-- Design scalable, secure, and adaptive agentic AI solutions for production environments.
+# Module Title
+Agentic AI Engineering and Multi-Agent Automation
 
-# Start the Traning 
+Difficulty : Advanced  
+Topics : AI Frameworks, AI Tools, Agents, Workflow, Fundamentals
 
-## The Complete Agentic AI Engineering
+## Module Overview
+This module explores advanced practices in building, orchestrating, and deploying agentic AI systems. Learners will develop expertise in frameworks, multi-agent workflows, and integration patterns critical for automation and software development. The content aligns with ESI’s AI-powered software development cycle by equipping engineers and project teams with tools to design, deploy, and optimize agents for secure and scalable applications.
 
-- **Type:** Course
-- **Course Link:** [The Complete Agentic AI Engineering](https://essentialsoft.udemy.com/course/the-complete-agentic-ai-engineering-course/learn/lecture/49771331?kw=complete+agentic&src=sac#overview)
-- **Training Site:** Udemy  
-- **Course Length:** 17 hours  
-- **Instructor:** Ed Donner  
-- **Last updated:** June 2025  
-
-### Description
-This is an intensive 6-week program to master Agentic AI. We start by building foundational expertise, connecting LLMs using proven design patterns. Then, each week, we upskill with new frameworks: OpenAI Agents SDK, CrewAI, LangGraph and Autogen. The course culminates with a full week on the remarkable opportunities opened up by MCP.
-
-### What you'll learn
-1. Build AI Agent Fundamental (no Framework)  
-2. Build AI Agent using OpenAI Agents SDKs  
-3. Build a Deep Research agent  
-4. Build AI Agent using CrewAI SDKs  
-5. Build AI Agent using LangGraph!  
-6. Build AI Agent using AutoGen  
-7. MCP  
+## Learning Objectives
+• Identify the principles and foundations of building AI agents.  
+• Apply leading frameworks such as CrewAI, LangGraph, and AutoGen for automation workflows.  
+• Build and orchestrate multi-agent systems for real-world applications.  
+• Evaluate trade-offs between private and shared infrastructure in AI agent deployment.  
+• Optimize workflows by integrating agentic AI into development and operations.
 
 ---
 
-## Build Multi-Agent Automation Workflows
+## Start the Course  
+**The Complete Agentic AI Engineering**  
 
-- **Type:** Course
-- **Course Link:** [Build Multi-Agent Automation Workflows](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)
-- **Training Site:** Udemy  
-- **Course Length:** 10 hours  
-- **Instructor:** Rahul Shetty Academy  
-- **Last updated:** September 2025 
+Instructor: Ed Donner  
+Duration: 17 hours  
+Last Updated: June 2025  
 
-### Description
-This course is your ultimate guide to building Autonomous AI Agents with AutoGen & MCP –End-to-End Agentic AI Workflows with 6 Agents for Real-World Automation. Even if you're new to this space, we start from the absolute basics—no prior knowledge of agent frameworks is required.
+This course offers a comprehensive six-week program to master agentic AI. It starts with fundamentals, progresses through frameworks like OpenAI Agents SDK, CrewAI, LangGraph, and AutoGen, and concludes with advanced MCP opportunities. Learners gain the ability to build, connect, and optimize agents for diverse automation workflows.  
 
-You’ll start by mastering the core foundations – Large Language Models (LLMs), AI Agents, Multi-Agents, and the Model Context Protocol (MCP), which serves as the backbone for agent-to-tool communication. Next, you’ll learn how to engineer contexts and craft prompts that unlock the true potential of your AI agents.
-
-### What you'll learn
-1. Fundamentals of LLMs, AI Agents, MCP, and Multi-Agent Systems
-2. Build workflows and reusable agents with the AutoGen Framework
-3. Develop specialized agents for bug analysis, browser automation, API testing, and data analysis
-4. Design autonomous, collaborative agents with context engineering and human-in-loop strategies
-5. Apply Agent Factory patterns and real-world MCP configurations
+Access course via [Udemy](https://essentialsoft.udemy.com/course/the-complete-agentic-ai-engineering-course/learn/lecture/49771331?kw=complete+agentic&src=sac#overview)
 
 ---
 
-## Agentic AI for Developers
+## Start the Course  
+**Agentic AI for Automation: Multi-Agent Autogen**  
 
-- **Type:** Course
-- **Course Link:** [Agentic AI for Developers](https://app.pluralsight.com/library/courses/agentic-ai-developers)
-- **Training Site:** PluralSight  
-- **Course Length:** 1h 24m  
-- **Instructor:** Bogdan Sucaciu  
-- **Last updated:** Jul 2025  
+Instructor: Rahul Shetty Academy  
+Duration: 10 hours  
+Last Updated: September 2025  
 
-### Description
-Agentic AI is transforming how developers build and automate software by enabling systems that reason, use tools, and handle real-world dev and ops tasks. In this course, you’ll learn to apply coding agents to boost productivity and innovation across the SDLC, while exploring Claude Code for vibe coding and n8n for multi-agent automation.
+This course provides a hands-on guide to building autonomous AI agents using AutoGen. It emphasizes practical applications in workflow automation and orchestration of multi-agent systems. By the end, learners will be able to design scalable solutions that streamline processes and reduce manual intervention.  
 
-### What you'll learn
-1. Design and integrate agentic AI systems into real-world software workflows.
-2. Explore the core principles of agentic AI and how they differ from traditional ML and generative models.
-3. Boost SDLC productivity with Claude Code through use cases like vibe coding, code review, testing, and documentation.
-4. Leverage n8n’s low-code platform to easily design, test, and deploy agentic workflows.
+Access course via [Udemy](https://essentialsoft.udemy.com/course/agentic-ai-for-automation-multi-agent-autogen/)
 
+---
+
+## Start the Course  
+**Agentic AI for Developers**  
+
+Instructor: Investigate  
+Duration: 1 hour 24 minutes  
+Last Updated: July 2025  
+
+This Pluralsight course focuses on empowering developers to integrate agentic AI into everyday software projects. It covers the foundations of agent design, integration patterns, and best practices for enhancing productivity and scalability. Learners walk away with actionable skills to embed agentic AI into their development cycle.  
+
+Access course via [PluralSight](https://app.pluralsight.com/library/courses/agentic-ai-developers)
+
+---
