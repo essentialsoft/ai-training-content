@@ -63,12 +63,11 @@ You’ll start by mastering the core foundations – Large Language Models (LLMs
 - **Last updated:** Jul 2025  
 
 ### Description
-Agentic AI is transforming how developers build and automate software by enabling systems that reason, use tools, and handle real-world dev and ops tasks. In this course, you’ll learn to use coding agents to boost productivity and innovation across the SDLC, and explore Claude Code to make vibe coding more effective.
+Agentic AI is transforming how developers build and automate software by enabling systems that reason, use tools, and handle real-world dev and ops tasks. In this course, you’ll learn to apply coding agents to boost productivity and innovation across the SDLC, while exploring Claude Code for vibe coding and n8n for multi-agent automation.
 
 ### What you'll learn
 1. Design and integrate agentic AI systems into real-world software workflows.
 2. Explore the core principles of agentic AI and how they differ from traditional ML and generative models.
-3. Use agentic coding with LLMs, memory, and APIs to drive productivity and innovation across the SDLC.
-4. Development use cases: Vibe Coding, Code Review, Unit Test Generation, Code Documentation
-5. Learn how to prototype, evaluate, and deploy agentic workflows.
+3. Boost SDLC productivity with Claude Code through use cases like vibe coding, code review, testing, and documentation.
+4. Leverage n8n’s low-code platform to easily design, test, and deploy agentic workflows.
 
