@@ -57,3 +57,12 @@ Access course via [Coursera](https://www.coursera.org/learn/getting-started-with
 This comprehensive bootcamp teaches Amazon SageMaker from setup to advanced features like Ground Truth and Canvas for AutoML. Learners gain skills in building, training, and deploying machine learning models at scale. The course prepares participants to implement real-world AI solutions efficiently in enterprise environments using SageMaker.  
 
 Access course via [Udemy](https://www.udemy.com/course/amazon-sagemaker-course/)  
+
+### Introduction to Generative AI: Art of the Possible
+**Instructor**: AWS Training and Certification  
+**Duration**: 45 minutes  
+**Last Updated**: March 2025
+
+This AWS Skill Builder course introduces generative AI concepts and real-world use cases. It explains how generative AI transforms industries and highlights AWS services that support AI solutions. It is suited for business and technical audiences seeking a broad understanding of generative AI’s potential and applications.  
+
+Access course via [AWS Skill Builder](https://skillbuilder.aws/learn/ZEVZZ1D4AS/introduction-to-generative-ai--art-of-the-possible/Y7MTGJCW1U)  
