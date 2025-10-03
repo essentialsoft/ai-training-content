@@ -25,7 +25,7 @@ Get hands-on with AI-powered IDE workflows using GitHub Copilot and the Cursor e
 
 **Duration**: 7.1 hours
 
-**Last Updated**: 9/2025
+**Last Updated**: September 2025
 
 Designed for developers adopting AI-assisted coding. Learn Copilot setup in VS Code and PyCharm, effective prompting, Chat and CLI workflows, multi-file edits, unit testing, documentation, and security checks. Explore Agent Mode “vibe coding” and compare alternatives. Finish with repeatable habits to ship faster while maintaining quality. ([Udemy][1])
 
