@@ -51,7 +51,7 @@ You’ll start by mastering the core foundations – Large Language Models (LLMs
 
 ---
 
-### [Agentic AI for Developers](https://app.pluralsight.com/library/courses/agentic-ai-developers)
+## [Agentic AI for Developers](https://app.pluralsight.com/library/courses/agentic-ai-developers)
 
 - **Type:** Course
 - **Training Site:** PluralSight  
