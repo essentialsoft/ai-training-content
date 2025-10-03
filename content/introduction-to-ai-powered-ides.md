@@ -1,14 +1,9 @@
-<!--  Module Title -->
 
 # Introduction to AI-Powered IDEs
 
 **Difficulty** :  Beginner
 
 **Topics** : AI Tools, IDE, Copilot, AI in Software Development, Prompt Engineering, Workflow, Testing, Documentation
-
-<!--  MODULE PAGE METADATA -->
-
-<!-- CONTENT -->
 
 ## Module Overview
 
@@ -44,24 +39,3 @@ Built for engineers exploring an AI-first editor. Covers Cursor basics—model s
 
 Access course via [Udemy](https://www.udemy.com/course/become-an-ai-powered-engineer-with-cursor/)
 
-## QC Checklist (Quality Check Before Finalizing)
-
-* [ ] Confirm the Module Title matches the pre-approved version and is ≤70 characters.
-* [ ] Verify Difficulty is correctly assigned (Beginner, Intermediate, Advanced, Expert).
-* [ ] Ensure Topics are selected from the approved list and multiple topics are applied if needed.
-* [ ] Review the Module Overview: ≤100 words, clear, relevant, and role/ESI-linked.
-* [ ] Check Learning Objectives: 3–5 items, start with action verbs, derived if not provided.
-* [ ] Confirm Instructor is listed (name only; credentials included only if provided).
-* [ ] Check Duration formatting: Xm (under 1h), Xh Ym (mixed), Xh (exact hours).
-* [ ] Verify Last Updated field: matches provided date, or defaults to current year if missing.
-* [ ] Ensure Course Description is rewritten to <50 words and is clear and concise.
-* [ ] Confirm Training Platform is consistent (AWS Skillbuilder, Udemy, Pluralsight).
-* [ ] Look for any 'Investigate' placeholders and follow up to resolve them.
-* [ ] Double-check tone: clear, motivating, active voice, ~9th–10th grade reading level.
-
----
-
-**Your response should be in a MARKDOWN FILE.**
-
-[1]: https://www.udemy.com/course/github-copilot/ "GitHub Copilot Beginner to Pro - AI for Coding & Development | Udemy"
-[2]: https://www.udemy.com/course/become-an-ai-powered-engineer-with-cursor/ "Free Generative AI (GenAI) Tutorial - Become an AI-Powered Engineer: Cursor, the AI-First IDE | Udemy"
