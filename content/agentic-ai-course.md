@@ -60,7 +60,7 @@ You’ll start by mastering the core foundations – Large Language Models (LLMs
 - **Last updated:** Jul 2025  
 
 ## Description
-Agentic AI is changing how developers build and automate software. This course teaches you to design and integrate agentic systems that reason, use tools, and solve real-world dev and ops tasks.
+Agentic AI is transforming how developers build and automate software by enabling systems that reason, use tools, and handle real-world dev and ops tasks. In this course, you’ll learn to use coding agents to boost productivity and innovation across the SDLC, and explore Claude Code to make vibe coding more effective.
 
 ## What you'll learn
 1. Design and integrate agentic AI systems into real-world software workflows.
