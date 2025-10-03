@@ -30,9 +30,10 @@ This is an intensive 6-week program to master Agentic AI. We start by building f
 
 ---
 
-## [Build Multi-Agent Automation Workflows](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)
+## Build Multi-Agent Automation Workflows
 
 - **Type:** Course
+- **Course Link:** [Build Multi-Agent Automation Workflows](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)
 - **Training Site:** Udemy  
 - **Course Length:** 10 hours  
 - **Instructor:** Rahul Shetty Academy  
@@ -52,9 +53,10 @@ You’ll start by mastering the core foundations – Large Language Models (LLMs
 
 ---
 
-## [Agentic AI for Developers](https://app.pluralsight.com/library/courses/agentic-ai-developers)
+## Agentic AI for Developers
 
 - **Type:** Course
+- **Course Link:** [Agentic AI for Developers](https://app.pluralsight.com/library/courses/agentic-ai-developers)
 - **Training Site:** PluralSight  
 - **Course Length:** 1h 24m  
 - **Instructor:** Bogdan Sucaciu  
