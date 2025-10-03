@@ -7,7 +7,7 @@ Respond in a markdown file.
 
 ## INPUTS
 
-- **SOURCE_URL**: {{https://gale.udemy.com/course/prompt-engineering-for-ai/
+- **SOURCE_URL**: {{https://udemy.com/course/prompt-engineering-for-ai/
 https://www.promptingguide.ai/
 https://cloud.google.com/discover/what-is-prompt-engineering?hl=en}}
 
@@ -37,8 +37,8 @@ Fields and constraints come from ESI's Module template:
    - Workflow
 4. **Module Overview** — ≤ 100 words; single paragraph; introduce the module and key concepts. Where relevant, note how the concept integrates with ESI's AI‑powered software development cycle or roles.
 5. **Learning Objectives** — 3–5 bullets; each should be one sentence starting with a strong action verb (e.g., Identify, Explain, Apply, Build, Evaluate, Optimize, Troubleshoot).
-6. **Courses** (1–3 entries). For each course, include exactly:
-   - [Exact course title, hyperlinked] → link to the course's official landing page on its platform.
+6. **Courses** (1–3 entries). For each course from SOURCE_URL provided, include exactly:
+   - [Exact course title] 
    - **Instructor**: Full name and credentials (per course bio; if none, provide full name only).
    - **Duration**: If < 60 minutes → "NN minutes". If ≥ 60 minutes → "H hours" (round to one decimal, e.g., 1.5 hours). If the course lists hours & minutes, convert to hours with one decimal. "self-paced" if there's no duration
    - **Last Updated**: The most recent "last updated" or "published" date visible on the course page. Format as "Month D, YYYY". If not available, write "Not stated". Leave it blank if there's no updated time. 
@@ -54,7 +54,7 @@ Fields and constraints come from ESI's Module template:
 - **Durations**: Extract the platform's stated duration. Apply the minutes/hours rule above: Xm (under 1h), Xh Ym (mixed), Xh (exact hours).
 - **Dates**: Prefer an explicit "Last updated" date; if missing, use a visible published/release date; otherwise write "Not stated".
 - **Names & credentials**: Copy exact spelling; include degrees/certifications if shown in the course bio line (e.g., "PhD", "PE", "MBA").
-- **Links**: Use Markdown links. Only the course title links to the course page. "Access course via [Platform]" links to {{ESI_TRAINING_RESOURCE_URL}}.
+- **Links**: Use Markdown links."Access course via [Platform]" links to {{ESI_TRAINING_RESOURCE_URL}}.
 
 ## DIFFICULTY & TOPICS CLASSIFICATION HEURISTICS (apply consistently)
 
@@ -82,31 +82,29 @@ If any information is missing and can't be reasonably inferred, please insert 'I
 
 Below is the template. You need to print the final output in a MARKDOWN FILE. 
 
-### Module Title
-<Your module title here>
+<!--  Module Title -->
+# <Your module title here>
 
-### Difficulty
-<One of: Beginner | Intermediate | Advanced | Expert>
+** Difficulty ** :  <One of: Beginner | Intermediate | Advanced | Expert>
 
-### Topics
-<One or more from the controlled list, comma‑separated>
+** Topics ** : <One or more from the controlled list, comma‑separated>
 
-### MODULE PAGE METADATA
+<!--  MODULE PAGE METADATA -->
 
-#### CONTENT
+<!-- CONTENT -->
 
-#### Module Overview
+## Module Overview
 <One paragraph, <= 100 words>
 
-#### Learning Objectives
+## Learning Objectives
 - <Objective 1>
 - <Objective 2>
 - <Objective 3>
 - <Objective 4>
 - <Objective 5 (optional)>
 
-#### Start the Course
-<Exact course title> 
+## Start the Course
+### <Exact course title> 
 **Instructor**: <Full name and credentials if listed>  
 **Duration**: <NN minutes | H hours | self-paced>  
 **Last Updated**: < YYYY | Not stated>
@@ -125,7 +123,6 @@ Access course via [<Platform Name>](<course URL>)
 - [ ] Ensure Topics are selected from the approved list and multiple topics are applied if needed.
 - [ ] Review the Module Overview: ≤100 words, clear, relevant, and role/ESI-linked.
 - [ ] Check Learning Objectives: 3–5 items, start with action verbs, derived if not provided.
-- [ ] Validate Course Title is hyperlinked and correct.
 - [ ] Confirm Instructor is listed (name only; credentials included only if provided).
 - [ ] Check Duration formatting: Xm (under 1h), Xh Ym (mixed), Xh (exact hours).
 - [ ] Verify Last Updated field: matches provided date, or defaults to current year if missing.
