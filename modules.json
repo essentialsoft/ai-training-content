@@ -201,6 +201,7 @@
     "icon": "Trophy",
     "color": "from-gold-500 to-yellow-500 via-amber-500",
     "difficulty": "Intermediate",
-    "topics": ["AI Frameworks", "RAG"]
+    "topics": ["AI Frameworks", "RAG"],
+    "module_path": "/content/genai-ai-course"
   }
 ]
