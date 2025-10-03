@@ -51,21 +51,21 @@ You’ll start by mastering the core foundations – Large Language Models (LLMs
 
 ---
 
-## [AI in Production: Gen AI and Agentic AI at scale](https://essentialsoft.udemy.com/course/generative-and-agentic-ai-in-production/)
+## [Agentic AI for Developers](https://app.pluralsight.com/library/courses/agentic-ai-developers)
 
 - **Type:** Course
-- **Training Site:** Udemy  
-- **Course Length:** 18.5 hours  
-- **Instructor:** Ed Donner  
-- **Last updated:** Sept. 2025  
+- **Training Site:** PluralSight  
+- **Course Length:** 1h 24m  
+- **Instructor:** Bogdan Sucaciu  
+- **Last updated:** Jul 2025  
 
 ## Description
-Deploy AI to AWS, GCP, Azure, Vercel with MLOps, Bedrock, SageMaker, RAG, Agents, MCP: scalable, secure and observable.
+Agentic AI is changing how developers build and automate software. This course teaches you to design and integrate agentic systems that reason, use tools, and solve real-world dev and ops tasks.
 
 ## What you'll learn
-1. Deploy SaaS LLM apps to production on Vercel, AWS, Azure, and GCP, using Clerk
-2. Design cloud architectures with Lambda, S3, CloudFront, SQS, Route 53, App Runner and API Gateway
-3. Integrate with Amazon Bedrock and SageMaker, and build with GPT-5, Claude 4, OSS, AWS Nova and HuggingFace
-4. Rollout to Dev, Test and Prod automatically with Terraform and ship continuously via GitHub Actions
-5. Deliver enterprise-grade AI solutions that are scalable, secure, monitored, explainable, observable, and controlled with guardrails.
-6. Create Multi-Agent systems and Agentic Loops with Amazon Bedrock AgentCore and Stands Agents
+1. In this course, Agentic AI for Developers, you will:
+2. Design and integrate agentic AI systems into real-world software workflows.
+3. Explore the core principles of agentic AI and how they differ from traditional ML and generative models.
+4. Use agentic coding with LLMs, memory, and APIs to drive productivity and innovation across the SDLC.
+5. Learn how to prototype, evaluate, and deploy agentic workflows.
+6. Gain the skills to integrate agents that drive SDLC productivity and innovation.
