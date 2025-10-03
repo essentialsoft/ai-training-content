@@ -63,9 +63,9 @@ You’ll start by mastering the core foundations – Large Language Models (LLMs
 Agentic AI is changing how developers build and automate software. This course teaches you to design and integrate agentic systems that reason, use tools, and solve real-world dev and ops tasks.
 
 ## What you'll learn
-1. In this course, Agentic AI for Developers, you will:
-2. Design and integrate agentic AI systems into real-world software workflows.
-3. Explore the core principles of agentic AI and how they differ from traditional ML and generative models.
-4. Use agentic coding with LLMs, memory, and APIs to drive productivity and innovation across the SDLC.
+1. Design and integrate agentic AI systems into real-world software workflows.
+2. Explore the core principles of agentic AI and how they differ from traditional ML and generative models.
+3. Use agentic coding with LLMs, memory, and APIs to drive productivity and innovation across the SDLC.
+4. Development use cases: Vibe Coding, Code Review, Unit Test Generation, Code Documentation
 5. Learn how to prototype, evaluate, and deploy agentic workflows.
-6. Gain the skills to integrate agents that drive SDLC productivity and innovation.
+
