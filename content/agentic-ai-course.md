@@ -44,7 +44,7 @@ Access course via [Udemy](https://essentialsoft.udemy.com/course/agentic-ai-for-
 
 ### Agentic AI for Developers
 
-Instructor: Investigate  
+Instructor: Bogdan Sucaciu  
 Duration: 1 hour 24 minutes  
 Last Updated: July 2025  
 
