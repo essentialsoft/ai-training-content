@@ -20,24 +20,14 @@
     "module_path": "/content/predictive-vs-generative"
   },
   {
-    "id": 6,
-    "title": "GitHub Copilot Essentials",
-    "description": "Integrate Copilot across full-stack projects; accept/edit/reject best-practices",
-    "icon": "Github",
-    "color": "from-gray-500 to-slate-500",
-    "difficulty": "Beginner",
-    "topics": ["Copilot", "AI Tools"],
-    "module_path": "/content/copilot-essentials"
-  },
-  {
     "id": 8,
-    "title": "Cursor IDE Quick-Start",
+    "title": "Introduction to AI powered IDEs",
     "description": "AI-assisted navigation, inline chat, context windows for large codebases",
     "icon": "MousePointer",
     "color": "from-teal-500 to-cyan-500",
     "difficulty": "Beginner",
-    "topics": ["AI Tools", "IDE"],
-    "module_path": "/content/cursor-quickstart"
+    "topics": ["AI Tools", "IDE", "Copilot"],
+    "module_path": "/content/introduction-to-ai-powered-ides"
   },
   {
     "id": 3,
