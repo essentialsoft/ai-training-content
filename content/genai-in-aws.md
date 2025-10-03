@@ -1,5 +1,4 @@
-# Module Title
-GenAI in AWS
+# Generatove AI in AWS
 
 
 ## Module Overview
