@@ -193,5 +193,14 @@
     "color": "from-gold-500 to-yellow-500 via-amber-500",
     "difficulty": "Expert",
     "topics": ["AI in Software Development", "Capstone"]
+  },
+   {
+    "id": 21,
+    "title": "Generative AI in AWS",
+    "description": "Build Generative AI Systems with AWS: An Introduction to Bedrock, AgentCore, SageMaker and more",
+    "icon": "Trophy",
+    "color": "from-gold-500 to-yellow-500 via-amber-500",
+    "difficulty": "Intermediate",
+    "topics": ["AI Frameworks", "RAG"]
   }
 ]
