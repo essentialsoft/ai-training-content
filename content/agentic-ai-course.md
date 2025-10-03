@@ -26,7 +26,7 @@ Last Updated: June 2025
 
 This course offers a comprehensive six-week program to master agentic AI. It starts with fundamentals, progresses through frameworks like OpenAI Agents SDK, CrewAI, LangGraph, and AutoGen, and concludes with advanced MCP opportunities. Learners gain the ability to build, connect, and optimize agents for diverse automation workflows.  
 
-Access course via [Udemy](https://essentialsoft.udemy.com/course/the-complete-agentic-ai-engineering-course/learn/lecture/49771331?kw=complete+agentic&src=sac#overview)
+Access course via [Udemy](https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/)
 
 ---
 
@@ -38,7 +38,7 @@ Last Updated: September 2025
 
 This course provides a hands-on guide to building autonomous AI agents using AutoGen. It emphasizes practical applications in workflow automation and orchestration of multi-agent systems. By the end, learners will be able to design scalable solutions that streamline processes and reduce manual intervention.  
 
-Access course via [Udemy](https://essentialsoft.udemy.com/course/agentic-ai-for-automation-multi-agent-autogen/)
+Access course via [Udemy](https://www.udemy.com/course/agentic-ai-for-automation-multi-agent-autogen/)
 
 ---
 
