@@ -1,13 +1,12 @@
-<!--  Module Title -->
+
 # Introduction to Prompt Engineering
 
 **Difficulty** :  Beginner
 
 **Topics** : Prompt Engineering, Fundamentals, AI Tools, AI in Software Development, Workflow
 
-<!--  MODULE PAGE METADATA -->
 
-<!-- CONTENT -->
+
 
 ## Module Overview
 Master prompt engineering—the practice of designing prompts that steer LLMs toward accurate, reliable outputs. This module curates a hands-on Udemy bootcamp, a community guide, and a concise Google Cloud primer. You’ll learn patterns, context strategies, and evaluation techniques, then map them to ESI’s AI-powered SDLC for developers, QA, and product roles from ideation through release.
