@@ -41,13 +41,23 @@
   },
   {
     "id": 3,
-    "title": "Prompt-Engineering",
-    "description": "Role, context, constraints, clarity; reusable templates for code and docs",
+    "title": "Introduction to Prompt Engineering",
+    "description": "Prompt engineering bootcamp: design prompts, strategies, evaluations, integrated into SDLC.",
     "icon": "MessageSquare",
     "color": "from-green-500 to-emerald-500",
     "difficulty": "Beginner",
-    "topics": ["Prompt Engineering", "AI Frameworks"],
+    "topics": ["Prompt Engineering", "Fundamentals", "AI Tools", "AI in Software Development", "Workflow"],
      "module_path": "/content/prompt-engineering"
+  },
+   {
+    "id": 14,
+    "title": "Retrieval-Augmented Generation (RAG) ",
+    "description": "Chunking, embeddings, vector search with LangChain & LlamaIndex",
+    "icon": "Search",
+    "color": "from-cyan-500 to-blue-500",
+    "difficulty": "Intermediate",
+    "topics": ["RAG", "AI Frameworks", "AI Tools", "AI in Software Development", "Fundamentals", "Workflow", "Prompt Engineering", "Multimodal"],
+    "module_path": "/content/rag"
   },
   {
     "id": 21,
@@ -131,15 +141,7 @@
     "difficulty": "Advanced",
     "topics": ["AI Tools", "Protocol"]
   },
-  {
-    "id": 14,
-    "title": "Retrieval-Augmented Generation (RAG) for Engineering",
-    "description": "Chunking, embeddings, vector search with LangChain & LlamaIndex",
-    "icon": "Search",
-    "color": "from-cyan-500 to-blue-500",
-    "difficulty": "Advanced",
-    "topics": ["AI Frameworks", "RAG"]
-  },
+ 
   {
     "id": 15,
     "title": "Hands-On RAG Docbot",
