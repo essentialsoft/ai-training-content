@@ -22,7 +22,9 @@ Get hands-on with AI-powered IDE workflows using GitHub Copilot and the Cursor e
 ### GitHub Copilot Beginner to Pro - AI for Coding & Development
 
 **Instructor**: Tom Phillips
+
 **Duration**: 7.1 hours
+
 **Last Updated**: 9/2025
 
 Designed for developers adopting AI-assisted coding. Learn Copilot setup in VS Code and PyCharm, effective prompting, Chat and CLI workflows, multi-file edits, unit testing, documentation, and security checks. Explore Agent Mode “vibe coding” and compare alternatives. Finish with repeatable habits to ship faster while maintaining quality. ([Udemy][1])
@@ -32,7 +34,9 @@ Access course via [Udemy](https://www.udemy.com/course/github-copilot/?couponCod
 ### Become an AI-Powered Engineer: Cursor, the AI-First IDE
 
 **Instructor**: micro1 .ai
+
 **Duration**: 1.5 hours
+
 **Last Updated**: 2025
 
 Built for engineers exploring an AI-first editor. Covers Cursor basics—model settings, chat, CMD-K, composer, customization, and docs integration—through hands-on demos. Practice scaffolding projects, drafting commits, running shell commands, and working against real codebases. Graduates apply Cursor to accelerate workflows across stacks and collaborate more effectively. ([Udemy][2])
