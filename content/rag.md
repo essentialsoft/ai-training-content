@@ -1,13 +1,11 @@
-<!--  Module Title -->
+
 # Introduction to Prompt Engineering
 
 **Difficulty** :  Intermediate
 
 **Topics** : RAG, AI Frameworks, AI Tools, AI in Software Development, Fundamentals, Workflow, Prompt Engineering, Multimodal
 
-<!--  MODULE PAGE METADATA -->
 
-<!-- CONTENT -->
 
 ## Module Overview
 Learn to design, build, and evaluate Retrieval-Augmented Generation (RAG) systems for real products. Combine practical patterns with hands-on labs using LangChain, LangGraph, and LangSmith, plus a structured Pluralsight path. Map RAG to ESI’s AI-powered cycle—requirements, prototyping, evaluation, and deployment—to deliver source-grounded assistants that perform reliably in production.
