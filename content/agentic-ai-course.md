@@ -7,9 +7,10 @@
 
 # Start the Traning 
 
-## [The Complete Agentic AI Engineering](https://essentialsoft.udemy.com/course/the-complete-agentic-ai-engineering-course/learn/lecture/49771331?kw=complete+agentic&src=sac#overview)
+## The Complete Agentic AI Engineering
 
 - **Type:** Course
+- **Course Link:** [The Complete Agentic AI Engineering](https://essentialsoft.udemy.com/course/the-complete-agentic-ai-engineering-course/learn/lecture/49771331?kw=complete+agentic&src=sac#overview)
 - **Training Site:** Udemy  
 - **Course Length:** 17 hours  
 - **Instructor:** Ed Donner  
