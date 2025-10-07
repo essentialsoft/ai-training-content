@@ -30,7 +30,7 @@ Access course via [AWS Skill Builder](https://skillbuilder.aws/learn/ZEVZZ1D4AS/
 ### LLM Engineering: Master AI, Large Language Models & Agents
 
 **Instructor**: Ed Donner; Ligency
-**Duration**: self-paced
+**Duration**: 25 hours
 **Last Updated**: December 2024
 
 A hands-on path to shipping LLM features. Build multi-modal assistants, RAG knowledge workers, and agentic workflows while comparing open-source and frontier models. Useful for ESI engineers who want practical patterns—prompting, fine-tuning (QLoRA), evaluation, and deployment—to move from prototypes to production services.
@@ -40,7 +40,7 @@ Access course via [Udemy](https://www.udemy.com/course/llm-engineering-master-ai
 ### Generative AI 2025 Executive Briefing: LLMs for Leaders
 
 **Instructor**: Ed Donner
-**Duration**: self-paced
+**Duration**: 3.5 hours
 **Last Updated**: July 2025
 
 An executive-level briefing focused on strategy, ROI, and governance. Learn decision frameworks, scaling considerations, and how to prioritize GenAI investments. Ideal for ESI leaders and PMs aligning portfolio bets and risk controls with measurable outcomes across product, engineering, and go-to-market.
@@ -50,7 +50,7 @@ Access course via [Udemy](https://www.udemy.com/course/executive-briefing-genera
 ### Generative AI for Beginners
 
 **Instructor**: Aakriti E-Learning Academy
-**Duration**: self-paced
+**Duration**: 3 hours
 **Last Updated**: September 2025
 
 Begin with the essentials—LLMs, embeddings, and prompt engineering—then practice by building a simple chatbot. A clear starting point for non-specialists at ESI who need foundational skills and confidence before collaborating with engineering on prototypes and internal enablement.
