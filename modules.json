@@ -52,7 +52,7 @@
    {
     "id": 20,
     "title": "Model Context Protocol (MCP)",
-    "description": "Model Context Protocol (MCP) fundamentals, workflows, and secure integration for AI agents.",
+    "description": "MCP Deep Dive, workflows, and secure integration for AI agents.",
     "icon": "Trophy",
     "color": "from-gold-500 to-yellow-500 via-amber-500",
     "difficulty": "Intermediate",
