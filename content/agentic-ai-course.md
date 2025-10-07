@@ -16,6 +16,11 @@ This module explores advanced practices in building, orchestrating, and deployin
 • Optimize workflows by integrating agentic AI into development and operations.
 
 ## Start the Course  
+
+### Request License
+
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources](https://academy.essential-soft.ai/training-resources) page to request a license.
+
 ### The Complete Agentic AI Engineering
 
 Instructor: Ed Donner  
