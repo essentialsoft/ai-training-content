@@ -29,6 +29,16 @@
     "topics": ["Prompt Engineering", "Fundamentals", "AI Tools", "AI in Software Development", "Workflow"],
      "module_path": "/content/prompt-engineering"
   },
+  {
+    "id": 21,
+    "title": "Generative AI in AWS",
+    "description": "Build Generative AI Systems with AWS: An Introduction to Bedrock, AgentCore, SageMaker and more",
+    "icon": "Trophy",
+    "color": "from-gold-500 to-yellow-500 via-amber-500",
+    "difficulty": "Intermediate",
+    "topics": ["AI Frameworks", "RAG"],
+    "module_path": "/content/genai-in-aws"
+  },
    {
     "id": 14,
     "title": "Retrieval-Augmented Generation (RAG) ",
@@ -40,17 +50,17 @@
     "module_path": "/content/rag"
   },
    {
-    "id": 21,
-    "title": "Generative AI in AWS",
-    "description": "Build Generative AI Systems with AWS: An Introduction to Bedrock, AgentCore, SageMaker and more",
+    "id": 20,
+    "title": "Model Context Protocol (MCP)",
+    "description": "Model Context Protocol (MCP) fundamentals, workflows, and secure integration for AI agents.",
     "icon": "Trophy",
     "color": "from-gold-500 to-yellow-500 via-amber-500",
     "difficulty": "Intermediate",
-    "topics": ["AI Frameworks", "RAG"],
-    "module_path": "/content/genai-in-aws"
+    "topics": ["AI Frameworks", "MCP", "AI Tools", "Agents", "Protocol", "Workflow"],
+    "module_path": "/content/mcp"
   },
   {
-    "id": 21,
+    "id": 22,
     "title": "Agentic AI System",
     "description": "Build intelligent agents with platform integration, multi-agent orchestration, and autonomous task execution",
     "icon": "ZapIcon",
