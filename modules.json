@@ -22,7 +22,7 @@
   {
     "id": 8,
     "title": "Introduction to AI powered IDEs",
-    "description": "AI-assisted navigation, inline chat, context windows for large codebases",
+    "description": "AI-assisted navigation, inline chat, context windows for large codebases.",
     "icon": "MousePointer",
     "color": "from-teal-500 to-cyan-500",
     "difficulty": "Beginner",
