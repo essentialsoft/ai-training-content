@@ -39,3 +39,8 @@ Built for engineers exploring an AI-first editor. Covers Cursor basics—model s
 
 Access course via [Udemy](https://www.udemy.com/course/become-an-ai-powered-engineer-with-cursor/)
 
+## Request License
+
+Don't have a license to access one of the training courses in the module?  
+We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera.  
+Visit our [Training Resources](/training-resources) page to request a license.
