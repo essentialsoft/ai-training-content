@@ -22,8 +22,8 @@ Learn the engineering that surrounds LLMs in production. This module covers inge
 ## Start the Course
 ### LLM Engineering: Master AI, Large Language Models & Agents
 **Instructor**: Ligency; Ed Donner  
-**Duration**: 25.5 hours  
-**Last Updated**: Not stated
+**Duration**: 25h 30m 
+**Last Updated**: December, 2024
 
 Hands-on program that builds eight production-grade LLM apps using RAG, QLoRA fine-tuning, and agentic workflows. Learners practice data ingestion, vector databases, and deployment patterns while comparing open-source and frontier models. By the end, developers can ship reliable LLM features with monitoring, guardrails, and modular pipelines aligned to enterprise delivery.
 
