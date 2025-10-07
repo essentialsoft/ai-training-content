@@ -1,1 +1,0 @@
-# Predictive vs Generative AI in the SDLC
