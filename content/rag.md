@@ -1,5 +1,5 @@
 
-# Introduction to Prompt Engineering
+# Introduction to Retrieval-Augmented Generation (RAG)
 
 **Difficulty** :  Intermediate
 
