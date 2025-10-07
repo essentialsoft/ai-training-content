@@ -10,16 +10,6 @@
     "module_path": "/content/fundamentals"
   },
   {
-    "id": 2,
-    "title": "Predictive vs Generative AI in the SDLC",
-    "description": "Learn to choose the right approach for coding, testing, docs, and DevOps",
-    "icon": "Zap",
-    "color": "from-purple-500 to-pink-500",
-    "difficulty": "Beginner",
-    "topics": ["AI in Software Development", "Fundamentals"],
-    "module_path": "/content/predictive-vs-generative"
-  },
-  {
     "id": 8,
     "title": "Introduction to AI powered IDEs",
     "description": "AI-assisted navigation, inline chat, context windows for large codebases.",
