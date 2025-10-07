@@ -18,6 +18,11 @@ Learn to design, build, and evaluate Retrieval-Augmented Generation (RAG) system
 - Troubleshoot and deploy production RAG services aligned with ESI workflows.
 
 ## Start the Course
+
+### Request License
+
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources](https://academy.essential-soft.ai/training-resources) page to request a license.
+
 ### Ultimate RAG Bootcamp Using Langchain,LangGraph & Langsmith 
 **Instructor**: Krish Naik  
 **Duration**: 29.5 hours  
@@ -29,7 +34,7 @@ Access course via [Udemy](https://www.udemy.com/course/ultimate-rag-bootcamp-usi
 
 ### Retrieval Augmented Generation (RAG) for Developers 
 **Instructor**: Multiple instructors: Abhishek Kumar; Nicolae Caprarescu; Dhiraj Kumar; JS Padoan; Ed Freitas; Brian Letort; Yasir Khan, PhD  
-**Duration**: 5.0 hours  
+**Duration**: 5 hours  
 **Last Updated**: July 31, 2025
 
 Developer learning path introducing RAG foundations through short, focused courses and one hands-on lab. Explore embeddings, vector space models, query expansion, relevance scoring, modular architectures, multilingual and multimodal retrieval, and deployment considerations. Finish with practical techniques to evaluate, optimize, and maintain RAG systems aligned to real product needs and engineering workflows. 

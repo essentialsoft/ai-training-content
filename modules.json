@@ -41,7 +41,7 @@
   },
    {
     "id": 14,
-    "title": "Retrieval-Augmented Generation (RAG) ",
+    "title": "Introduction to Retrieval-Augmented Generation",
     "description": "RAG training: design, build, evaluate systems; apply patterns, labs, deployment.",
     "icon": "Search",
     "color": "from-cyan-500 to-blue-500",
