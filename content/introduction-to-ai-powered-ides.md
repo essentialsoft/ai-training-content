@@ -19,6 +19,10 @@ Get hands-on with AI-powered IDE workflows using GitHub Copilot and the Cursor e
 
 ## Start the Course
 
+### Request License
+
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources](https://academy.essential-soft.ai/training-resources) page to request a license.
+
 ### GitHub Copilot Beginner to Pro - AI for Coding & Development
 
 **Instructor**: Tom Phillips  

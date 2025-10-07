@@ -15,8 +15,6 @@ This module explores advanced practices in building, orchestrating, and deployin
 • Evaluate trade-offs between private and shared infrastructure in AI agent deployment.  
 • Optimize workflows by integrating agentic AI into development and operations.
 
----
-
 ## Start the Course  
 ### The Complete Agentic AI Engineering
 

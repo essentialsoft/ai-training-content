@@ -40,7 +40,6 @@ ai-training-content/
 │   ├── copilot-essentials.md
 │   ├── cursor-quickstart.md
 │   ├── fundamentals.md
-│   ├── predictive-vs-generative.md
 │   └── prompt-engineering.md
 └── promtps/                 # Example prompts and templates
     ├── copilot.md

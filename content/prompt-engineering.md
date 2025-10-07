@@ -5,9 +5,6 @@
 
 **Topics** : Prompt Engineering, Fundamentals, AI Tools, AI in Software Development, Workflow
 
-
-
-
 ## Module Overview
 Master prompt engineering—the practice of designing prompts that steer LLMs toward accurate, reliable outputs. This module curates a hands-on Udemy bootcamp, a community guide, and a concise Google Cloud primer. You’ll learn patterns, context strategies, and evaluation techniques, then map them to ESI’s AI-powered SDLC for developers, QA, and product roles from ideation through release.
 
@@ -19,6 +16,11 @@ Master prompt engineering—the practice of designing prompts that steer LLMs to
 - Troubleshoot hallucinations, ambiguity, and bias using systematic experiments and reusable recipes.
 
 ## Start the Course
+
+### Request License
+
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources](https://academy.essential-soft.ai/training-resources) page to request a license.
+
 ### The Complete Prompt Engineering for AI Bootcamp (2025)
 **Instructor**: Mike Taylor; James Phoenix  
 **Duration**: 24 hours  
