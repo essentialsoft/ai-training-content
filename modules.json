@@ -49,143 +49,6 @@
     "topics": ["RAG", "AI Frameworks", "AI Tools", "AI in Software Development", "Fundamentals", "Workflow", "Prompt Engineering", "Multimodal"],
     "module_path": "/content/rag"
   },
-  {
-    "id": 21,
-    "title": "Agentic AI System",
-    "description": "Build intelligent agents with platform integration, multi-agent orchestration, and autonomous task execution",
-    "icon": "ZapIcon",
-    "color": "from-purple-500 to-blue-500",
-    "difficulty": "Advanced",
-    "topics": ["Agents", "AI Frameworks"],
-    "module_path": "/content/agentic-ai-course"
-  },
-  {
-    "id": 4,
-    "title": "Advanced Prompt Techniques",
-    "description": "Zero-shot, few-shot, chain-of-thought/tree-of-thought, prompt libraries",
-    "icon": "Lightbulb",
-    "color": "from-yellow-500 to-orange-500",
-    "difficulty": "Intermediate",
-    "topics": ["Prompt Engineering", "AI Frameworks"]
-  },
-  {
-    "id": 5,
-    "title": "Prompt Testing, Evaluation & Guardrails",
-    "description": "Catch hallucinations, enforce tone/format with Promptfoo & Guardrails",
-    "icon": "Shield",
-    "color": "from-red-500 to-pink-500",
-    "difficulty": "Intermediate",
-    "topics": ["AI Safety", "Prompt Engineering"]
-  },
-  {
-    "id": 10,
-    "title": "Lovable Design-to-Code Automation",
-    "description": "Extract Figma tokens and generate component specs & stories",
-    "icon": "Figma",
-    "color": "from-pink-500 to-rose-500",
-    "difficulty": "Intermediate",
-    "topics": ["AI Tools", "Design Systems"]
-  },
-  {
-    "id": 11,
-    "title": "Docs & Changelog Generation with LLMs",
-    "description": "Turn commits and PRs into polished Markdown and release notes",
-    "icon": "FileText",
-    "color": "from-blue-500 to-indigo-500",
-    "difficulty": "Intermediate",
-    "topics": ["AI in Software Development", "Documentation"]
-  },
-  {
-    "id": 7,
-    "title": "Deep-Dive: Copilot Power-User Workflows",
-    "description": "Pair programming, multi-file generation, refactor & test scaffolding",
-    "icon": "Code",
-    "color": "from-indigo-500 to-purple-500",
-    "difficulty": "Advanced",
-    "topics": ["Copilot", "AI Tools"]
-  },
-  {
-    "id": 9,
-    "title": "Cursor Advanced Automation",
-    "description": "Refactoring scripts, custom commands, expert prompt packs",
-    "icon": "Wand2",
-    "color": "from-violet-500 to-purple-500",
-    "difficulty": "Advanced",
-    "topics": ["AI Tools", "IDE"]
-  },
-  {
-    "id": 12,
-    "title": "Model Context Protocol (MCP) Foundations",
-    "description": "Tool manifests, prompt endpoints, structured outputs",
-    "icon": "Network",
-    "color": "from-emerald-500 to-teal-500",
-    "difficulty": "Advanced",
-    "topics": ["AI Frameworks", "Protocol"]
-  },
-  {
-    "id": 13,
-    "title": "Building Your First MCP Tool",
-    "description": "Component builder/changelog generator with @modelcontextprotocol/sdk",
-    "icon": "Wrench",
-    "color": "from-orange-500 to-red-500",
-    "difficulty": "Advanced",
-    "topics": ["AI Tools", "Protocol"]
-  },
- 
-  {
-    "id": 15,
-    "title": "Hands-On RAG Docbot",
-    "description": "Answer README & Lovable questions via Vercel AI SDK",
-    "icon": "Bot",
-    "color": "from-green-500 to-cyan-500",
-    "difficulty": "Advanced",
-    "topics": ["Agents", "RAG"]
-  },
-  {
-    "id": 18,
-    "title": "Small & Multimodal Models in Practice",
-    "description": "Phi-3, Gemma, Mistral, image/code/voice inputs, on-device assistants",
-    "icon": "Cpu",
-    "color": "from-yellow-500 to-orange-500",
-    "difficulty": "Advanced",
-    "topics": ["AI Frameworks", "Multimodal"]
-  },
-  {
-    "id": 19,
-    "title": "AI-Driven Static Analysis & Test Generation",
-    "description": "Find bugs, anti-patterns; fuzz, unit, integration & E2E tests",
-    "icon": "Bug",
-    "color": "from-red-500 to-orange-500",
-    "difficulty": "Advanced",
-    "topics": ["AI in Software Development", "Testing"]
-  },
-  {
-    "id": 16,
-    "title": "Autonomous Agents & Task Planners",
-    "description": "AutoGen, CrewAI, DSPy; decompose PRDs into dev tasks",
-    "icon": "Bot",
-    "color": "from-purple-500 to-indigo-500",
-    "difficulty": "Expert",
-    "topics": ["Agents", "AI Frameworks"]
-  },
-  {
-    "id": 17,
-    "title": "Agent Orchestration in n8n & MCP",
-    "description": "Multi-step workflows: generate component → write tests → draft docs",
-    "icon": "Workflow",
-    "color": "from-teal-500 to-green-500",
-    "difficulty": "Expert",
-    "topics": ["Agents", "Workflow"]
-  },
-  {
-    "id": 20,
-    "title": "Capstone: End-to-End AI-Enhanced SDLC",
-    "description": "Apply agents, RAG, MCP, Copilot & prompts to ship a full feature",
-    "icon": "Trophy",
-    "color": "from-gold-500 to-yellow-500 via-amber-500",
-    "difficulty": "Expert",
-    "topics": ["AI in Software Development", "Capstone"]
-  },
    {
     "id": 21,
     "title": "Generative AI in AWS",
@@ -195,5 +58,15 @@
     "difficulty": "Intermediate",
     "topics": ["AI Frameworks", "RAG"],
     "module_path": "/content/genai-in-aws"
+  },
+  {
+    "id": 21,
+    "title": "Agentic AI System",
+    "description": "Build intelligent agents with platform integration, multi-agent orchestration, and autonomous task execution",
+    "icon": "ZapIcon",
+    "color": "from-purple-500 to-blue-500",
+    "difficulty": "Advanced",
+    "topics": ["Agents", "AI Frameworks"],
+    "module_path": "/content/agentic-ai-course"
   }
 ]
