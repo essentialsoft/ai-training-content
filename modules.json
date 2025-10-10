@@ -61,12 +61,12 @@
   },
   {
     "id": 22,
-    "title": "Agentic AI System",
-    "description": "Build intelligent agents with platform integration, multi-agent orchestration, and autonomous task execution",
+    "title": "Agentic AI and workflow",
+    "description": "Build Agentic AI system, multi-agent orchestration, and autonomous task execution",
     "icon": "ZapIcon",
     "color": "from-purple-500 to-blue-500",
     "difficulty": "Advanced",
-    "topics": ["Agents", "MCP", "AI Frameworks"],
+    "topics": ["Agents", "MCP", "AI Frameworks", "workflow", "AI in Software Development],
     "module_path": "/content/agentic-ai-course"
   }
 ]
