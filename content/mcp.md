@@ -2,7 +2,7 @@
 
 **Difficulty** : Intermediate  
 
-**Topics** : AI Frameworks, AI Tools, Agents, Protocol, Workflow  
+**Topics** : AI Frameworks, AI Tools, Agents, MCP, Protocol, Workflow  
 
 ## Module Overview
 This module provides a comprehensive introduction to the Model Context Protocol (MCP), a standard for enabling AI agents to communicate consistently and securely. Learners will explore MCP fundamentals, architecture, and hands-on implementation, gaining the skills to integrate MCP into production-ready AI workflows at ESI and beyond.
