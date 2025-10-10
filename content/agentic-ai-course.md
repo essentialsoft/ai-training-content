@@ -2,7 +2,7 @@
 
 **Difficulty :** Advanced  
 
-**Topics :** AI Frameworks, AI Tools, Agents, Workflow, Fundamentals
+**Topics :** AI Frameworks, AI Tools, Agents, Workflow, Fundamentals, MCP
 
 
 ## Module Overview
