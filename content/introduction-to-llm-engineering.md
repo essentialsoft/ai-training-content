@@ -16,8 +16,8 @@ Learn the engineering that surrounds LLMs in production. This module covers inge
 
 ## Start the Course
 ### LLM Engineering: Master AI, Large Language Models & Agents
-**Instructor**: Ligency; Ed Donner
-**Duration**: 25h 30m
+**Instructor**: Ligency; Ed Donner  
+**Duration**: 25h 30m  
 **Last Updated**: December, 2024
 
 Hands-on program that builds eight production-grade LLM apps using RAG, QLoRA fine-tuning, and agentic workflows. Learners practice data ingestion, vector databases, and deployment patterns while comparing open-source and frontier models. By the end, developers can ship reliable LLM features with monitoring, guardrails, and modular pipelines aligned to enterprise delivery.
@@ -25,8 +25,8 @@ Hands-on program that builds eight production-grade LLM apps using RAG, QLoRA fi
 Access course via [Udemy](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/?utm_source=chatgpt.com&couponCode=PMNVD1525)  
 
 ### Engineering Practices for LLM Application Development
-**Instructor**: David Tan, Lead ML Engineer @ Thoughtworks; Jessie Wang, Senior Data Scientist @ Thoughtworks  
-**Duration**: self-paced
+**Instructor**: David Tan, Lead ML Engineer @ Thoughtworks; Jessie Wang, Senior Data Scientist @ Thoughtworks    
+**Duration**: self-paced  
 **Last Updated**: February 13, 2024
 
 Field guide from Thoughtworks engineers on shipping LLM applications responsibly. It covers example-based tests, LLM auto-evaluators, and adversarial prompts; prompt refactoring; and ethical guidelines. Readers learn practical architecture and delivery patterns that reduce regressions, improve safety, and keep iteration speed high—ideal for teams integrating LLMs into existing software systems.
