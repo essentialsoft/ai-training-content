@@ -68,5 +68,15 @@
     "difficulty": "Advanced",
     "topics": ["Agents", "MCP", "AI Frameworks", "workflow", "AI in Software Development"],
     "module_path": "/content/agentic-ai-course"
+  },
+  {
+    "id": 25,
+    "title": "Introduction to LLM Engineering",
+    "description": "Learn LLM production engineering: ingestion, retrieval, orchestration, evaluation, monitoring, and safety in scalable systems.",
+    "icon": "ZapIcon",
+    "color": "from-purple-500 to-blue-500",
+    "difficulty": "Advanced",
+    "topics": ["AI Frameworks", "AI Safety", "AI Tools", "AI in Software Development", "Agents", "RAG", "Testing", "Workflow"],
+    "module_path": "/content/introduction-to-llm-engineering"
   }
 ]

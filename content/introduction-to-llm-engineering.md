@@ -1,13 +1,8 @@
-<!--  Module Title -->
 # Introduction to LLM Engineering
 
 **Difficulty** :  Advanced
 
 **Topics** :  AI Frameworks, AI Safety, AI Tools, AI in Software Development, Agents, RAG, Testing, Workflow
-
-<!--  MODULE PAGE METADATA -->
-
-<!-- CONTENT -->
 
 ## Module Overview
 Learn the engineering that surrounds LLMs in production. This module covers ingestion pipelines, retrieval with vector databases, prompt orchestration, fine-tuning, evaluation, monitoring, and safety. You will design modular systems that are observable, testable, and scalable—aligned to ESI’s AI-powered software development lifecycle across platform, ML, and application teams.
@@ -21,8 +16,8 @@ Learn the engineering that surrounds LLMs in production. This module covers inge
 
 ## Start the Course
 ### LLM Engineering: Master AI, Large Language Models & Agents
-**Instructor**: Ligency; Ed Donner  
-**Duration**: 25h 30m 
+**Instructor**: Ligency; Ed Donner
+**Duration**: 25h 30m
 **Last Updated**: December, 2024
 
 Hands-on program that builds eight production-grade LLM apps using RAG, QLoRA fine-tuning, and agentic workflows. Learners practice data ingestion, vector databases, and deployment patterns while comparing open-source and frontier models. By the end, developers can ship reliable LLM features with monitoring, guardrails, and modular pipelines aligned to enterprise delivery.
@@ -31,7 +26,7 @@ Access course via [Udemy](https://www.udemy.com/course/llm-engineering-master-ai
 
 ### Engineering Practices for LLM Application Development
 **Instructor**: David Tan, Lead ML Engineer @ Thoughtworks; Jessie Wang, Senior Data Scientist @ Thoughtworks  
-**Duration**: self-paced  
+**Duration**: self-paced
 **Last Updated**: February 13, 2024
 
 Field guide from Thoughtworks engineers on shipping LLM applications responsibly. It covers example-based tests, LLM auto-evaluators, and adversarial prompts; prompt refactoring; and ethical guidelines. Readers learn practical architecture and delivery patterns that reduce regressions, improve safety, and keep iteration speed high—ideal for teams integrating LLMs into existing software systems.
