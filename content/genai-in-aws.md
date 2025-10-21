@@ -37,7 +37,7 @@ Access course via [Udemy](https://www.udemy.com/course/aws-ai-agents-complete-co
 
 ### Amazon AgentCore: Scale Your Agentic AI to Production
 **Instructor**: Bibhash Roy  
-**Duration**: 5 hours  
+**Duration**: 2 hours  
 **Last Updated**: September 2025  
 
 This focused course explores Bedrock AgentCore, enabling learners to build production-ready AI agents. Topics include orchestration, scalability, and integration with enterprise systems. Learners gain the ability to extend Bedrock into robust workflows and apply agentic design patterns across real-world applications in software development.  

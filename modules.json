@@ -6,7 +6,7 @@
     "icon": "BookOpen",
     "color": "from-blue-500 to-cyan-500",
     "difficulty": "Beginner",
-    "topics": ["AI Frameworks", "Fundamentals"],
+    "topics": ["Fundamentals", "AI Tools", "Prompt Engineering", "AI in Software Development", "RAG"],
     "module_path": "/content/fundamentals"
   },
   {
@@ -16,7 +16,7 @@
     "icon": "MousePointer",
     "color": "from-teal-500 to-cyan-500",
     "difficulty": "Beginner",
-    "topics": ["AI Tools", "IDE", "Copilot"],
+    "topics": ["AI Tools","IDE","Copilot","AI in Software Development","Prompt Engineering","Workflow","Testing","Documentation"],
     "module_path": "/content/introduction-to-ai-powered-ides"
   },
   {
@@ -36,7 +36,7 @@
     "icon": "Trophy",
     "color": "from-gold-500 to-yellow-500 via-amber-500",
     "difficulty": "Intermediate",
-    "topics": ["AI Frameworks", "RAG"],
+    "topics": ["AI Frameworks", "AI Tools", "Agents", "Bedrock", "AgentCore", "Workflow", "SageMaker", "Machine Learning", "Fundamentals"],
     "module_path": "/content/genai-in-aws"
   },
    {
@@ -56,7 +56,7 @@
     "icon": "Trophy",
     "color": "from-gold-500 to-yellow-500 via-amber-500",
     "difficulty": "Intermediate",
-    "topics": ["AI Frameworks", "MCP", "AI Tools", "Agents", "Protocol", "Workflow"],
+    "topics": ["AI Frameworks", "AI Tools", "Agents", "MCP", "Protocol", "Workflow"],
     "module_path": "/content/mcp"
   },
   {
@@ -66,7 +66,7 @@
     "icon": "ZapIcon",
     "color": "from-purple-500 to-blue-500",
     "difficulty": "Advanced",
-    "topics": ["Agents", "MCP", "AI Frameworks", "workflow", "AI in Software Development"],
+    "topics": ["AI Frameworks", "AI Tools", "Agents","Workflow","Fundamentals","MCP","AI in Software Development"],
     "module_path": "/content/agentic-ai-course"
   },
   {
@@ -76,7 +76,7 @@
     "icon": "ZapIcon",
     "color": "from-purple-500 to-blue-500",
     "difficulty": "Advanced",
-    "topics": ["AI Frameworks", "AI Safety", "AI Tools", "AI in Software Development", "Agents", "RAG", "Testing", "Workflow"],
+    "topics": ["AI Frameworks","AI Safety","AI Tools", "AI in Software Development","Agents", "RAG", "Testing", "Workflow"],
     "module_path": "/content/introduction-to-llm-engineering"
   }
 ]
