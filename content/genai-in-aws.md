@@ -1,5 +1,9 @@
 # Generatove AI in AWS
 
+**Difficulty** :  Intermediate
+
+**Topics** : AI in Software Development, Bedrock, AgentCore, SageMaker, Agentic 
+
 
 ## Module Overview
 This module provides hands-on training with Amazon Bedrock, AgentCore, and SageMaker to design, deploy, and scale generative AI systems. It combines foundational knowledge with advanced use cases, enabling learners to build agentic workflows and production-ready AI models. The skills directly support ESI’s AI-powered software development processes and enterprise roles.
@@ -32,7 +36,7 @@ Access course via [Udemy](https://www.udemy.com/course/aws-ai-agents-complete-co
 
 ### Amazon AgentCore: Scale Your Agentic AI to Production
 **Instructor**: Bibhash Roy  
-**Duration**: 5 hours  
+**Duration**: 2 hours  
 **Last Updated**: September 2025  
 
 This focused course explores Bedrock AgentCore, enabling learners to build production-ready AI agents. Topics include orchestration, scalability, and integration with enterprise systems. Learners gain the ability to extend Bedrock into robust workflows and apply agentic design patterns across real-world applications in software development.  
