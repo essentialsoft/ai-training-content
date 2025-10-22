@@ -1,4 +1,4 @@
-# Generatove AI in AWS
+# Generative AI in AWS
 
 **Difficulty** :  Intermediate
 
@@ -16,6 +16,11 @@ This module provides hands-on training with Amazon Bedrock, AgentCore, and SageM
 - Evaluate production deployment strategies for AI solutions on AWS.  
 
 ## Start the Course
+
+### Request License
+
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources](https://academy.essential-soft.ai/training-resources) page to request a license.
+
 ### Amazon Bedrock - The Complete Guide to AWS Generative AI
 **Instructor**: Alex Dan, Bryan Krausen  
 **Duration**: 8 hours  
