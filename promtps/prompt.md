@@ -43,6 +43,7 @@ Fields and constraints come from ESI's Module template:
    - **Duration**: If < 60 minutes → "NN minutes". If ≥ 60 minutes → "H hours" (round to one decimal, e.g., 1.5 hours). If the course lists hours & minutes, convert to hours with one decimal. "self-paced" if there's no duration
    - **Last Updated**: The most recent "last updated" or "published" date visible on the course page. Format as "Month D, YYYY". If not available, write "Not stated". Leave it blank if there's no updated time. 
    - **50‑word description**: Summarize audience, what is covered, and the outcome (≈50 words, 45–55 allowed).
+7.  **Request License** — Use exact language: "Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit      our [Training Resources] page to request a license."
 
 
 ## SCOPE & SELECTION
@@ -54,7 +55,7 @@ Fields and constraints come from ESI's Module template:
 - **Durations**: Extract the platform's stated duration. Apply the minutes/hours rule above: Xm (under 1h), Xh Ym (mixed), Xh (exact hours).
 - **Dates**: Prefer an explicit "Last updated" date; if missing, use a visible published/release date; otherwise write "Not stated".
 - **Names & credentials**: Copy exact spelling; include degrees/certifications if shown in the course bio line (e.g., "PhD", "PE", "MBA").
-- **Links**: Use Markdown links."Access course via [Platform]" links to {{ESI_TRAINING_RESOURCE_URL}}.
+- **Links**: Use Markdown links."Access course via [Platform]" and "Visit our [Training Resources]" links to {{ESI_TRAINING_RESOURCE_URL}}.
 
 ## DIFFICULTY & TOPICS CLASSIFICATION HEURISTICS (apply consistently)
 
@@ -113,8 +114,8 @@ Below is the template. You need to print the final output in a MARKDOWN FILE.
 
 Access course via [<Platform Name>](<course URL>)  
 
-
-
+## Request a License
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources] page to request a license.
 
 ## QC Checklist (Quality Check Before Finalizing)
 
