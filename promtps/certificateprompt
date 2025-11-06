@@ -11,31 +11,17 @@ Respond in a markdown file.
 https://www.promptingguide.ai/
 https://cloud.google.com/discover/what-is-prompt-engineering?hl=en}}
 - **EXAMSOURCE_URL**: {{}}
+- **IS_CERTIFICATION_PROGRAM**: {{true | false}}
 
 ## AUTHORITATIVE TEMPLATE & RULES (follow strictly)
 
-Fields and constraints come from ESI's Module template:
+All outputs must be in Markdown and ready for publication.
 
+### Required Fields
+Fields and constraints come from ESI's Module template:
 1. **Module Title** — ≤ 70 characters; Title Case; concise and specific.
 2. **Difficulty** — choose exactly one: Beginner | Intermediate | Advanced | Expert.
-3. **Topics** — choose only from this controlled list (include all that apply; do not invent new ones):
-   - AI Frameworks
-   - AI Safety
-   - AI Tools
-   - AI in Software Development
-   - Agents
-   - Capstone
-   - Copilot
-   - Design Systems
-   - Documentation
-   - Fundamentals
-   - IDE
-   - Multimodal
-   - Prompt Engineering
-   - Protocol
-   - RAG
-   - Testing
-   - Workflow
+3. **Topics** — choose only from this controlled list (include all that apply; do not invent new ones): AI Frameworks | AI Safety | AI Tools | AI in Software Development | Agents | Capstone | Copilot | Design Systems | Documentation | Fundamentals | IDE | Multimodal | Prompt Engineering | Protocol | RAG | Testing | Workflow
 4. **Module Overview** — ≤ 100 words; single paragraph; introduce the module and key concepts. Where relevant, note how the concept integrates with ESI's AI‑powered software development cycle or roles.
 5. **Learning Objectives** — 3–5 bullets; each should be one sentence starting with a strong action verb (e.g., Identify, Explain, Apply, Build, Evaluate, Optimize, Troubleshoot).
 6. **Courses** (1–3 entries). For each course from SOURCE_URL provided, include exactly:
@@ -45,8 +31,8 @@ Fields and constraints come from ESI's Module template:
    - **Last Updated**: The most recent "last updated" or "published" date visible on the course page. Format as "Month D, YYYY". If not available, write "Not stated". Leave it blank if there's no updated time. 
    - **50‑word description**: Summarize audience, what is covered, and the outcome (≈50 words, 45–55 allowed).
 7. **Request License** — Use exact language: "Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources] page to request a license."
-8. **Practice Exams** — For the practice exam from EXAMSOURCE_URL insert the link and platform in this language: "After you've completed the courses, you can test your knowledge with the following free practice test via [testplatform]."
-9. **Earn Your Certification** — Use exact language: Once you're ready to earn your certificate, follow the instructions on the [Training Resources] page to earn and register your certification with ESI.
+8. **Practice Exams** — For the practice exam from EXAMSOURCE_URL insert the link and platform in this language: "After you've completed the courses, you can test your knowledge with the following free practice test via [testplatform]." **only if `EXAMSOURCE_URL` is provided**.  
+9. **Earn Your Certification** — Use exact language: Once you're ready to earn your certificate, follow the instructions on the [Training Resources] page to earn and register your certification with ESI. **only if `IS_CERTIFICATION_PROGRAM` = true**.
 
 ## SCOPE & SELECTION
 
@@ -58,6 +44,8 @@ Fields and constraints come from ESI's Module template:
 - **Dates**: Prefer an explicit "Last updated" date; if missing, use a visible published/release date; otherwise write "Not stated".
 - **Names & credentials**: Copy exact spelling; include degrees/certifications if shown in the course bio line (e.g., "PhD", "PE", "MBA").
 - **Links**: Use Markdown links."Access course via [Platform]" and "Visit our [Training Resources]" links to {{ESI_TRAINING_RESOURCE_URL}}.
+
+ 
 
 ## DIFFICULTY & TOPICS CLASSIFICATION HEURISTICS (apply consistently)
 
@@ -83,7 +71,7 @@ Write at a professional but accessible level (around a 9th–10th grade reading 
 
 If any information is missing and can't be reasonably inferred, please insert 'Investigate' as a placeholder.
 
-Below is the template. You need to print the final output in a MARKDOWN FILE. 
+Below is the template. Output only the final Markdown file—no explanations, notes, or commentary.
 
 <!--  Module Title -->
 # <Your module title here>
@@ -119,12 +107,16 @@ Access course via [<Platform Name>](<course URL>)
 ## Request a License
 Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources] page to request a license.
 
-##Practice Exams
+{% if EXAMSOURCE_URL is provided %}
+## Practice Exams
 After you've completed the courses, you can test your knowledge with the following free practice test via [platform](<exam URL>). 
+{% endif %}
 
-##Earn Your Certification
+{% if IS_CERTIFICATION_PROGRAM == true %}
+## Earn Your Certification
 Once you're ready to earn your certificate, follow the instructions on the [Training Resources] page to earn and register your certification with ESI.
-  
+{% endif %}
+
 ## QC Checklist (Quality Check Before Finalizing)
 
 - [ ] Confirm the Module Title matches the pre-approved version and is ≤70 characters.
