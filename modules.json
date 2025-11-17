@@ -1,4 +1,13 @@
-[
+[  {
+    "id": 12,
+    "title": "POC",
+    "description": "Master transformers, diffusion models, and why they matter in everyday coding",
+    "icon": "BookOpen",
+    "color": "from-blue-500 to-cyan-500",
+    "difficulty": "Beginner",
+    "topics": ["Fundamentals", "AI Tools", "Prompt Engineering", "AI in Software Development", "RAG"],
+    "module_path": "/content/test"
+  },
   {
     "id": 1,
     "title": "Generative AI Fundamentals for Developers",
