@@ -21,8 +21,11 @@ This module provides a targeted pathway to prepare for the AWS Certified Data En
 ### AWS Certified Data Engineer Associate 2025 – Hands On!
 
 **Instructor**: Stéphane Maarek & Frank Kane
+
 **Duration**: 22 hours 
+
 **Last Updated**: November 2025
+
 This course delivers comprehensive coverage of the DEA-C01 exam domains, including AWS data ingestion (S3, Kinesis, MSK), transformation (Glue, EMR, Lambda), orchestration (Step Functions, EventBridge), data stores (Redshift, DynamoDB) and governance/security best practices. It blends video lectures, hands-on labs and a full-length practice exam to help you build job-ready skills on AWS data engineering. 
 
 Access course via [Udemy](https://gale.udemy.com/course/aws-data-engineer/)
@@ -30,8 +33,11 @@ Access course via [Udemy](https://gale.udemy.com/course/aws-data-engineer/)
 ### Exam-Prep Plan: AWS Certified Data Engineer – Associate (DEA-C01)
 
 **Provided by**: AWS Skill Builder
+
 **Duration**: 17 hours 
+
 **Last Updated**: May 2025 
+
 Official digital exam-prep from AWS via Skill Builder. The plan introduces the DEA-C01 certification, offers practice question sets and guides you through exam domains: ingestion & transformation, data store management, operations/support and security/governance. 
 
 Access course via [AWS Skill Builder](https://skillbuilder.aws/learning-plan/QYZWVSMX4B/exam-prep-plan-aws-certified-data-engineer--associate-deac01--english/YTMBK7R698)

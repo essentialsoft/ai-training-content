@@ -1,6 +1,7 @@
 # AWS Solutions Architect Associate Certification Preparation
 
 **Difficulty** : Intermediate
+
 **Topics** : Fundamentals, Documentation, Workflow
 
 ## Module Overview
@@ -20,7 +21,9 @@ This module provides a targeted pathway to prepare for the AWS Certified Solutio
 ### Ultimate AWS Certified Solutions Architect Associate 2025
 
 **Instructor**: Stephane Maarek
+
 **Duration**: 27 hours
+
 **Last Updated**: November 2025 
 
 This course is designed for those seeking to pass the SAA-C03 certification and gain real-world AWS architecture experience. It covers AWS fundamentals (EC2, S3, RDS), serverless patterns (Lambda, DynamoDB, API Gateway), containers, security practices, well-architected framework, and hands-on labs. It’s a logical step for ESI team members building cloud design skills and aligning with our AI-powered workflows.
@@ -30,7 +33,9 @@ Access course via [Udemy](https://www.udemy.com/course/aws-certified-solutions-a
 ### AWS Solutions Architect Learning Plan (includes labs)
 
 **Provided by**: AWS Skill Builder
+
 **Duration**: 66 hours
+
 **Last Updated**: October 2025
 
 This curated learning plan includes guided hands-on labs and real-world AWS scenarios that reinforce architectural understanding. It complements the Udemy course by providing practical, sandboxed environments where ESI team members can build and test cloud architectures without infrastructure risk. 
