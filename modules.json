@@ -78,5 +78,15 @@
     "difficulty": "Advanced",
     "topics": ["AI Frameworks","AI Safety","AI Tools", "AI in Software Development","Agents", "RAG", "Testing", "Workflow"],
     "module_path": "/content/introduction-to-llm-engineering"
+  },
+  {
+    "id": 26,
+    "title": "AWS Certified Data Engineer",
+    "description": "This module provides a targeted pathway to prepare for the AWS Certified Data Engineer – Associate certification (DEA-C01). Learners will deepen their understanding of key data engineering workflows on AWS—ingestion, storage, transformation, orchestration and governance—within ESI’s AI-powered software development lifecycle. The focus is on practical pipeline design and operational readiness.",
+    "icon": "ZapIcon",
+    "color": "from-purple-500 to-blue-500",
+    "difficulty": "Intermediate",
+    "topics": ["AWS", "Data Engineering", "Fundamentals", "Workflow"],
+    "module_path": "/content/aws-certified-data-engineer"
   }
 ]
