@@ -81,12 +81,22 @@
   },
   {
     "id": 26,
-    "title": "AWS Certified Data Engineer",
-    "description": "This module provides a targeted pathway to prepare for the AWS Certified Data Engineer – Associate certification (DEA-C01). Learners will deepen their understanding of key data engineering workflows on AWS—ingestion, storage, transformation, orchestration and governance—within ESI’s AI-powered software development lifecycle. The focus is on practical pipeline design and operational readiness.",
+    "title": "AWS Certified Data Engineer Associate",
+    "description": "This module provides a targeted pathway to prepare for the AWS Certified Data Engineer – Associate certification (DEA-C01).",
     "icon": "ZapIcon",
     "color": "from-purple-500 to-blue-500",
     "difficulty": "Intermediate",
     "topics": ["AWS", "Data Engineering", "Fundamentals", "Workflow"],
     "module_path": "/content/aws-certified-data-engineer"
+  },
+  {
+    "id": 27,
+    "title": "AWS Certified Solutions Architect Associate",
+    "description": "his module prepares you for the AWS Certified Solutions Architect – Associate (SAA‑C03) certification.",
+    "icon": "ZapIcon",
+    "color": "from-purple-500 to-blue-500",
+    "difficulty": "Intermediate",
+    "topics": ["AWS", "Fundamentals", "Workflow"],
+    "module_path": "/content/aws-certified-solutions-architect"
   }
 ]
