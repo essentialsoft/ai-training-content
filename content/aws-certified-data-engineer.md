@@ -21,17 +21,17 @@ This module provides a targeted pathway to prepare for the AWS Certified Data En
 ### AWS Certified Data Engineer Associate 2025 – Hands On!
 
 **Instructor**: Stéphane Maarek & Frank Kane
-**Duration**: 21.5 hours ([Course Coupon Club][1])
-**Last Updated**: Investigate
+**Duration**: 22 hours 
+**Last Updated**: November 2025
 This course delivers comprehensive coverage of the DEA-C01 exam domains, including AWS data ingestion (S3, Kinesis, MSK), transformation (Glue, EMR, Lambda), orchestration (Step Functions, EventBridge), data stores (Redshift, DynamoDB) and governance/security best practices. It blends video lectures, hands-on labs and a full-length practice exam to help you build job-ready skills on AWS data engineering. ([Class Central][2])
 
 Access course via [Udemy](https://gale.udemy.com/course/aws-data-engineer/)
 
 ### Exam-Prep Plan: AWS Certified Data Engineer – Associate (DEA-C01)
 
-**Instructor**: Investigate
-**Duration**: 6 hours (Standard) ([Amazon Web Services, Inc.][3])
-**Last Updated**: August 21, 2024 ([AWS Builder Center][4])
+**Instructor**: AWS
+**Duration**: 17 hours 
+**Last Updated**: May 2025 
 Official digital exam-prep from AWS via Skill Builder. The plan introduces the DEA-C01 certification, offers practice question sets and guides you through exam domains: ingestion & transformation, data store management, operations/support and security/governance. ([Amazon Web Services, Inc.][5])
 
 Access course via [AWS Skill Builder](https://skillbuilder.aws/learning-plan/QYZWVSMX4B/exam-prep-plan-aws-certified-data-engineer--associate-deac01--english/YTMBK7R698)
@@ -43,24 +43,3 @@ Don't have a license to access one of the training courses in the module? We hav
 ## Earn Your Certification
 
 Once you're ready to earn your certificate, follow the instructions on the [Training Resources] page to earn and register your certification with ESI.
-
-## QC Checklist (Quality Check Before Finalizing)
-
-* [x] Confirm the Module Title matches the pre-approved version and is ≤70 characters.
-* [x] Verify Difficulty is correctly assigned (Beginner, Intermediate, Advanced, Expert).
-* [ ] Ensure Topics are selected from the approved list and multiple topics are applied if needed.
-* [x] Review the Module Overview: ≤100 words, clear, relevant, and role/ESI-linked.
-* [x] Check Learning Objectives: 3–5 items, start with action verbs, derived if not provided.
-* [x] Confirm Instructor is listed (name only; credentials included only if provided).
-* [x] Check Duration formatting: Xm (under 1h), Xh Ym (mixed), Xh (exact hours).
-* [x] Verify Last Updated field: matches provided date, or defaults to “Investigate” if missing.
-* [x] Ensure Course Description is rewritten to ≈50 words and is clear and concise.
-* [x] Confirm Training Platform is consistent.
-* [x] Look for any 'Investigate' placeholders and follow up to resolve them.
-* [x] Double-check tone: clear, motivating, active voice, ~9th–10th grade reading level.
-
-[1]: https://coursecouponclub.com/aws-data-engineer/?utm_source=chatgpt.com "[Udemy Coupon] AWS Certified Data Engineer Associate 2025 - Hands On!"
-[2]: https://www.classcentral.com/course/udemy-aws-data-engineer-283573?utm_source=chatgpt.com "Online Course: AWS Certified Data Engineer Associate 2025 - Hands On! from Udemy | Class Central"
-[3]: https://aws.amazon.com/blogs/training-and-certification/feb-2024-new-offerings/?utm_source=chatgpt.com "New courses and certification offerings from AWS Training and Certification in February 2024 | AWS Training and Certification Blog"
-[4]: https://community.aws/content/2jfFq9MtmSBu2sc7jwjN15bPuqw/aws-certified-data-engineer---associate?utm_source=chatgpt.com "AWS | Community | Resources to help you prepare for AWS Certified Data Engineer - Associate"
-[5]: https://aws.amazon.com/certification/certified-data-engineer-associate/?utm_source=chatgpt.com "AWS Certified Data Engineer - Associate Certification"
