@@ -86,7 +86,7 @@
     "icon": "ZapIcon",
     "color": "from-purple-500 to-blue-500",
     "difficulty": "Intermediate",
-    "topics": ["AWS", "Data Engineering", "Fundamentals", "Workflow"],
+    "topics": ["Fundamentals", "Workflow"],
     "module_path": "/content/aws-certified-data-engineer"
   },
   {
@@ -96,7 +96,7 @@
     "icon": "ZapIcon",
     "color": "from-purple-500 to-blue-500",
     "difficulty": "Intermediate",
-    "topics": ["AWS", "Fundamentals", "Workflow"],
+    "topics": ["Fundamentals", "Documentation", "Workflow"],
     "module_path": "/content/aws-certified-solutions-architect"
   }
 ]
