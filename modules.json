@@ -1,5 +1,15 @@
 [
   {
+    "id": 22,
+    "title": "AWS DevOps Engineer Professional Certification Prep",
+    "description": "Prepare for the AWS Certified DevOps Engineer exam with these courses and practice exam.",
+    "icon": "Trophy",
+    "color": "from-blue-500 to-cyan-500",
+    "difficulty": "Advanced",
+    "topics": ["Workflow", "Testing", "Documentation"],
+    "module_path": "/content/aws-devops-certificate"
+  },
+  {
     "id": 1,
     "title": "Generative AI Fundamentals for Developers",
     "description": "Master transformers, diffusion models, and why they matter in everyday coding",
