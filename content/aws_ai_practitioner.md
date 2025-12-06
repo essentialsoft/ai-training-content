@@ -1,6 +1,6 @@
 # AWS Certified AI Practitioner (AIF-C01) Training Module
 
-**Difficulty** : Intermediate
+**Difficulty** : Beginner
 
 **Topics** : Fundamentals, AI Tools, RAG, Prompt Engineering, Multimodal
 
@@ -38,13 +38,24 @@ This bootcamp delivers an in-depth review of all exam domains including machine 
 
 Access course via [Udemy](https://www.udemy.com/course/aif-c01-comprehensive-aws-certified-ai-practitioner-aif-c01-bootcamp/)
 
-### AWS Certified AI Practitioner (AIF-C01): Fundamentals of AI and ML
+### Standard Exam Prep Plan: AWS Certified AI Practitioner (AIF-C01)
 
-**Instructor**: Noreen Hasan ([Pluralsight][4])
-**Duration**: 2.1 hours ([Pluralsight][5])
-**Last Updated**: November 13, 2024 ([Pluralsight][5])
+**Duration**: self-paced
+**Last Updated**: Not stated
 
-This course covers foundational AI and ML theory, including deep learning, neural networks, NLP, and AWS-managed AI/ML services like SageMaker, Rekognition, and Comprehend. It’s ideal for learners who want to build a strong theoretical base before diving into AWS-specific AI tools. ([Pluralsight][5])
+This AWS Skill Builder learning plan organizes a four-step exam preparation path with domain-based training, hands-on labs, flashcards, and exam-style questions. It reinforces AI, ML, and generative AI fundamentals while emphasizing AWS-native workflows, making it ideal for ESI employees who want structured, official guidance aligned to the current AIF-C01 exam blueprint. ([Class Central][5])
+
+Access course via [AWS Skill Builder](https://skillbuilder.aws/learning-plan/3NRN71QZR2/exam-prep-plan-aws-certified-ai-practitioner-aifc01--english/FBV4STG94B)
+
+---
+
+### AWS Certified AI Practitioner (AIF-C01) – Pluralsight Path
+
+**Instructor**: Michael Cassidy, Noreen Hasan, Chris Jackson ([Pluralsight][6])
+**Duration**: 7 hours ([Pluralsight][6])
+**Last Updated**: January 7, 2025 ([Pluralsight][6])
+
+This Pluralsight certification path combines six focused courses and a practice exam to cover all AIF-C01 domains: AI/ML fundamentals, generative AI, foundation model applications, responsible AI, and security, compliance, and governance. It’s well suited to ESI technical and non-technical staff who prefer modular, video-based learning with clear objectives and exam tips. ([Pluralsight][6])
 
 Access course via [Pluralsight](https://www.pluralsight.com/paths/aws-certified-ai-practitioner-aif-c01)
 
@@ -54,7 +65,9 @@ Don't have a license to access one of the training courses in the module? We hav
 
 ## Practice Exams
 
-After you've completed the courses, you can test your knowledge with the following free practice test via [Udemy](https://www.udemy.com/course/aws-aif-c01-practice-exams/) course. ([Udemy][6])
+After you've completed the courses, you can test your knowledge with the following free practice test via [Udemy](https://www.udemy.com/course/aws-ai-practitioner-certification-aif-c01-practice-exams/).
+
+After you've completed the courses, you can test your knowledge with the following free practice test via [Udemy](https://www.udemy.com/course/practice-exams-aws-certified-ai-practitioner/).
 
 ## Earn Your Certification
 
