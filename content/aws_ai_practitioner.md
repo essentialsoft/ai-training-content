@@ -1,4 +1,4 @@
-# AWS Certified AI Practitioner (AIF-C01) Training Module
+# AWS Certified AI Practitioner Training Module
 
 **Difficulty** : Beginner
 
