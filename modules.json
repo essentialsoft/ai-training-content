@@ -98,7 +98,7 @@
     "difficulty": "Intermediate",
     "topics": ["Fundamentals", "Documentation", "Workflow"],
     "module_path": "/content/aws-certified-solutions-architect"
-  }
+  },
   {
     "id": 28,
     "title": "AWS Certified AI Practioner",
@@ -108,7 +108,7 @@
     "difficulty": "Beginner",
     "topics": ["Fundamentals", "Documentation", "Workflow"],
     "module_path": "/content/aws_ai_practioner"
-  }
+  },
   {
     "id": 29,
     "title": "AWS Certified Generative AI Developer – Professional",
