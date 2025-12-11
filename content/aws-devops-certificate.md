@@ -50,7 +50,7 @@ Access course via [Pluralsight](https://www.pluralsight.com/paths/aws-certified-
 
 ## Request a License
 
-Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources] page to request a license.
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources](https://academy.essential-soft.ai/training-resources) page to request a license.
 
 ## Practice Exams
 
@@ -58,7 +58,7 @@ After you've completed the courses, you can test your knowledge with the followi
 
 ## Earn Your Certification
 
-Once you're ready to earn your certificate, follow the instructions on the [Training Resources] page to earn and register your certification with ESI.
+Once you're ready to earn your certificate, follow the instructions on the [Training Resources](https://academy.essential-soft.ai/training-resources) page to earn and register your certification with ESI.
 
 QC Checklist (Quality Check Before Finalizing)
 
