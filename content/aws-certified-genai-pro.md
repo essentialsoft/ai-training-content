@@ -24,7 +24,7 @@ This module prepares experienced cloud developers and technical leads for the AW
 **Duration**: 22.0 hours ([Udemy][1])
 **Last Updated**: December 9, 2025 ([Udemy][1])
 
-This comprehensive course provides end-to-end preparation for the AWS Certified Generative AI Developer – Professional exam. You'll build GenAI applications with Amazon Bedrock, SageMaker, and serverless tools; implement RAG architectures; orchestrate agentic workflows; and practice with quizzes and a full 75-question practice exam aligned to the official AWS exam guide. ([Udemy][1])
+This comprehensive course provides end-to-end preparation for the AWS Certified Generative AI Developer (â€”) Professional exam. You'll build GenAI applications with Amazon Bedrock, SageMaker, and serverless tools; implement RAG architectures; orchestrate agentic workflows; and practice with quizzes and a full 75-question practice exam aligned to the official AWS exam guide. ([Udemy][1])
 
 Access course via [Udemy](https://www.udemy.com/course/ultimate-aws-certified-generative-ai-developer-professional/)
 
