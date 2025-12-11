@@ -1,4 +1,4 @@
-# AWS DevOps Engineer Professional Certification Prep //Test
+# AWS DevOps Engineer Professional Certification Prep
 
 **Difficulty** : Advanced
 
