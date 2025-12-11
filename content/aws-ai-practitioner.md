@@ -6,7 +6,7 @@
 
 ## Module Overview
 
-This module guides learners through the core concepts and AWS services needed for the AWS Certified AI Practitioner (AIF-C01) certification. The courses cover foundational AI/ML theory, generative AI with AWS, prompt engineering, and practical hands-on labs using services like Amazon SageMaker and Amazon Bedrock. This knowledge supports ESI's AI-powered software development cycle (—) from idea and prototyping to deployment and maintenance.
+This module guides learners through the core concepts and AWS services needed for the AWS Certified AI Practitioner (AIF-C01) certification. The courses cover foundational AI/ML theory, generative AI with AWS, prompt engineering, and practical hands-on labs using services like Amazon SageMaker and Amazon Bedrock. This knowledge supports ESI's AI-powered software development cycle — from idea and prototyping to deployment and maintenance.
 
 ## Learning Objectives
 
@@ -49,7 +49,7 @@ Access course via [AWS Skill Builder](https://skillbuilder.aws/learning-plan/3NR
 
 ---
 
-### AWS Certified AI Practitioner (AIF-C01) (—) Pluralsight Path
+### AWS Certified AI Practitioner (AIF-C01) - Pluralsight Path
 
 **Instructor**: Michael Cassidy, Noreen Hasan, Chris Jackson ([Pluralsight][6])
 **Duration**: 7 hours ([Pluralsight][6])
@@ -61,7 +61,7 @@ Access course via [Pluralsight](https://www.pluralsight.com/paths/aws-certified-
 
 ## Request a License
 
-Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources] page to request a license.
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources](https://academy.essential-soft.ai/training-resources) page to request a license.
 
 ## Practice Exams
 
@@ -71,7 +71,7 @@ After you've completed the courses, you can test your knowledge with the followi
 
 ## Earn Your Certification
 
-Once you're ready to earn your certificate, follow the instructions on the [Training Resources] page to earn and register your certification with ESI.
+Once you're ready to earn your certificate, follow the instructions on the [Training Resources](https://academy.essential-soft.ai/training-resources) page to earn and register your certification with ESI.
 
 [1]: https://www.udemy.com/course/aws-ai-practitioner-certified/?utm_source=chatgpt.com "[NEW] Ultimate AWS Certified AI Practitioner AIF-C01 - Udemy"
 [2]: https://www.classcentral.com/course/udemy-aif-c01-comprehensive-aws-certified-ai-practitioner-aif-c01-bootcamp-458795?utm_source=chatgpt.com "Comprehensive AWS Certified AI Practitioner AIF-C01 Bootcamp"
