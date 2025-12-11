@@ -26,7 +26,7 @@ Prepare for the AWS Certified DevOps Engineer – Professional (DOP-C02) exam. T
 
 Hands-on preparation for the DOP-C02 exam with advanced AWS automations. Covers real-world DevOps skills, exam-focused topics, and practical labs. Ideal for experienced AWS engineers aiming to validate expertise while sharpening day-to-day operations, CI/CD, and reliability practices used across ESI product teams. Approximately 50 words.
 
-Access course via Udemy
+Access course via [Udemy](https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/)
 
 ### AWS Certified DevOps Engineer – Professional 2025 [NEW]
 
@@ -36,7 +36,7 @@ Access course via Udemy
 
 Comprehensive coverage of DOP-C02 concepts for candidates with baseline AWS knowledge. Explains DevOps services and exam strategy, with quizzes and practice sections to confirm readiness. Useful for engineers seeking a guided path from service fundamentals to exam-level scenarios and workflow application in ESI environments. Approximately 50 words.
 
-Access course via Udemy
+Access course via [Udemy](https://www.udemy.com/course/aif-c01-comprehensive-aws-certified-ai-practitioner-aif-c01-bootcamp/)
 
 ### AWS Certified DevOps Engineer – Professional (DOP-C02)
 
@@ -46,7 +46,7 @@ Access course via Udemy
 
 Pluralsight’s certification path spans SDLC automation, IaC, monitoring, security/compliance, incident response, and resilient solutions. Short lessons, labs, and quizzes deepen service proficiency and exam domain mastery. Suited to engineers standardizing AWS delivery pipelines and reliability patterns used in ESI’s software development lifecycle. Approximately 50 words.
 
-Access course via Pluralsight
+Access course via [Pluralsight](https://www.pluralsight.com/paths/aws-certified-devops-engineer-professional/)
 
 ## Request a License
 
@@ -54,7 +54,7 @@ Don't have a license to access one of the training courses in the module? We hav
 
 ## Practice Exams
 
-After you've completed the courses, you can test your knowledge with the following free practice test via Udemy.
+After you've completed the courses, you can test your knowledge with the following free practice test via [Udemy](https://www.udemy.com/course/aws-certified-devops-engineer-professional-practice-exam-dop/).
 
 ## Earn Your Certification
 
