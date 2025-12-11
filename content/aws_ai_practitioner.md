@@ -49,7 +49,7 @@ Access course via [AWS Skill Builder](https://skillbuilder.aws/learning-plan/3NR
 
 ---
 
-### AWS Certified AI Practitioner (AIF-C01) (-) Pluralsight Path
+### AWS Certified AI Practitioner (AIF-C01) (—) Pluralsight Path
 
 **Instructor**: Michael Cassidy, Noreen Hasan, Chris Jackson ([Pluralsight][6])
 **Duration**: 7 hours ([Pluralsight][6])
