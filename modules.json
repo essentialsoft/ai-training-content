@@ -92,11 +92,31 @@
   {
     "id": 27,
     "title": "AWS Certified Solutions Architect Associate",
-    "description": "his module prepares you for the AWS Certified Solutions Architect – Associate (SAA‑C03) certification.",
+    "description": "This module prepares you for the AWS Certified Solutions Architect – Associate (SAA‑C03) certification.",
     "icon": "ZapIcon",
     "color": "from-purple-500 to-blue-500",
     "difficulty": "Intermediate",
     "topics": ["Fundamentals", "Documentation", "Workflow"],
     "module_path": "/content/aws-certified-solutions-architect"
+  }
+  {
+    "id": 28,
+    "title": "AWS Certified AI Practioner",
+    "description": "This module guides learners through the core concepts and AWS services needed for the AWS Certified AI Practitioner (AIF-C01) certification.",
+    "icon": "ZapIcon",
+    "color": "from-purple-500 to-blue-500",
+    "difficulty": "Beginner",
+    "topics": ["Fundamentals", "Documentation", "Workflow"],
+    "module_path": "/content/aws_ai_practioner"
+  }
+  {
+    "id": 29,
+    "title": "AWS Certified Generative AI Developer – Professional",
+    "description": "This module prepares experienced cloud developers and technical leads for the AWS Certified Generative AI Developer – Professional (AIP-C01) exam.",
+    "icon": "ZapIcon",
+    "color": "from-purple-500 to-blue-500",
+    "difficulty": "Beginner",
+    "topics": ["Fundamentals", "Documentation", "Workflow"],
+    "module_path": "/content/aws_certified-genai-pro"
   }
 ]
