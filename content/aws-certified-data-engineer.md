@@ -53,20 +53,3 @@ After you've completed the courses, you can test your knowledge with the followi
 ## Earn Your Certification
 
 Once you're ready to earn your certificate, follow the instructions on the [Training Resources](https://academy.essential-soft.ai/training-resources) page to earn and register your certification with ESI.
-
----
-
-## QC Checklist (Quality Check Before Finalizing)
-
-* [ ] Confirm the Module Title matches the pre-approved version and is ≤70 characters.
-* [ ] Verify Difficulty is correctly assigned (Beginner, Intermediate, Advanced, Expert).
-* [ ] Ensure Topics are selected from the approved list and multiple topics are applied if needed.
-* [ ] Review the Module Overview: ≤100 words, clear, relevant, and role/ESI-linked.
-* [ ] Check Learning Objectives: 3–5 items, start with action verbs, derived if not provided.
-* [ ] Confirm Instructor is listed (name only; credentials included only if provided).
-* [ ] Check Duration formatting: Xm (under 1h), Xh Ym (mixed), Xh (exact hours).
-* [ ] Verify Last Updated field: matches provided date, or defaults to current year if missing.
-* [ ] Ensure Course Description is rewritten to <50 words and is clear and concise.
-* [ ] Confirm Training Platform is consistent (AWS Skillbuilder, Udemy, Pluralsight).
-* [ ] Look for any 'Investigate' placeholders and follow up to resolve them.
-* [ ] Double-check tone: clear, motivating, active voice, ~9th–10th grade reading level.
