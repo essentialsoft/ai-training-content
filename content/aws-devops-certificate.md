@@ -1,4 +1,4 @@
-# AWS DevOps Engineer Professional Certification Prep
+# AWS DevOps Engineer Professional Certification Preparation
 
 **Difficulty** : Advanced
 
@@ -20,28 +20,32 @@ Prepare for the AWS Certified DevOps Engineer – Professional (DOP-C02) exam. T
 
 ### AWS Certified DevOps Engineer Professional 2025 - DOP-C02
 
-**Instructor**: Stéphane Maarek | AWS Certified Cloud Practitioner, Solutions Architect, Developer
-**Duration**: 20.0 hours
+**Instructor**: Stéphane Maarek | AWS Certified Cloud Practitioner, Solutions Architect, Developer  
+**Duration**: 20 hours  
 **Last Updated**: November 2025
 
 Hands-on preparation for the DOP-C02 exam with advanced AWS automations. Covers real-world DevOps skills, exam-focused topics, and practical labs. Ideal for experienced AWS engineers aiming to validate expertise while sharpening day-to-day operations, CI/CD, and reliability practices used across ESI product teams. Approximately 50 words.
 
 Access course via [Udemy](https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/)
 
-### AWS Certified DevOps Engineer – Professional 2025 [NEW]
+---
 
-**Instructor**: Zeal Vora
-**Duration**: self-paced
+### AWS Certified DevOps Engineer – Professional 2025
+
+**Instructor**: Zeal Vora  
+**Duration**: Self-paced  
 **Last Updated**: July 2025
 
 Comprehensive coverage of DOP-C02 concepts for candidates with baseline AWS knowledge. Explains DevOps services and exam strategy, with quizzes and practice sections to confirm readiness. Useful for engineers seeking a guided path from service fundamentals to exam-level scenarios and workflow application in ESI environments. Approximately 50 words.
 
 Access course via [Udemy](https://www.udemy.com/course/aif-c01-comprehensive-aws-certified-ai-practitioner-aif-c01-bootcamp/)
 
+---
+
 ### AWS Certified DevOps Engineer – Professional (DOP-C02)
 
-**Instructor**: Craig Arcuri
-**Duration**: 35.0 hours
+**Instructor**: Craig Arcuri  
+**Duration**: 35 hours  
 **Last Updated**: July 30, 2024
 
 Pluralsight’s certification path spans SDLC automation, IaC, monitoring, security/compliance, incident response, and resilient solutions. Short lessons, labs, and quizzes deepen service proficiency and exam domain mastery. Suited to engineers standardizing AWS delivery pipelines and reliability patterns used in ESI’s software development lifecycle. Approximately 50 words.
@@ -59,18 +63,3 @@ After you've completed the courses, you can test your knowledge with the followi
 ## Earn Your Certification
 
 Once you're ready to earn your certificate, follow the instructions on the [Training Resources](https://academy.essential-soft.ai/training-resources) page to earn and register your certification with ESI.
-
-QC Checklist (Quality Check Before Finalizing)
-
-* Confirm the Module Title matches the pre-approved version and is ≤70 characters.
-* Verify Difficulty is correctly assigned (Beginner, Intermediate, Advanced, Expert).
-* Ensure Topics are selected from the approved list and multiple topics are applied if needed.
-* Review the Module Overview: ≤100 words, clear, relevant, and role/ESI-linked.
-* Check Learning Objectives: 3–5 items, start with action verbs, derived if not provided.
-* Confirm Instructor is listed (name only; credentials included only if provided).
-* Check Duration formatting: Xm (under 1h), Xh Ym (mixed), Xh (exact hours).
-* Verify Last Updated field: matches provided date, or defaults to current year if missing.
-* Ensure Course Description is rewritten to <50 words and is clear and concise.
-* Confirm Training Platform is consistent (AWS Skillbuilder, Udemy, Pluralsight).
-* Look for any 'Investigate' placeholders and follow up to resolve them.
-* Double-check tone: clear, motivating, active voice, ~9th–10th grade reading level.
