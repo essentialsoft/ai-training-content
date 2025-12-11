@@ -117,7 +117,7 @@
     "color": "from-purple-500 to-blue-500",
     "difficulty": "Beginner",
     "topics": ["Fundamentals", "Documentation", "Workflow"],
-    "module_path": "/content/aws_ai_practitioner"
+    "module_path": "/content/aws-ai-practitioner"
   },
   {
     "id": 29,
