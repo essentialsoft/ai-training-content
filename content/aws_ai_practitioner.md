@@ -6,7 +6,7 @@
 
 ## Module Overview
 
-This module guides learners through the core concepts and AWS services needed for the AWS Certified AI Practitioner (AIF-C01) certification. The courses cover foundational AI/ML theory, generative AI with AWS, prompt engineering, and practical hands-on labs using services like Amazon SageMaker and Amazon Bedrock. This knowledge supports ESI’s AI-powered software development cycle — from idea and prototyping to deployment and maintenance.
+This module guides learners through the core concepts and AWS services needed for the AWS Certified AI Practitioner (AIF-C01) certification. The courses cover foundational AI/ML theory, generative AI with AWS, prompt engineering, and practical hands-on labs using services like Amazon SageMaker and Amazon Bedrock. This knowledge supports ESI's AI-powered software development cycle (â€”) from idea and prototyping to deployment and maintenance.
 
 ## Learning Objectives
 
@@ -24,7 +24,7 @@ This module guides learners through the core concepts and AWS services needed fo
 **Duration**: 10.2 hours ([Udemy][1])
 **Last Updated**: November 2025 ([Udemy][1])
 
-This course introduces AI/ML fundamentals, generative AI with Amazon Bedrock, prompt engineering, and AWS’s AI services including Amazon Q, SageMaker, and more. It combines conceptual teaching with hands-on labs and quizzes, ideal for beginners aiming to pass AIF-C01 while gaining practical AWS AI experience. ([Udemy][1])
+This course introduces AI/ML fundamentals, generative AI with Amazon Bedrock, prompt engineering, and AWS's AI services including Amazon Q, SageMaker, and more. It combines conceptual teaching with hands-on labs and quizzes, ideal for beginners aiming to pass AIF-C01 while gaining practical AWS AI experience. ([Udemy][1])
 
 Access course via [Udemy](https://www.udemy.com/course/aws-ai-practitioner-certified/)
 
@@ -49,13 +49,13 @@ Access course via [AWS Skill Builder](https://skillbuilder.aws/learning-plan/3NR
 
 ---
 
-### AWS Certified AI Practitioner (AIF-C01) – Pluralsight Path
+### AWS Certified AI Practitioner (AIF-C01) (-) Pluralsight Path
 
 **Instructor**: Michael Cassidy, Noreen Hasan, Chris Jackson ([Pluralsight][6])
 **Duration**: 7 hours ([Pluralsight][6])
 **Last Updated**: January 7, 2025 ([Pluralsight][6])
 
-This Pluralsight certification path combines six focused courses and a practice exam to cover all AIF-C01 domains: AI/ML fundamentals, generative AI, foundation model applications, responsible AI, and security, compliance, and governance. It’s well suited to ESI technical and non-technical staff who prefer modular, video-based learning with clear objectives and exam tips. ([Pluralsight][6])
+This Pluralsight certification path combines six focused courses and a practice exam to cover all AIF-C01 domains: AI/ML fundamentals, generative AI, foundation model applications, responsible AI, and security, compliance, and governance. It's well suited to ESI technical and non-technical staff who prefer modular, video-based learning with clear objectives and exam tips. ([Pluralsight][6])
 
 Access course via [Pluralsight](https://www.pluralsight.com/paths/aws-certified-ai-practitioner-aif-c01)
 
