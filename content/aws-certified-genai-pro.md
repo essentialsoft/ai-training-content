@@ -1,4 +1,4 @@
-# AWS Certified Generative AI Developer - Professional Preparation
+# AWS Generative AI Developer Certification Preparation
 
 **Difficulty** : Advanced
 
