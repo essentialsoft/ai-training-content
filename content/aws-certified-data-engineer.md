@@ -1,4 +1,4 @@
-# AWS Data Engineering Certification Preparation
+# AWS Data Engineer Associate Certification Preparation
 
 **Difficulty** : Intermediate
 
