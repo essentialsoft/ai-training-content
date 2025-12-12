@@ -1,4 +1,4 @@
-# AWS Solutions Architect Associate Certification Preparation
+# AWS Solutions Architect Certification Preparation
 
 **Difficulty** : Intermediate
 
