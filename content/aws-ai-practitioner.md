@@ -1,4 +1,4 @@
-# AWS Certified AI Practitioner Preparation
+# AWS AI Practitioner Certification Preparation
 
 **Difficulty** : Beginner
 
