@@ -20,10 +20,8 @@ This module provides a targeted pathway to prepare for the AWS Certified Solutio
 
 ### Ultimate AWS Certified Solutions Architect Associate 2025
 
-**Instructor**: Stephane Maarek
-
-**Duration**: 27 hours
-
+**Instructor**: Stephane Maarek  
+**Duration**: 27 hours  
 **Last Updated**: November 2025 
 
 This course is designed for those seeking to pass the SAA-C03 certification and gain real-world AWS architecture experience. It covers AWS fundamentals (EC2, S3, RDS), serverless patterns (Lambda, DynamoDB, API Gateway), containers, security practices, well-architected framework, and hands-on labs. It’s a logical step for ESI team members building cloud design skills and aligning with our AI-powered workflows.
@@ -32,10 +30,8 @@ Access course via [Udemy](https://www.udemy.com/course/aws-certified-solutions-a
 
 ### AWS Solutions Architect Learning Plan (includes labs)
 
-**Provided by**: AWS Skill Builder
-
-**Duration**: 66 hours
-
+**Provided by**: AWS Skill Builder  
+**Duration**: 66 hours  
 **Last Updated**: October 2025
 
 This curated learning plan includes guided hands-on labs and real-world AWS scenarios that reinforce architectural understanding. It complements the Udemy course by providing practical, sandboxed environments where ESI team members can build and test cloud architectures without infrastructure risk. 
@@ -53,20 +49,3 @@ After you’ve completed the courses, you can test your knowledge with the follo
 ## Earn Your Certification
 
 Once you’re ready to earn your certificate, follow the instructions on the [Training Resources](https://academy.essential-soft.ai/training-resources) page to earn and register your certification with ESI.
-
----
-
-## QC Checklist (Quality Check Before Finalizing)
-
-* [ ] Confirm the Module Title matches the pre-approved version and is ≤70 characters.
-* [ ] Verify Difficulty is correctly assigned (Beginner, Intermediate, Advanced, Expert).
-* [ ] Ensure Topics are selected from the approved list and multiple topics are applied if needed.
-* [ ] Review the Module Overview: ≤100 words, clear, relevant, and role/ESI-linked.
-* [ ] Check Learning Objectives: 3–5 items, start with action verbs, derived if not provided.
-* [ ] Confirm Instructor is listed (name only; credentials included only if provided).
-* [ ] Check Duration formatting: Xm (under 1h), Xh Ym (mixed), Xh (exact hours).
-* [ ] Verify Last Updated field: matches provided date, or defaults to current year if missing.
-* [ ] Ensure Course Description is rewritten to <50 words and is clear and concise.
-* [ ] Confirm Training Platform is consistent (AWS Skillbuilder, Udemy, Pluralsight).
-* [ ] Look for any 'Investigate' placeholders and follow up to resolve them.
-* [ ] Double-check tone: clear, motivating, active voice, ~9th–10th grade reading level.
