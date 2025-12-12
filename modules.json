@@ -1,7 +1,7 @@
 [
   {
     "id": 22,
-    "title": "AWS DevOps Engineer Professional Certification Prep",
+    "title": "AWS DevOps Engineer Professional Certification Preparation",
     "description": "Prepare for the AWS Certified DevOps Engineer exam with these courses and practice exam.",
     "icon": "Trophy",
     "color": "from-blue-500 to-cyan-500",
@@ -9,10 +9,50 @@
     "topics": ["Workflow", "Testing", "Documentation"],
     "module_path": "/content/aws-devops-certificate"
   },
+    {
+    "id": 26,
+    "title": "AWS Data Engineer Associate Certification Preparation",
+    "description": "This module provides a targeted pathway to prepare for the AWS Certified Data Engineer – Associate certification (DEA-C01).",
+    "icon": "Trophy",
+    "color": "from-purple-500 to-blue-500",
+    "difficulty": "Intermediate",
+    "topics": ["Fundamentals", "Workflow"],
+    "module_path": "/content/aws-certified-data-engineer"
+  },
+  {
+    "id": 27,
+    "title": "AWS Solutions Architect Certification Preparation",
+    "description": "This module prepares you for the AWS Certified Solutions Architect – Associate (SAA‑C03) certification.",
+    "icon": "Trophy",
+    "color": "from-purple-500 to-blue-500",
+    "difficulty": "Intermediate",
+    "topics": ["Fundamentals", "Documentation", "Workflow"],
+    "module_path": "/content/aws-certified-solutions-architect"
+  },
+  {
+    "id": 28,
+    "title": "AWS AI Practioner Certification Preparation",
+    "description": "This module guides learners through the core concepts and AWS services needed for the AWS Certified AI Practitioner (AIF-C01) certification.",
+    "icon": "Trophy",
+    "color": "from-purple-500 to-blue-500",
+    "difficulty": "Beginner",
+    "topics": ["Fundamentals", "Documentation", "Workflow"],
+    "module_path": "/content/aws-ai-practitioner"
+  },
+  {
+    "id": 29,
+    "title": "AWS Generative AI Developer Certification Preparation",
+    "description": "This module prepares experienced cloud developers and technical leads for the AWS Certified Generative AI Developer – Professional (AIP-C01) exam.",
+    "icon": "Trophy",
+    "color": "from-purple-500 to-blue-500",
+    "difficulty": "Beginner",
+    "topics": ["Fundamentals", "Documentation", "Workflow"],
+    "module_path": "/content/aws-certified-genai-pro"
+  },
   {
     "id": 1,
     "title": "Generative AI Fundamentals for Developers",
-    "description": "Master transformers, diffusion models, and why they matter in everyday coding",
+    "description": "Master transformers, diffusion models, and why they matter in everyday coding.",
     "icon": "BookOpen",
     "color": "from-blue-500 to-cyan-500",
     "difficulty": "Beginner",
@@ -43,7 +83,7 @@
     "id": 21,
     "title": "Generative AI in AWS",
     "description": "Build Generative AI Systems with AWS: An Introduction to Bedrock, AgentCore, SageMaker and more",
-    "icon": "Trophy",
+    "icon": "ZapIcon",
     "color": "from-gold-500 to-yellow-500 via-amber-500",
     "difficulty": "Intermediate",
     "topics": ["AI Frameworks", "AI Tools", "Agents", "Bedrock", "AgentCore", "Workflow", "SageMaker", "Machine Learning", "Fundamentals"],
@@ -63,7 +103,7 @@
     "id": 20,
     "title": "Model Context Protocol (MCP)",
     "description": "MCP Deep Dive, workflows, and secure integration for AI agents.",
-    "icon": "Trophy",
+    "icon": "ZapIcon",
     "color": "from-gold-500 to-yellow-500 via-amber-500",
     "difficulty": "Intermediate",
     "topics": ["AI Frameworks", "AI Tools", "Agents", "MCP", "Protocol", "Workflow"],
@@ -89,44 +129,4 @@
     "topics": ["AI Frameworks","AI Safety","AI Tools", "AI in Software Development","Agents", "RAG", "Testing", "Workflow"],
     "module_path": "/content/introduction-to-llm-engineering"
   },
-  {
-    "id": 26,
-    "title": "AWS Certified Data Engineer Associate",
-    "description": "This module provides a targeted pathway to prepare for the AWS Certified Data Engineer – Associate certification (DEA-C01).",
-    "icon": "ZapIcon",
-    "color": "from-purple-500 to-blue-500",
-    "difficulty": "Intermediate",
-    "topics": ["Fundamentals", "Workflow"],
-    "module_path": "/content/aws-certified-data-engineer"
-  },
-  {
-    "id": 27,
-    "title": "AWS Certified Solutions Architect Associate",
-    "description": "This module prepares you for the AWS Certified Solutions Architect – Associate (SAA‑C03) certification.",
-    "icon": "ZapIcon",
-    "color": "from-purple-500 to-blue-500",
-    "difficulty": "Intermediate",
-    "topics": ["Fundamentals", "Documentation", "Workflow"],
-    "module_path": "/content/aws-certified-solutions-architect"
-  },
-  {
-    "id": 28,
-    "title": "AWS Certified AI Practioner",
-    "description": "This module guides learners through the core concepts and AWS services needed for the AWS Certified AI Practitioner (AIF-C01) certification.",
-    "icon": "ZapIcon",
-    "color": "from-purple-500 to-blue-500",
-    "difficulty": "Beginner",
-    "topics": ["Fundamentals", "Documentation", "Workflow"],
-    "module_path": "/content/aws-ai-practitioner"
-  },
-  {
-    "id": 29,
-    "title": "AWS Certified Generative AI Developer – Professional",
-    "description": "This module prepares experienced cloud developers and technical leads for the AWS Certified Generative AI Developer – Professional (AIP-C01) exam.",
-    "icon": "ZapIcon",
-    "color": "from-purple-500 to-blue-500",
-    "difficulty": "Beginner",
-    "topics": ["Fundamentals", "Documentation", "Workflow"],
-    "module_path": "/content/aws-certified-genai-pro"
-  }
 ]
