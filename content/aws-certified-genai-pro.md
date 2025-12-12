@@ -1,4 +1,4 @@
-# AWS Generative AI Developer - Professional Training Module
+# AWS Certified Generative AI Developer - Professional Preparation
 
 **Difficulty** : Advanced
 
@@ -20,20 +20,17 @@ This module prepares experienced cloud developers and technical leads for the AW
 
 ### Ultimate AWS Certified Generative AI Developer Professional
 
-**Instructor**: Frank Kane; Stephane Maarek, AWS Certified Cloud Practitioner, Solutions Architect, Developer ([Udemy][1])
-**Duration**: 22.0 hours ([Udemy][1])
-**Last Updated**: December 9, 2025 ([Udemy][1])
+**Instructor**: Frank Kane; Stephane Maarek, AWS Certified Cloud Practitioner, Solutions Architect, Developer  
+**Duration**: 22 hours  
+**Last Updated**: December 9, 2025
 
-This comprehensive course provides end-to-end preparation for the AWS Certified Generative AI Developer (—) Professional exam. You'll build GenAI applications with Amazon Bedrock, SageMaker, and serverless tools; implement RAG architectures; orchestrate agentic workflows; and practice with quizzes and a full 75-question practice exam aligned to the official AWS exam guide. ([Udemy][1])
+This comprehensive course provides end-to-end preparation for the AWS Certified Generative AI Developer (—) Professional exam. You'll build GenAI applications with Amazon Bedrock, SageMaker, and serverless tools; implement RAG architectures; orchestrate agentic workflows; and practice with quizzes and a full 75-question practice exam aligned to the official AWS exam guide.
 
 Access course via [Udemy](https://www.udemy.com/course/ultimate-aws-certified-generative-ai-developer-professional/)
 
----
+### Domain 1 Review: AWS Certified Generative AI Developer - Professional (AIP-C01)
 
-### Domain 1 Review: AWS Certified Generative AI Developer - Professional (AIP-C01) (English)
-
-**Instructor**: 
-**Duration**: self-paced
+**Duration**: Self-paced  
 **Last Updated**: December 10, 2025 
 
 This AWS Skill Builder module targets Domain 1 of the AIP-C01 exam, reinforcing concepts such as foundation model integration, data pipelines, governance, and compliance. It helps you connect high-level domain objectives to concrete AWS services and patterns, strengthening your understanding of core exam topics before advancing to deeper implementation and optimization work.
@@ -46,10 +43,8 @@ Don't have a license to access one of the training courses in the module? We hav
 
 ## Practice Exams
 
-After you've completed the courses, you can test your knowledge with the following free practice test via [AWS Skill Builder](https://skillbuilder.aws/learn/HSEKTD11NX/official-practice-question-set-aws-certified--generative-ai-developer--professional-aipc01--english/ZDANP82P4V). ([AWS Skill Builder])
+After you've completed the courses, you can test your knowledge with the following free practice test via [AWS Skill Builder](https://skillbuilder.aws/learn/HSEKTD11NX/official-practice-question-set-aws-certified--generative-ai-developer--professional-aipc01--english/ZDANP82P4V).
 
 ## Earn Your Certification
 
 Once you're ready to earn your certificate, follow the instructions on the [Training Resources]({{ESI_TRAINING_RESOURCE_URL}}) page to earn and register your certification with ESI.
-
-
