@@ -128,5 +128,5 @@
     "difficulty": "Advanced",
     "topics": ["AI Frameworks","AI Safety","AI Tools", "AI in Software Development","Agents", "RAG", "Testing", "Workflow"],
     "module_path": "/content/introduction-to-llm-engineering"
-  },
+  }
 ]
