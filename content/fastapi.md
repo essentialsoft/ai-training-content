@@ -1,0 +1,30 @@
+<!--  Module Title -->
+# FastAPI Backend APIs With Auth, Databases, And Deployment
+
+**Difficulty** : Intermediate
+
+**Topics** : Back End, Database, Framework, Testing, DevOps
+
+<!--  MODULE PAGE METADATA -->
+
+<!-- CONTENT -->
+
+## Module Overview
+This module teaches you to build production-ready REST APIs and a full stack app with FastAPI. You will cover routing, request/response validation, authentication and authorization, database design with relationships, and deployment practices. These skills support ESI engineers delivering reliable services by improving API consistency, testability, and operational readiness across build, review, and release workflows.
+
+## Learning Objectives
+- Explain FastAPI fundamentals, including routing, validation, and interactive API docs.
+- Apply authentication and authorization patterns using password hashing and JWT.
+- Build database-backed APIs with relationships using an ORM workflow.
+- Implement testing and debugging practices to improve API correctness and maintainability.
+- Deploy a FastAPI application to a live environment with production-ready settings.
+
+## Start the Course
+### FastAPI - The Complete Course 2026 (Beginner + Advanced)  
+**Instructor**: Eric Roby (Engineer; BS Computer Science; MS Quantitive Finance), Chad Darby (Oracle & IBM Java Certified; BS Computer Science)  
+**Duration**: 21.5 hours  
+**Last Updated**: Investigate
+
+Learn FastAPI end to end by building REST APIs and a full stack application. You’ll cover core FastAPI features, request handling, validation, and docs, then add authentication with bcrypt and JWT. The course includes database modeling and relationships, plus practical deployment steps so you can ship production-ready APIs.
+
+Access course via [Udemy](https://www.udemy.com/course/fastapi-the-complete-course/)  

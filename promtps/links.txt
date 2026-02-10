@@ -1,0 +1,60 @@
+Web development 
+https://www.udemy.com/course/the-complete-web-development-bootcamp/ 
+
+claudecode
+https://www.udemy.com/course/claudecode/
+
+frontend 
+React 
+https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+Next.js
+https://www.udemy.com/course/nextjs-react-the-complete-guide/
+
+Mui
+https://www.udemy.com/course/mastering-mui-component-customization/ 
+Tailwind
+https://www.udemy.com/course/tailwind-css-the-beginner-guide/ 
+
+
+Backend
+JAVA
+https://www.udemy.com/course/java-the-complete-java-developer-course/
+python
+https://www.udemy.com/course/100-days-of-code/
+typescript
+https://www.udemy.com/course/understanding-typescript/ 
+
+
+FastAPI
+https://www.udemy.com/course/fastapi-the-complete-course/ 
+
+Spring frame
+https://www.udemy.com/course/spring-5-with-spring-boot-2/
+
+
+GraphQL + JAVA
+https://www.udemy.com/course/graphql-with-java-spring-boot-query-mutation-schema-resolver-edge-jpa/
+GraphQL + React
+https://www.udemy.com/course/graphql-with-react-course/
+Graph database Cypher
+https://www.udemy.com/course/neo4j-foundations/ , https://www.udemy.com/course/elasticsearch-complete-guide/ , https://www.udemy.com/course/awsdatabase/
+
+
+
+AWS Databases Crash Course – RDS, Aurora & DynamoDB
+https://www.udemy.com/course/awsdatabase/
+
+Opensearch
+https://www.udemy.com/course/elasticsearch-complete-guide/ 
+
+Node.js
+https://www.udemy.com/course/nodejs-the-complete-guide/ 
+
+
+
+Software Architecture & Design
+https://www.udemy.com/course/solid-design/  ,  https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/ , https://www.udemy.com/course/mastering-system-design-from-basics-to-cracking-interviews/
+
+leadership
+https://www.udemy.com/course/practical-leadership/
+

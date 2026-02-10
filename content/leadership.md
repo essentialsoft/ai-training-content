@@ -1,0 +1,31 @@
+<!--  Module Title -->
+# Practical Leadership For Engineering Teams
+
+**Difficulty** :  Beginner
+
+**Topics** : System Design
+
+<!--  MODULE PAGE METADATA -->
+
+<!-- CONTENT -->
+
+## Module Overview
+This module builds practical leadership skills for team leads and managers who guide delivery work. You’ll learn how to motivate people, choose the right leadership style, delegate effectively, and plan ahead while maintaining a healthy work-life balance. These skills strengthen ESI execution by improving team communication, ownership, and decision-making during planning, implementation, and review.
+
+## Learning Objectives
+- Identify core leadership behaviors that improve team effectiveness and trust.
+- Explain common leadership and motivation theories and apply them in daily management.
+- Apply delegation techniques to increase ownership while maintaining appropriate oversight.
+- Evaluate leadership styles for different situations and adjust your approach accordingly.
+- Optimize team productivity by improving planning routines and communication habits.
+
+## Start the Course
+### Leadership: Practical Leadership Skills  
+**Instructor**: Chris Croft  
+**Duration**: 3.2 hours  
+**Last Updated**: Investigate
+
+Learn practical leadership techniques for managing and motivating teams. The course covers what makes an effective leader, communication habits, motivation frameworks, and leadership style choices. You’ll practice delegation methods, balancing control with empowerment, and routines for planning ahead. Finish with tools you can apply immediately in real workplace situations.
+
+Access course via [Udemy](https://www.udemy.com/course/practical-leadership/)  
+
