@@ -10,16 +10,6 @@
     "module_path": "/content/ai-coding-lessons-learned"
   },
   {
-    "id": 31,
-    "title": "How to Develop RAG Ecosystems for Production and Evals for Everyone",
-    "description": "This module explores how to develop RAG ecosystems for production and the fundamentals of AI evaluations",
-    "icon": "BookOpen",
-    "color": "from-blue-500 to-cyan-500",
-    "difficulty": "Intermediate",
-    "topics": ["RAG", "Testing", "Fundamentals"],
-    "module_path": "/content/rag-and-eval"
-  },
-  {
     "id": 22,
     "title": "AWS DevOps Engineer Professional Certification Preparation",
     "description": "Prepare for the AWS Certified DevOps Engineer exam with these courses and practice exam.",
