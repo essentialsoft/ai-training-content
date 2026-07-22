@@ -50,11 +50,11 @@ Become productive with React and learn how to build scalable, component-based UI
 Build production-ready applications that balance UX, SEO, and performance. You’ll learn how Next.js and modern React patterns support routing, rendering strategies, and scalable structure, and you’ll integrate GraphQL where it fits your data needs. By the end, you should be able to plan an app’s architecture, implement key pages and flows, and optimize for real-world speed and maintainability.
 
 ### Expectations
-- Build a Next.js app with routing, layouts, and a clear project structure.
+- Build a web app with routing, layouts, and a clear project structure.
 - Choose an appropriate rendering/data-fetching approach for each page (based on UX and SEO needs).
 - Integrate a GraphQL API for real data needs and handle caching/loading/error states cleanly.
 - Apply performance fundamentals: avoid unnecessary re-renders, keep bundles reasonable, and measure improvements.
-- Produce a production-like app slice (auth optional) with at least one data-driven flow and deployable build output.
+- Produce a production-ready app slice (auth optional) with at least one data-driven flow and deployable build output.
 
 ### Recommended Courses
 - **Next.js and React – The Complete Guide**  
