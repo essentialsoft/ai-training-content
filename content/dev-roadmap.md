@@ -30,9 +30,9 @@ Become productive with React and learn how to build scalable, component-based UI
 - Build React features using functional components, hooks, and predictable data flow.
 - Structure components for reuse (props, composition) and maintainable UI architecture.
 - Manage state thoughtfully (local vs shared) and handle common UI states (loading, error, empty).
-- Implement consistent styling with Tailwind and understand when to customize MUI components.
+- Implement consistent styling and understand when to customize UI components.
 - Follow basic front-end quality practices: linting/formatting, readable component APIs, and simple testing where applicable.
-- Deliver a small React app with multiple screens/components that looks polished and is easy to extend.
+- Deliver a small app with multiple screens/components that looks polished and is easy to extend.
 
 ### Recommended Courses
 - **React – The Complete Guide (incl. Redux)**  
@@ -47,7 +47,7 @@ Become productive with React and learn how to build scalable, component-based UI
 ## Level 3: Advanced Front-End and Full-Stack Integration (Advanced)
 
 ### Goal
-Build production-ready applications that balance UX, SEO, and performance. You’ll learn how Next.js and modern React patterns support routing, rendering strategies, and scalable structure, and you’ll integrate GraphQL where it fits your data needs. By the end, you should be able to plan an app’s architecture, implement key pages and flows, and optimize for real-world speed and maintainability.
+Build production-ready applications that balance UX, SEO, and performance. You’ll learn how react and modern React patterns support routing, rendering strategies, and scalable structure, and you’ll integrate GraphQL where it fits your data needs. By the end, you should be able to plan an app’s architecture, implement key pages and flows, and optimize for real-world speed and maintainability.
 
 ### Expectations
 - Build a web app with routing, layouts, and a clear project structure.
