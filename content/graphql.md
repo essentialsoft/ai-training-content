@@ -1,5 +1,5 @@
 <!--  Module Title -->
-# GraphQL Development With Spring Boot And React
+# GraphQL Development With Spring Boot and React
 
 **Difficulty** : Intermediate
 
@@ -20,6 +20,11 @@ This module teaches GraphQL across the stack, pairing a Spring Boot backend with
 - Evaluate when GraphQL fits better than REST for evolving product requirements.
 
 ## Start the Course
+
+### Request License
+
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources](https://academy.essential-soft.ai/training-resources) page to request a license.
+
 ### GraphQL API with Java Spring Boot & Spring Framework  
 **Instructor**: Infybuzz Learning  
 **Duration**: 5.2 hours  

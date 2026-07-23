@@ -1,5 +1,5 @@
 <!--  Module Title -->
-# Software Design Principles And Large-Scale System Architecture
+# Software Design Principles and Large-Scale System Architecture
 
 **Difficulty** :  Intermediate
 
@@ -20,6 +20,11 @@ This module strengthens core software design and system architecture skills used
 - Troubleshoot design decisions by identifying bottlenecks and improving robustness with patterns.
 
 ## Start the Course
+
+### Request License
+
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources](https://academy.essential-soft.ai/training-resources) page to request a license.
+
 ### SOLID Principles: Introducing Software Architecture & Design  
 **Instructor**: George Sonora  
 **Duration**: 2.1 hours  

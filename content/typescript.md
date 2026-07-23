@@ -1,5 +1,5 @@
 <!--  Module Title -->
-# TypeScript For Safer Frontend And Backend Development
+# TypeScript For Safer Frontend and Backend Development
 
 **Difficulty** : Beginner
 
@@ -20,6 +20,11 @@ This module helps engineers use TypeScript to write safer, more maintainable Jav
 - Troubleshoot common TypeScript errors and improve type safety during refactors.
 
 ## Start the Course
+
+### Request License
+
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources](https://academy.essential-soft.ai/training-resources) page to request a license.
+
 ### Understanding TypeScript  
 **Instructor**: Maximilian Schwarzmüller  
 **Duration**: 22.5 hours  

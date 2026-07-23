@@ -1,5 +1,5 @@
 <!--  Module Title -->
-# FastAPI Backend APIs With Auth, Databases, And Deployment
+# FastAPI Backend APIs With Auth, Databases, and Deployment
 
 **Difficulty** : Intermediate
 
@@ -20,6 +20,11 @@ This module teaches you to build production-ready REST APIs and a full stack app
 - Deploy a FastAPI application to a live environment with production-ready settings.
 
 ## Start the Course
+
+### Request License
+
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources](https://academy.essential-soft.ai/training-resources) page to request a license.
+
 ### FastAPI - The Complete Course 2026 (Beginner + Advanced)  
 **Instructor**: Eric Roby (Engineer; BS Computer Science; MS Quantitive Finance), Chad Darby (Oracle & IBM Java Certified; BS Computer Science)  
 **Duration**: 21.5 hours  

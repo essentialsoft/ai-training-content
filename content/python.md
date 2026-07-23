@@ -1,5 +1,5 @@
 <!--  Module Title -->
-# Python Project Bootcamp For Automation, Web Apps, And Data
+# Python Project Bootcamp For Automation, Web Apps, and Data
 
 **Difficulty** : Beginner
 
@@ -20,6 +20,11 @@ This module builds Python skills through daily, project-based practice. You will
 - Evaluate simple data analysis and visualization workflows to extract insights.
 
 ## Start the Course
+
+### Request License
+
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources](https://academy.essential-soft.ai/training-resources) page to request a license.
+
 ### 100 Days of Code™: The Complete Python Pro Bootcamp  
 **Instructor**: Dr. Angela Yu, Developer and Lead Instructor  
 **Duration**: 56.5 hours  

@@ -19,7 +19,7 @@ This module introduces Claude Code, Anthropic’s agentic AI coding assistant th
 
 ### Request License
 
-Don't have a license to access one of the training courses in the module? Please reach out to HR to request a license.
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources](https://academy.essential-soft.ai/training-resources) page to request a license.
 
 ### Claude Code Beginner Crash Course: Claude Code In a Day  
 **Instructor**: Eden Marco  
@@ -29,4 +29,3 @@ Don't have a license to access one of the training courses in the module? Please
 This course teaches developers how to use Claude Code for advanced coding workflows, including context engineering, multi-agent systems, and automation. It covers installing and managing Claude Code, creating custom commands, memory systems, integrating with GitHub, and building real development enhancements. Projects and hands-on labs focus on practical AI integration. :contentReference[oaicite:3]{index=3}
 
 Access course via [Udemy](https://www.udemy.com/course/claudecode/)
-

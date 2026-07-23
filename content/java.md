@@ -1,5 +1,5 @@
 <!--  Module Title -->
-# Java And Spring Boot Development For Production Backend Services
+# Java and Spring Boot Development for Production Backend Services
 
 **Difficulty** : Intermediate
 
@@ -16,10 +16,15 @@ This module builds end-to-end backend skills with Java and the Spring ecosystem.
 - Explain core Java concepts needed for professional backend development.
 - Apply object-oriented design and best practices to write maintainable Java code.
 - Build Spring Boot applications with REST APIs, dependency injection, and configuration.
-- Implement database access patterns with JDBC and Spring Data JPA.
+- Implement database access patterns with Java Database Connectivity (JDBC) and Spring Data JPA.
 - Troubleshoot common runtime and framework issues using logging, tests, and debugging.
 
 ## Start the Course
+
+### Request License
+
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources](https://academy.essential-soft.ai/training-resources) page to request a license.
+
 ### Java Masterclass 2025: 130+ Hours of Expert Lessons  
 **Instructor**: Tim Buchalka, Tim Buchalka's Learn Programming Academy, Edwin Einsen Vásquez Velásquez, Igor Popovic  
 **Duration**: 135.7 hours  

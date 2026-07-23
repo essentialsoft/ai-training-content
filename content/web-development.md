@@ -20,6 +20,11 @@ This module introduces end-to-end web development, from building responsive fron
 - Evaluate basic deployment and version control practices for team-based delivery.
 
 ## Start the Course
+
+### Request License
+
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources](https://academy.essential-soft.ai/training-resources) page to request a license.
+
 ### The Complete Full-Stack Web Development Bootcamp
 **Instructor**: Dr. Angela Yu, Developer and Lead Instructor  
 **Duration**: 61.9 hours  

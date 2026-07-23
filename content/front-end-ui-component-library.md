@@ -1,5 +1,5 @@
 <!--  Module Title -->
-# UI Styling With MUI Customization And Tailwind CSS
+# UI Styling With MUI Customization and Tailwind CSS
 
 **Difficulty** : Intermediate
 
@@ -19,6 +19,11 @@ This module builds practical UI styling skills using two popular approaches: MUI
 - Optimize UI development speed by standardizing patterns and reusable styling primitives.
 
 ## Start the Course
+
+### Request License
+
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources](https://academy.essential-soft.ai/training-resources) page to request a license.
+
 ### Mastering MUI (Material UI): Component Customization [2024]  
 **Instructor**: Mastering MUI, Zachary Reece  
 **Duration**: 25.3 hours  
@@ -36,6 +41,3 @@ Access course via [Udemy](https://www.udemy.com/course/mastering-mui-component-c
 Learn Tailwind CSS fundamentals through a hands-on React project. You’ll practice core utilities, flex/grid layouts, responsive design, states, dark mode, animations, and theme configuration with `tailwind.config`. The course ends with deployment, helping you ship a modern, responsive UI quickly and confidently using utility-first patterns.
 
 Access course via [Udemy](https://www.udemy.com/course/tailwind-css-the-beginner-guide/)  
-
-## Request a License
-Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit      our [Training Resources]({{ESI_TRAINING_RESOURCE_URL}}) page to request a license.

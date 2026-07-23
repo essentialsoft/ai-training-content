@@ -161,7 +161,7 @@
   },
   {
     "id": 33,
-    "title": "FastAPI Backend APIs With Auth, Databases, And Deployment",
+    "title": "FastAPI Backend APIs With Auth, Databases, and Deployment",
     "description": "Build production-ready REST APIs and full-stack applications with FastAPI, authentication, databases, testing, and deployment.",
     "icon": "BookOpen",
     "color": "from-green-500 to-emerald-500",
@@ -171,7 +171,7 @@
   },
   {
     "id": 34,
-    "title": "UI Styling With MUI Customization And Tailwind CSS",
+    "title": "UI Styling With MUI Customization and Tailwind CSS",
     "description": "Build practical UI styling skills with MUI's component-driven system and Tailwind's utility-first CSS.",
     "icon": "MousePointer",
     "color": "from-teal-500 to-cyan-500",
@@ -181,7 +181,7 @@
   },
   {
     "id": 35,
-    "title": "GraphQL Development With Spring Boot And React",
+    "title": "GraphQL Development With Spring Boot and React",
     "description": "Learn GraphQL schema design, queries, mutations, resolvers, and client-side data workflows with Spring Boot and React.",
     "icon": "BookOpen",
     "color": "from-purple-500 to-blue-500",
@@ -191,7 +191,7 @@
   },
   {
     "id": 36,
-    "title": "Java And Spring Boot Development For Production Backend Services",
+    "title": "Java and Spring Boot Development for Production Backend Services",
     "description": "Build end-to-end backend skills with core Java and the Spring ecosystem for secure, database-backed services.",
     "icon": "BookOpen",
     "color": "from-blue-500 to-cyan-500",
@@ -211,7 +211,7 @@
   },
   {
     "id": 38,
-    "title": "Node.js Backend Development With Express, REST, GraphQL, And Deno",
+    "title": "Node.js Backend Development With Express, REST, GraphQL, and Deno",
     "description": "Learn practical Node.js backend development from fundamentals through production patterns with Express, databases, GraphQL, and Deno.",
     "icon": "BookOpen",
     "color": "from-green-500 to-emerald-500",
@@ -221,7 +221,7 @@
   },
   {
     "id": 39,
-    "title": "Python Project Bootcamp For Automation, Web Apps, And Data",
+    "title": "Python Project Bootcamp For Automation, Web Apps, and Data",
     "description": "Build Python skills through project-based practice in automation, web applications, APIs, and data workflows.",
     "icon": "BookOpen",
     "color": "from-blue-500 to-cyan-500",
@@ -231,7 +231,7 @@
   },
   {
     "id": 40,
-    "title": "React And Next.js Fullstack Development With Redux",
+    "title": "React and Next.js Fullstack Development With Redux",
     "description": "Build modern React and Next.js applications with routing, data fetching, full-stack rendering, and Redux state management.",
     "icon": "MousePointer",
     "color": "from-teal-500 to-cyan-500",
@@ -241,7 +241,7 @@
   },
   {
     "id": 41,
-    "title": "Software Design Principles And Large-Scale System Architecture",
+    "title": "Software Design Principles and Large-Scale System Architecture",
     "description": "Learn SOLID principles, architecture requirements, API design, and scalable system patterns for maintainable software.",
     "icon": "BookOpen",
     "color": "from-purple-500 to-blue-500",
@@ -251,7 +251,7 @@
   },
   {
     "id": 42,
-    "title": "TypeScript For Safer Frontend And Backend Development",
+    "title": "TypeScript For Safer Frontend and Backend Development",
     "description": "Use TypeScript's core and advanced type features to write safer, more maintainable frontend and backend code.",
     "icon": "BookOpen",
     "color": "from-blue-500 to-cyan-500",

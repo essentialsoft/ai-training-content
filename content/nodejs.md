@@ -1,5 +1,5 @@
 <!--  Module Title -->
-# Node.js Backend Development With Express, REST, GraphQL, And Deno
+# Node.js Backend Development With Express, REST, GraphQL, and Deno
 
 **Difficulty** : Intermediate
 
@@ -20,6 +20,11 @@ This module teaches practical Node.js backend development from fundamentals thro
 - Troubleshoot and improve backend quality using debugging, testing, and deployment practices.
 
 ## Start the Course
+
+### Request License
+
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources](https://academy.essential-soft.ai/training-resources) page to request a license.
+
 ### NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)  
 **Instructor**: Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller  
 **Duration**: 40.5 hours  

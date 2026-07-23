@@ -1,5 +1,5 @@
 <!--  Module Title -->
-# React And Next.js Fullstack Development With Redux
+# React and Next.js Fullstack Development With Redux
 
 **Difficulty** : Intermediate
 
@@ -20,6 +20,11 @@ This module builds practical skills for modern React and Next.js development, fr
 - Evaluate testing approaches to improve confidence in React code changes.
 
 ## Start the Course
+
+### Request License
+
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources](https://academy.essential-soft.ai/training-resources) page to request a license.
+
 ### React - The Complete Guide (incl. Next.js, Redux)  
 **Instructor**: Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller  
 **Duration**: 71.4 hours  

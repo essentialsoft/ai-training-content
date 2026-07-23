@@ -20,6 +20,11 @@ This module builds practical skills for choosing and operating modern data store
 - Evaluate tradeoffs in performance, consistency, and operational complexity across data options.
 
 ## Start the Course
+
+### Request License
+
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources](https://academy.essential-soft.ai/training-resources) page to request a license.
+
 ### Neo4j: GraphDB Foundations with Cypher  
 **Instructor**: Louis Sayers  
 **Duration**: 4.8 hours  
@@ -46,4 +51,3 @@ Access course via [Udemy](https://www.udemy.com/course/elasticsearch-complete-gu
 Build hands-on AWS database skills across relational and NoSQL services. You’ll learn core concepts, then configure RDS and Aurora for availability, backups, encryption, replicas, and global options. You’ll also create DynamoDB tables, indexes, and capacity settings. Quizzes and demos reinforce operational patterns for production-ready cloud databases.
 
 Access course via [Udemy](https://www.udemy.com/course/awsdatabase/)  
-
