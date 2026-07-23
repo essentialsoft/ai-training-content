@@ -3,7 +3,7 @@
 
 **Difficulty** : Beginner
 
-**Topics** : Front End
+**Topics** : Frontend
 
 <!--  MODULE PAGE METADATA -->
 
@@ -23,9 +23,8 @@ This module helps engineers use TypeScript to write safer, more maintainable Jav
 ### Understanding TypeScript  
 **Instructor**: Maximilian Schwarzmüller  
 **Duration**: 22.5 hours  
-**Last Updated**: Investigate
+**Last Updated**: April 2026
 
 Learn TypeScript from fundamentals to advanced patterns, including classes, interfaces, generics, and derived types. You’ll configure the compiler, practice type narrowing, and use modern features like `infer` and `as const`. The course also shows how to apply TypeScript with React or Node/Express for real projects.
 
 Access course via [Udemy](https://www.udemy.com/course/understanding-typescript/)  
-

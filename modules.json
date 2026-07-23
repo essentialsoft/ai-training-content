@@ -128,5 +128,145 @@
     "difficulty": "Advanced",
     "topics": ["AI Frameworks","AI Safety","AI Tools", "AI in Software Development","Agents", "RAG", "Testing", "Workflow"],
     "module_path": "/content/introduction-to-llm-engineering"
+  },
+  {
+    "id": 30,
+    "title": "Claude Code: Agentic AI for Developer Workflows",
+    "description": "Learn to use Claude Code for context-aware code generation, multi-agent workflows, automation, GitHub integration, and command-line AI tooling.",
+    "icon": "ZapIcon",
+    "color": "from-purple-500 to-blue-500",
+    "difficulty": "Intermediate",
+    "topics": ["Backend", "DevOps"],
+    "module_path": "/content/claude-code"
+  },
+  {
+    "id": 31,
+    "title": "Modern Databases: Neo4j, Elasticsearch, and AWS Managed Services",
+    "description": "Build practical skills for choosing and operating graph, search, relational, and NoSQL data stores.",
+    "icon": "BookOpen",
+    "color": "from-blue-500 to-cyan-500",
+    "difficulty": "Intermediate",
+    "topics": ["Backend", "Database", "System Design", "DevOps"],
+    "module_path": "/content/database"
+  },
+  {
+    "id": 32,
+    "title": "Front-End Developer Roadmap",
+    "description": "Follow a structured path from web development foundations through modern frontend frameworks and full-stack integration.",
+    "icon": "MousePointer",
+    "color": "from-teal-500 to-cyan-500",
+    "difficulty": "Beginner",
+    "topics": ["Frontend", "Backend", "Workflow"],
+    "module_path": "/content/dev-roadmap"
+  },
+  {
+    "id": 33,
+    "title": "FastAPI Backend APIs With Auth, Databases, And Deployment",
+    "description": "Build production-ready REST APIs and full-stack applications with FastAPI, authentication, databases, testing, and deployment.",
+    "icon": "BookOpen",
+    "color": "from-green-500 to-emerald-500",
+    "difficulty": "Intermediate",
+    "topics": ["Backend", "Database", "Framework", "Testing", "DevOps"],
+    "module_path": "/content/fastapi"
+  },
+  {
+    "id": 34,
+    "title": "UI Styling With MUI Customization And Tailwind CSS",
+    "description": "Build practical UI styling skills with MUI's component-driven system and Tailwind's utility-first CSS.",
+    "icon": "MousePointer",
+    "color": "from-teal-500 to-cyan-500",
+    "difficulty": "Intermediate",
+    "topics": ["Frontend", "Framework"],
+    "module_path": "/content/front-end-ui-component-library"
+  },
+  {
+    "id": 35,
+    "title": "GraphQL Development With Spring Boot And React",
+    "description": "Learn GraphQL schema design, queries, mutations, resolvers, and client-side data workflows with Spring Boot and React.",
+    "icon": "BookOpen",
+    "color": "from-purple-500 to-blue-500",
+    "difficulty": "Intermediate",
+    "topics": ["Frontend", "Backend", "Database", "Framework"],
+    "module_path": "/content/graphql"
+  },
+  {
+    "id": 36,
+    "title": "Java And Spring Boot Development For Production Backend Services",
+    "description": "Build end-to-end backend skills with core Java and the Spring ecosystem for secure, database-backed services.",
+    "icon": "BookOpen",
+    "color": "from-blue-500 to-cyan-500",
+    "difficulty": "Intermediate",
+    "topics": ["Backend", "Database", "Framework", "Testing", "DevOps"],
+    "module_path": "/content/java"
+  },
+  {
+    "id": 37,
+    "title": "Practical Leadership For Engineering Teams",
+    "description": "Develop practical leadership skills for motivating teams, delegating effectively, planning ahead, and improving engineering delivery.",
+    "icon": "BookOpen",
+    "color": "from-purple-500 to-blue-500",
+    "difficulty": "Beginner",
+    "topics": ["System Design"],
+    "module_path": "/content/leadership"
+  },
+  {
+    "id": 38,
+    "title": "Node.js Backend Development With Express, REST, GraphQL, And Deno",
+    "description": "Learn practical Node.js backend development from fundamentals through production patterns with Express, databases, GraphQL, and Deno.",
+    "icon": "BookOpen",
+    "color": "from-green-500 to-emerald-500",
+    "difficulty": "Intermediate",
+    "topics": ["Backend", "Database", "Framework", "Testing", "DevOps"],
+    "module_path": "/content/nodejs"
+  },
+  {
+    "id": 39,
+    "title": "Python Project Bootcamp For Automation, Web Apps, And Data",
+    "description": "Build Python skills through project-based practice in automation, web applications, APIs, and data workflows.",
+    "icon": "BookOpen",
+    "color": "from-blue-500 to-cyan-500",
+    "difficulty": "Beginner",
+    "topics": ["Backend", "Database", "Framework"],
+    "module_path": "/content/python"
+  },
+  {
+    "id": 40,
+    "title": "React And Next.js Fullstack Development With Redux",
+    "description": "Build modern React and Next.js applications with routing, data fetching, full-stack rendering, and Redux state management.",
+    "icon": "MousePointer",
+    "color": "from-teal-500 to-cyan-500",
+    "difficulty": "Intermediate",
+    "topics": ["Frontend", "Backend", "Framework"],
+    "module_path": "/content/react"
+  },
+  {
+    "id": 41,
+    "title": "Software Design Principles And Large-Scale System Architecture",
+    "description": "Learn SOLID principles, architecture requirements, API design, and scalable system patterns for maintainable software.",
+    "icon": "BookOpen",
+    "color": "from-purple-500 to-blue-500",
+    "difficulty": "Intermediate",
+    "topics": ["System Design"],
+    "module_path": "/content/system-design"
+  },
+  {
+    "id": 42,
+    "title": "TypeScript For Safer Frontend And Backend Development",
+    "description": "Use TypeScript's core and advanced type features to write safer, more maintainable frontend and backend code.",
+    "icon": "BookOpen",
+    "color": "from-blue-500 to-cyan-500",
+    "difficulty": "Beginner",
+    "topics": ["Frontend"],
+    "module_path": "/content/typescript"
+  },
+  {
+    "id": 43,
+    "title": "Full-Stack Web Development Bootcamp Essentials",
+    "description": "Learn end-to-end web development by building responsive interfaces, backend APIs, and database-backed applications.",
+    "icon": "BookOpen",
+    "color": "from-green-500 to-emerald-500",
+    "difficulty": "Beginner",
+    "topics": ["Frontend", "Backend", "Database", "Framework"],
+    "module_path": "/content/web-development"
   }
 ]

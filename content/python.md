@@ -3,7 +3,7 @@
 
 **Difficulty** : Beginner
 
-**Topics** :  Back End, Database, Framework
+**Topics** :  Backend, Database, Framework
 
 <!--  MODULE PAGE METADATA -->
 
@@ -23,9 +23,8 @@ This module builds Python skills through daily, project-based practice. You will
 ### 100 Days of Code™: The Complete Python Pro Bootcamp  
 **Instructor**: Dr. Angela Yu, Developer and Lead Instructor  
 **Duration**: 56.5 hours  
-**Last Updated**: Investigate
+**Last Updated**: June 2026
 
 Build Python skills by completing 100 guided projects across automation, web development, games, APIs, and data workflows. You’ll learn modern tools like Flask, Selenium, Beautiful Soup, and common data libraries. By the end, you will have a portfolio of projects and practical experience writing Python for real development tasks.
 
 Access course via [Udemy](https://www.udemy.com/course/100-days-of-code/)  
-

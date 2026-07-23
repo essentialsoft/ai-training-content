@@ -3,7 +3,7 @@
 
 **Difficulty** : Intermediate
 
-**Topics** : Back End, Database, Framework, Testing, DevOps
+**Topics** : Backend, Database, Framework, Testing, DevOps
 
 <!--  MODULE PAGE METADATA -->
 
@@ -23,9 +23,8 @@ This module teaches practical Node.js backend development from fundamentals thro
 ### NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)  
 **Instructor**: Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller  
 **Duration**: 40.5 hours  
-**Last Updated**: Investigate
+**Last Updated**: April 2026
 
 Learn Node.js by building real apps and APIs, from fundamentals to advanced topics. You’ll work with Express, MVC, server-side rendering, REST, GraphQL, authentication, and common backend features like validation, file uploads, and payments. The course also covers SQL and MongoDB integrations, automated testing, deployment, TypeScript basics, and an introduction to Deno.
 
 Access course via [Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/)  
-

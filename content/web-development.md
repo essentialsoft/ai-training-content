@@ -3,7 +3,7 @@
 
 **Difficulty** : Beginner
 
-**Topics** : Front End, Back End, Database, Framework
+**Topics** : Frontend, Backend, Database, Framework
 
 <!--  MODULE PAGE METADATA -->
 
@@ -23,9 +23,8 @@ This module introduces end-to-end web development, from building responsive fron
 ### The Complete Full-Stack Web Development Bootcamp
 **Instructor**: Dr. Angela Yu, Developer and Lead Instructor  
 **Duration**: 61.9 hours  
-**Last Updated**: Investigate
+**Last Updated**: November 2025
 
 A comprehensive, project-based bootcamp for beginners and early-career developers. It covers HTML, CSS, JavaScript, React, Node.js, APIs, and PostgreSQL, plus modern tooling and best practices. Learners build portfolio-ready projects and gain the skills to design, build, and deploy full-stack web apps in real workflows.
 
 Access course via [Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/)  
-

@@ -3,7 +3,7 @@
 
 **Difficulty** : Intermediate
 
-**Topics** : Back End, Database, Framework, Testing, DevOps
+**Topics** : Backend, Database, Framework, Testing, DevOps
 
 <!--  MODULE PAGE METADATA -->
 
@@ -23,7 +23,7 @@ This module builds end-to-end backend skills with Java and the Spring ecosystem.
 ### Java Masterclass 2025: 130+ Hours of Expert Lessons  
 **Instructor**: Tim Buchalka, Tim Buchalka's Learn Programming Academy, Edwin Einsen Vásquez Velásquez, Igor Popovic  
 **Duration**: 135.7 hours  
-**Last Updated**: Investigate
+**Last Updated**: May 2026
 
 A comprehensive Java program for beginners through advanced learners. You’ll build strong fundamentals in syntax, OOP, and problem solving, then practice with extensive coding exercises and best practices. The course prepares you for Java developer roles and gives a solid base for moving into Spring, Android, and enterprise development.
 
@@ -32,7 +32,7 @@ Access course via [Udemy](https://www.udemy.com/course/java-the-complete-java-de
 ### Java Spring Framework, Spring Boot, Spring AI - Gen AI  
 **Instructor**: Navin Reddy, Telusko Edutech  
 **Duration**: 54.9 hours  
-**Last Updated**: Investigate
+**Last Updated**: April 2026
 
 Learn the Spring ecosystem by building real applications with Spring Boot. The course covers core Java refreshers, Spring IoC, MVC, REST APIs, Spring Data JPA, and Spring Security, plus Docker and microservices fundamentals. You’ll finish able to design and ship production-style Spring services with modern tooling and patterns.
 

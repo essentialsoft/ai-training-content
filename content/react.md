@@ -3,7 +3,7 @@
 
 **Difficulty** : Intermediate
 
-**Topics** : Front End, Back End, Framework
+**Topics** : Frontend, Backend, Framework
 
 <!--  MODULE PAGE METADATA -->
 
@@ -23,7 +23,7 @@ This module builds practical skills for modern React and Next.js development, fr
 ### React - The Complete Guide (incl. Next.js, Redux)  
 **Instructor**: Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller  
 **Duration**: 71.4 hours  
-**Last Updated**: Investigate
+**Last Updated**: January 2026
 
 Learn React from scratch through advanced patterns, including components, hooks, routing, and state management with Context and Redux. Build multiple apps, connect to backends, add authentication, and explore Next.js for fullstack React development. Finish with practical best practices and an introduction to unit testing.
 
@@ -32,9 +32,8 @@ Access course via [Udemy](https://www.udemy.com/course/react-the-complete-guide-
 ### Next.js & React - The Complete Guide  
 **Instructor**: Maximilian Schwarzmüller  
 **Duration**: 40.3 hours  
-**Last Updated**: Investigate
+**Last Updated**: January 2026
 
 Master Next.js by building fullstack React apps with both the App Router and Pages Router. Learn routing, rendering, data fetching, server actions, caching, and performance optimizations for SEO-ready apps. Practice with hands-on projects that mirror real production patterns and deployment considerations.
 
 Access course via [Udemy](https://www.udemy.com/course/nextjs-react-the-complete-guide/)  
-

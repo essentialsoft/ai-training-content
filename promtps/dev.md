@@ -16,8 +16,8 @@ Fields and constraints come from ESI's Module template:
 1. **Module Title** — ≤ 70 characters; Title Case; concise and specific.
 2. **Difficulty** — choose exactly one: Beginner | Intermediate | Advanced | Expert.
 3. **Topics** — choose only from this controlled list (include all that apply; do not invent new ones):
-   - Front End
-   - Back End 
+   - Frontend
+   - Backend 
    - Database 
    - Framework
    - System Design

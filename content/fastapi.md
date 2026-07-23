@@ -3,7 +3,7 @@
 
 **Difficulty** : Intermediate
 
-**Topics** : Back End, Database, Framework, Testing, DevOps
+**Topics** : Backend, Database, Framework, Testing, DevOps
 
 <!--  MODULE PAGE METADATA -->
 
@@ -23,7 +23,7 @@ This module teaches you to build production-ready REST APIs and a full stack app
 ### FastAPI - The Complete Course 2026 (Beginner + Advanced)  
 **Instructor**: Eric Roby (Engineer; BS Computer Science; MS Quantitive Finance), Chad Darby (Oracle & IBM Java Certified; BS Computer Science)  
 **Duration**: 21.5 hours  
-**Last Updated**: Investigate
+**Last Updated**: May 2026
 
 Learn FastAPI end to end by building REST APIs and a full stack application. You’ll cover core FastAPI features, request handling, validation, and docs, then add authentication with bcrypt and JWT. The course includes database modeling and relationships, plus practical deployment steps so you can ship production-ready APIs.
 

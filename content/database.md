@@ -1,9 +1,9 @@
 <!--  Module Title -->
-# Modern Databases: Neo4j, Elasticsearch, And AWS Managed Services
+# Modern Databases: Neo4j, Elasticsearch, and AWS Managed Services
 
 **Difficulty** : Intermediate
 
-**Topics** : Back End, Database, System Design, DevOps
+**Topics** : Backend, Database, System Design, DevOps
 
 <!--  MODULE PAGE METADATA -->
 
@@ -23,7 +23,7 @@ This module builds practical skills for choosing and operating modern data store
 ### Neo4j: GraphDB Foundations with Cypher  
 **Instructor**: Louis Sayers  
 **Duration**: 4.8 hours  
-**Last Updated**: Investigate
+**Last Updated**: June 2022
 
 Learn the essentials of graph databases using Neo4j and Cypher. You’ll install Neo4j, explore nodes and relationships, and write queries to retrieve insights from connected data. Practice creating, updating, and deleting graph data with guided exercises. Finish ready to model real domains and query them confidently.
 
@@ -32,7 +32,7 @@ Access course via [Udemy](https://www.udemy.com/course/neo4j-foundations/)
 ### Complete Guide to Elasticsearch  
 **Instructor**: Bo Andersen  
 **Duration**: 12.9 hours  
-**Last Updated**: Investigate
+**Last Updated**: January 2026
 
 Learn Elasticsearch from scratch with a developer-first focus. You’ll set up a cluster, index data, and write effective queries using common patterns and terminology. The course covers aggregations for analytics, text search fundamentals, and practical use cases like search engines and time-series style data. Finish able to build real Elasticsearch-backed features.
 
@@ -41,7 +41,7 @@ Access course via [Udemy](https://www.udemy.com/course/elasticsearch-complete-gu
 ### AWS Databases Crash Course – RDS, Aurora & DynamoDB  
 **Instructor**: Rick Crisci  
 **Duration**: 5.2 hours  
-**Last Updated**: Investigate
+**Last Updated**: June 2026
 
 Build hands-on AWS database skills across relational and NoSQL services. You’ll learn core concepts, then configure RDS and Aurora for availability, backups, encryption, replicas, and global options. You’ll also create DynamoDB tables, indexes, and capacity settings. Quizzes and demos reinforce operational patterns for production-ready cloud databases.
 

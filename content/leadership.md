@@ -23,9 +23,8 @@ This module builds practical leadership skills for team leads and managers who g
 ### Leadership: Practical Leadership Skills  
 **Instructor**: Chris Croft  
 **Duration**: 3.2 hours  
-**Last Updated**: Investigate
+**Last Updated**: November 2025
 
 Learn practical leadership techniques for managing and motivating teams. The course covers what makes an effective leader, communication habits, motivation frameworks, and leadership style choices. You’ll practice delegation methods, balancing control with empowerment, and routines for planning ahead. Finish with tools you can apply immediately in real workplace situations.
 
 Access course via [Udemy](https://www.udemy.com/course/practical-leadership/)  
-

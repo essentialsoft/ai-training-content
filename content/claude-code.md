@@ -3,7 +3,7 @@
 
 **Difficulty** : Intermediate
 
-**Topics** : Back End, DevOps
+**Topics** : Backend, DevOps
 
 ## Module Overview
 This module introduces Claude Code, Anthropic’s agentic AI coding assistant that integrates directly into development workflows. Learners will explore how to leverage Claude Code for context-aware code generation, multi-agent workflows, automation, GitHub integration, and command-line based AI tooling to accelerate software engineering tasks within ESI’s AI-powered development life cycle.
@@ -16,6 +16,11 @@ This module introduces Claude Code, Anthropic’s agentic AI coding assistant th
 - Optimize developer productivity through AI-driven debugging and refactoring.
 
 ## Start the Course
+
+### Request License
+
+Don't have a license to access one of the training courses in the module? Please reach out to HR to request a license.
+
 ### Claude Code Beginner Crash Course: Claude Code In a Day  
 **Instructor**: Eden Marco  
 **Duration**: 8.4 hours :contentReference[oaicite:1]{index=1}  
