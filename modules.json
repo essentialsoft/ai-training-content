@@ -151,7 +151,7 @@
   },
   {
     "id": 32,
-    "title": "Front-End Developer Roadmap",
+    "title": "Frontend Developer Roadmap",
     "description": "Follow a structured path from web development foundations through modern frontend frameworks and full-stack integration.",
     "icon": "MousePointer",
     "color": "from-teal-500 to-cyan-500",
@@ -201,12 +201,12 @@
   },
   {
     "id": 37,
-    "title": "Practical Leadership For Engineering Teams",
+    "title": "Practical Leadership for Engineering Teams",
     "description": "Develop practical leadership skills for motivating teams, delegating effectively, planning ahead, and improving engineering delivery.",
     "icon": "BookOpen",
     "color": "from-purple-500 to-blue-500",
     "difficulty": "Beginner",
-    "topics": ["System Design"],
+    "topics": ["Fundamentals"],
     "module_path": "/content/leadership"
   },
   {

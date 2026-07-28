@@ -14,7 +14,7 @@ This module teaches practical Node.js backend development from fundamentals thro
 
 ## Learning Objectives
 - Explain how Node.js works, including core modules, the event loop, and async patterns.
-- Build Express applications using MVC patterns, templating, and middleware pipelines.
+- Build Express applications using Model-View-Controller patterns, templating, and middleware pipelines.
 - Implement REST and GraphQL APIs with authentication, validation, and file uploads.
 - Apply database integrations with SQL and MongoDB to support real application features.
 - Troubleshoot and improve backend quality using debugging, testing, and deployment practices.
@@ -30,6 +30,6 @@ Don't have a license to access one of the training courses in the module? We hav
 **Duration**: 40.5 hours  
 **Last Updated**: April 2026
 
-Learn Node.js by building real apps and APIs, from fundamentals to advanced topics. You’ll work with Express, MVC, server-side rendering, REST, GraphQL, authentication, and common backend features like validation, file uploads, and payments. The course also covers SQL and MongoDB integrations, automated testing, deployment, TypeScript basics, and an introduction to Deno.
+Learn Node.js by building real apps and APIs, from fundamentals to advanced topics. You’ll work with Express, Model-View-Controller, server-side rendering, REST, GraphQL, authentication, and common backend features like validation, file uploads, and payments. The course also covers SQL and MongoDB integrations, automated testing, deployment, TypeScript basics, and an introduction to Deno.
 
 Access course via [Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/)  

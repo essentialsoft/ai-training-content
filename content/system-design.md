@@ -30,7 +30,7 @@ Don't have a license to access one of the training courses in the module? We hav
 **Duration**: 2.1 hours  
 **Last Updated**: June 2026
 
-Learn SOLID principles through clear explanations, real-world analogies, and code-focused walkthroughs. The course shows how SRP, OCP, LSP, ISP, and DIP improve readability, extensibility, and maintainability in object-oriented systems. You’ll practice spotting design issues and refactoring toward cleaner architecture-ready code.
+Learn SOLID principles through clear explanations, real-world analogies, and code-focused walkthroughs. The course shows how 5 principles improve readability, extensibility, and maintainability in object-oriented systems. You’ll practice spotting design issues and refactoring toward cleaner architecture-ready code.
 
 Access course via [Udemy](https://www.udemy.com/course/solid-design/)  
 

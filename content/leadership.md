@@ -1,9 +1,9 @@
 <!--  Module Title -->
-# Practical Leadership For Engineering Teams
+# Practical Leadership for Engineering Teams
 
 **Difficulty** :  Beginner
 
-**Topics** : System Design
+**Topics** : Fundamentals
 
 <!--  MODULE PAGE METADATA -->
 

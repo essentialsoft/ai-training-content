@@ -10,7 +10,7 @@
 <!-- CONTENT -->
 
 ## Module Overview
-This module builds end-to-end backend skills with Java and the Spring ecosystem. You’ll start with core Java and OOP fundamentals, then learn Spring Boot patterns for building secure, database-backed services. These skills support ESI delivery by improving code quality, testability, and service readiness across implementation, review, and release workflows.
+This module builds end-to-end backend skills with Java and the Spring ecosystem. You’ll start with core Java and Object-oriented Programming fundamentals, then learn Spring Boot patterns for building secure, database-backed services. These skills support ESI delivery by improving code quality, testability, and service readiness across implementation, review, and release workflows.
 
 ## Learning Objectives
 - Explain core Java concepts needed for professional backend development.
@@ -30,7 +30,7 @@ Don't have a license to access one of the training courses in the module? We hav
 **Duration**: 135.7 hours  
 **Last Updated**: May 2026
 
-A comprehensive Java program for beginners through advanced learners. You’ll build strong fundamentals in syntax, OOP, and problem solving, then practice with extensive coding exercises and best practices. The course prepares you for Java developer roles and gives a solid base for moving into Spring, Android, and enterprise development.
+A comprehensive Java program for beginners through advanced learners. You’ll build strong fundamentals in syntax, Object-oriented Programming, and problem solving, then practice with extensive coding exercises and best practices. The course prepares you for Java developer roles and gives a solid base for moving into Spring, Android, and enterprise development.
 
 Access course via [Udemy](https://www.udemy.com/course/java-the-complete-java-developer-course/)  
 
@@ -39,6 +39,6 @@ Access course via [Udemy](https://www.udemy.com/course/java-the-complete-java-de
 **Duration**: 54.9 hours  
 **Last Updated**: April 2026
 
-Learn the Spring ecosystem by building real applications with Spring Boot. The course covers core Java refreshers, Spring IoC, MVC, REST APIs, Spring Data JPA, and Spring Security, plus Docker and microservices fundamentals. You’ll finish able to design and ship production-style Spring services with modern tooling and patterns.
+Learn the Spring ecosystem by building real applications with Spring Boot. The course covers core Java refreshers, Spring IoC, Model-View-Controller, REST APIs, Spring Data JPA, and Spring Security, plus Docker and microservices fundamentals. You’ll finish able to design and ship production-style Spring services with modern tooling and patterns.
 
 Access course via [Udemy](https://www.udemy.com/course/spring-5-with-spring-boot-2/)  

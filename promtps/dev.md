@@ -23,6 +23,8 @@ Fields and constraints come from ESI's Module template:
    - System Design
    - Testing
    - DevOps
+   - Workflow
+   - Fundamentals
 4. **Module Overview** — ≤ 100 words; single paragraph; introduce the module and key concepts. Where relevant, note how the concept integrates with ESI's software development cycle or roles.
 5. **Learning Objectives** — 3–5 bullets; each should be one sentence starting with a strong action verb (e.g., Identify, Explain, Apply, Build, Evaluate, Optimize, Troubleshoot).
 6. **Courses** (1–3 entries). For each course from SOURCE_URL provided, include exactly:

@@ -14,8 +14,8 @@ This module teaches you to build production-ready REST APIs and a full stack app
 
 ## Learning Objectives
 - Explain FastAPI fundamentals, including routing, validation, and interactive API docs.
-- Apply authentication and authorization patterns using password hashing and JWT.
-- Build database-backed APIs with relationships using an ORM workflow.
+- Apply authentication and authorization patterns using password hashing and JSON Web Token.
+- Build database-backed APIs with relationships using an Object Relational Mapping workflow.
 - Implement testing and debugging practices to improve API correctness and maintainability.
 - Deploy a FastAPI application to a live environment with production-ready settings.
 
@@ -30,6 +30,6 @@ Don't have a license to access one of the training courses in the module? We hav
 **Duration**: 21.5 hours  
 **Last Updated**: May 2026
 
-Learn FastAPI end to end by building REST APIs and a full stack application. You’ll cover core FastAPI features, request handling, validation, and docs, then add authentication with bcrypt and JWT. The course includes database modeling and relationships, plus practical deployment steps so you can ship production-ready APIs.
+Learn FastAPI end to end by building REST APIs and a full stack application. You’ll cover core FastAPI features, request handling, validation, and docs, then add authentication with bcrypt and JSON Web Token. The course includes database modeling and relationships, plus practical deployment steps so you can ship production-ready APIs.
 
 Access course via [Udemy](https://www.udemy.com/course/fastapi-the-complete-course/)  
