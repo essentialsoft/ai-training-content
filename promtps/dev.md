@@ -95,6 +95,11 @@ Below is the template. You need to print the final output in a MARKDOWN FILE.
 - <Objective 5 (optional)>
 
 ## Start the Course
+
+## Request a License
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources] page to request a license.
+
+
 ### <Exact course title> 
 **Instructor**: <Full name and credentials if listed>  
 **Duration**: <NN minutes | H hours | self-paced>  
@@ -104,8 +109,7 @@ Below is the template. You need to print the final output in a MARKDOWN FILE.
 
 Access course via [<Platform Name>](<course URL>)  
 
-## Request a License
-Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources] page to request a license.
+
 
 ## QC Checklist (Quality Check Before Finalizing)
 
