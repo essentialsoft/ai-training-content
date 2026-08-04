@@ -23,9 +23,9 @@ Don't have a license to access one of the training courses in the module? We hav
 
 ### Claude Code Beginner Crash Course: Claude Code In a Day  
 **Instructor**: Eden Marco  
-**Duration**: 8.4 hours :contentReference[oaicite:1]{index=1}  
-**Last Updated**: February 2026 :contentReference[oaicite:2]{index=2}
+**Duration**: 8.4 hours  
+**Last Updated**: February 2026
 
-This course teaches developers how to use Claude Code for advanced coding workflows, including context engineering, multi-agent systems, and automation. It covers installing and managing Claude Code, creating custom commands, memory systems, integrating with GitHub, and building real development enhancements. Projects and hands-on labs focus on practical AI integration. :contentReference[oaicite:3]{index=3}
+This course teaches developers how to use Claude Code for advanced coding workflows, including context engineering, multi-agent systems, and automation. It covers installing and managing Claude Code, creating custom commands, memory systems, integrating with GitHub, and building real development enhancements. Projects and hands-on labs focus on practical AI integration.
 
 Access course via [Udemy](https://www.udemy.com/course/claudecode/)
