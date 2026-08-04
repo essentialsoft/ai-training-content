@@ -28,7 +28,7 @@ https://www.udemy.com/course/understanding-typescript/
 FastAPI
 https://www.udemy.com/course/fastapi-the-complete-course/ 
 
-Spring frame
+Spring Framework
 https://www.udemy.com/course/spring-5-with-spring-boot-2/
 
 
