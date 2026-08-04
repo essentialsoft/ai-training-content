@@ -7,7 +7,7 @@ Respond in a markdown file.
 
 ## INPUTS
 
-- **SOURCE_URL**: {{[https://www.udemy.com/course/practical-leadership/] }}
+- **SOURCE_URL**: {{https://www.udemy.com/course/practical-leadership/}}
 
 ## AUTHORITATIVE TEMPLATE & RULES (follow strictly)
 
