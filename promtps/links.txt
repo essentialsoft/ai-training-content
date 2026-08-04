@@ -10,7 +10,7 @@ https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 Next.js
 https://www.udemy.com/course/nextjs-react-the-complete-guide/
 
-Mui
+MUI
 https://www.udemy.com/course/mastering-mui-component-customization/ 
 Tailwind
 https://www.udemy.com/course/tailwind-css-the-beginner-guide/ 
