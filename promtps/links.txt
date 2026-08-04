@@ -44,7 +44,7 @@ https://www.udemy.com/course/neo4j-foundations/ , https://www.udemy.com/course/e
 AWS Databases Crash Course – RDS, Aurora & DynamoDB
 https://www.udemy.com/course/awsdatabase/
 
-Opensearch
+OpenSearch
 https://www.udemy.com/course/elasticsearch-complete-guide/ 
 
 Node.js
