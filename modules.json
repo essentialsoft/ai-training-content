@@ -156,8 +156,7 @@
     "icon": "MousePointer",
     "color": "from-teal-500 to-cyan-500",
     "difficulty": "Beginner",
-    "topics": ["Frontend", "Backend", "Workflow"],
-    "module_path": "/content/dev-roadmap"
+    "topics": ["Frontend", "Backend", "Workflow"]
   },
   {
     "id": 33,
