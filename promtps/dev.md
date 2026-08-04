@@ -96,8 +96,8 @@ Below is the template. You need to print the final output in a MARKDOWN FILE.
 
 ## Start the Course
 
-## Request a License
-Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources] page to request a license.
+### Request License
+Don't have a license to access one of the training courses in the module? We have limited enterprise licenses available for Udemy, Pluralsight, and Coursera. Visit our [Training Resources]({{ESI_TRAINING_RESOURCE_URL}}) page to request a license.
 
 
 ### <Exact course title> 
